@@ -1,6 +1,7 @@
-from selenium import webdriver
+import selenium
 from selenium.webdriver.support.ui import Select
 import time
+import sys
 
 class HyattHotel:
     def __init__(self):
@@ -25,7 +26,10 @@ def hotel_factory(browser,urls):
     for url in urls:
         newHotel = HyattHotel()
         newHotel.url = url
-        browser.get(newHotel.url)
+        try:
+            browser.get(newHotel.url)
+        except selenium.common.exceptions.WebDriverException:
+            break
 
         elements = browser.find_elements_by_class_name('address')
         address = ""
@@ -42,15 +46,15 @@ def hotel_factory(browser,urls):
     return hotels
 
 hyatt_category_page = 'https://www.hyatt.com/gp/en/awards/hyatt_category_display.jsp?_DARGS=/gp/en/awards/hyatt_category_display.jsp'
-prof = webdriver.FirefoxProfile(r'C:\Users\rjp00\AppData\Roaming\Mozilla\Firefox\Profiles\3y96a6tk.user')
+prof = selenium.webdriver.FirefoxProfile(r'C:\Users\rjp00\AppData\Roaming\Mozilla\Firefox\Profiles\3y96a6tk.user')
 
 
-browser = webdriver.Firefox(prof)
+browser = selenium.webdriver.Firefox(prof)
 browser.get(hyatt_category_page)
 select = Select(browser.find_element_by_tag_name('select'))
 category_levels = (len(select.options))
 
-for x in range(1,category_levels+1):
+for x in range(3,category_levels+1):
     browser.get(hyatt_category_page)
     select = Select(browser.find_element_by_tag_name('select'))
     select.select_by_value(str(x))
@@ -60,5 +64,9 @@ for x in range(1,category_levels+1):
     with open(str(x) + 'hyatt.txt', 'w') as f:
         for hotel in hotels:
             f.write(hotel.name + "\n")
-            f.write("\t" + hotel.address + "\n")
             f.write("\t" + hotel.url + "\n")
+            try:
+                f.write("\t" + str(hotel.address).encode(sys.stdout.encoding,errors='replace').decode('utf-8') + "\n")
+            except:
+                pass
+browser.quit()
