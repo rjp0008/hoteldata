@@ -2,15 +2,12 @@ import selenium
 from selenium.webdriver.support.ui import Select
 import time
 import sys
+from hotel import Hotel
 
-class HyattHotel:
+class HyattHotel(Hotel):
     def __init__(self):
-        self.url = ""
-        self.address = ""
-        self.name = ""
+        Hotel.__init__(self)
 
-    def __str__(self):
-        return self.url + " " + self.address
 
 def get_hotel_urls(browser):
     links = browser.find_elements_by_tag_name('a')
