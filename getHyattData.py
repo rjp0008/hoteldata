@@ -51,7 +51,7 @@ browser.get(hyatt_category_page)
 select = Select(browser.find_element_by_tag_name('select'))
 category_levels = (len(select.options))
 
-for x in range(3,category_levels+1):
+for x in range(1,category_levels+1):
     browser.get(hyatt_category_page)
     select = Select(browser.find_element_by_tag_name('select'))
     select.select_by_value(str(x))
