@@ -22,10 +22,11 @@ def getHotelInfo(link):
     if len(address) is 0:
         address = soup.select('p[itemprop="address"]')
     try:
-        hotel.address = address[0].getText()
+        hotel.address = address[0].getText().replace('\n','')
     except:
         pass
     hotel.name = soup.select('title')[0].getText()
+    hotel.update_from_google()
     hotels.append(hotel)
     with open('ihg.txt', 'a') as f:
         try:
@@ -38,6 +39,10 @@ def getHotelInfo(link):
             pass
         try:
             f.write("\t" + str(hotel.address).encode(sys.stdout.encoding,errors='replace').decode('utf-8').strip() + "\n")
+        except:
+            pass
+        try:
+            f.write("\t" + str(hotel.lat) + " " + str(hotel.lng) + "\n")
         except:
             pass
 

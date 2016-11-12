@@ -39,6 +39,7 @@ def hotel_factory(browser,urls):
         for item in elements:
             name = name + item.text + " "
         newHotel.name = name
+        newHotel.update_from_google()
         hotels.append(newHotel)
     return hotels
 
@@ -58,12 +59,16 @@ for x in range(1,category_levels+1):
     time.sleep(2)
     hotel_urls = get_hotel_urls(browser)
     hotels = hotel_factory(browser,hotel_urls)
-    with open(str(x) + 'hyatt.txt', 'w') as f:
+    with open('.\\data\\hyatt\\'+str(x)+'.txt', 'w') as f:
         for hotel in hotels:
             f.write(hotel.name + "\n")
             f.write("\t" + hotel.url + "\n")
             try:
                 f.write("\t" + str(hotel.address).encode(sys.stdout.encoding,errors='replace').decode('utf-8') + "\n")
+            except:
+                pass
+            try:
+                f.write("\t" + str(hotel.lat) + " " + str(hotel.lng) + "\n")
             except:
                 pass
 browser.quit()

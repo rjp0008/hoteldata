@@ -43,7 +43,7 @@ for x in range(0,15):
         except Exception as e:
             print(e)
             pass
-    with open(str(x) + 'marriott.txt', 'w') as f:
+    with open( '.\\data\\marriott\\'+str(x)+'.txt', 'w') as f:
         for hotel in hotels:
             f.write(hotel.name + "\n")
             f.write("\t" + hotel.url + "\n")
@@ -52,6 +52,6 @@ for x in range(0,15):
             except:
                 pass
             try:
-                f.write("\t" + (hotel.lat) + " " + hotel.lng + "\n")
+                f.write("\t" + str(hotel.lat) + " " + str(hotel.lng) + "\n")
             except:
                 pass

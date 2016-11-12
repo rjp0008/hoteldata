@@ -1,5 +1,6 @@
 import requests
 import json
+import apiKey
 
 class Hotel:
     def __init__(self):
@@ -16,10 +17,9 @@ class Hotel:
 
     def update_from_google(self):
         try:
-            res = requests.get('http://maps.google.com/maps/api/geocode/json?address=' + self.address)
+            res = requests.get('https://maps.google.com/maps/api/geocode/json?address=' + self.address + '&key=' + apiKey.key)
             res.raise_for_status()
             jsonObj = json.loads(res.text)
-            print(jsonObj.get('results'))
             self.lat = jsonObj.get('results')[0].get('geometry').get('location')['lat']
             self.lng = jsonObj.get('results')[0].get('geometry').get('location')['lng']
             return True
