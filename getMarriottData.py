@@ -38,6 +38,7 @@ for x in range(0,15):
                 newHotel.name = newUrlPage.select('span[itemprop=name]')[0].text
                 newHotel.address = newUrlPage.select('span[itemprop=streetAddress]')[0].text + " " + newUrlPage.select('span[itemprop=addressLocality]')[0].text
                 newHotel.url=url
+                newHotel.update_from_google()
                 hotels.append(newHotel)
         except Exception as e:
             print(e)
@@ -48,5 +49,9 @@ for x in range(0,15):
             f.write("\t" + hotel.url + "\n")
             try:
                 f.write("\t" + str(hotel.address).encode(sys.stdout.encoding, errors='replace').decode('utf-8') + "\n")
+            except:
+                pass
+            try:
+                f.write("\t" + (hotel.lat) + " " + hotel.lng + "\n")
             except:
                 pass
