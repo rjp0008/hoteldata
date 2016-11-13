@@ -22,7 +22,6 @@ for x in range(0,15):
     browser.get(marriottRewardList)
     select = Select(browser.find_element_by_id('category-tier'))
     select.select_by_index((x))
-    select
     browser.find_element_by_name("submit").click()
     time.sleep(5)
     soup = bs4.BeautifulSoup(browser.page_source)
