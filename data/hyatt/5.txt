@@ -1,0 +1,224 @@
+ANDAZ SCOTTSDALE RESORT & SPA 
+	https://scottsdale.andaz.hyatt.com/en/hotel/home.html
+	6114 N Scottsdale Road Scottsdale, Arizona, USA, 85253  
+	0 0
+Hyatt Regency Scottsdale Resort & Spa at Gainey Ranch 
+	https://scottsdale.regency.hyatt.com/en/hotel/home.html
+	7500 E. Doubletree Ranch Road Scottsdale, Arizona, USA, 85258  
+	0 0
+ANDAZ NAPA 
+	https://napa.andaz.hyatt.com/en/hotel/home.html
+	1450 First Street Napa, California, USA, 94559  
+	0 0
+ANDAZ SAN DIEGO 
+	https://sandiego.andaz.hyatt.com/en/hotel/home.html
+	600 F Street San Diego, California, USA, 92101  
+	0 0
+ANDAZ WEST HOLLYWOOD 
+	https://westhollywood.andaz.hyatt.com/en/hotel/home.html
+	8401 Sunset Boulevard West Hollywood, California, USA, 90069  
+	0 0
+GRAND HYATT SAN FRANCISCO 
+	https://sanfrancisco.grand.hyatt.com/en/hotel/home.html
+	345 Stockton Street San Francisco, California, USA, 94108  
+	0 0
+Hyatt Regency Huntington Beach Resort and Spa 
+	https://huntingtonbeach.regency.hyatt.com/en/hotel/home.html
+	21500 Pacific Coast Highway Huntington Beach, California, USA, 92648  
+	0 0
+Hyatt Regency Indian Wells Resort & Spa 
+	https://indianwells.regency.hyatt.com/en/hotel/home.html
+	44600 Indian Wells Lane Indian Wells, California, USA, 92210  
+	0 0
+Hyatt Regency San Francisco 
+	https://sanfrancisco.regency.hyatt.com/en/hotel/home.html
+	5 Embarcadero Center San Francisco, California, USA, 94111  
+	0 0
+MANCHESTER GRAND HYATT SAN DIEGO 
+	https://manchester.grand.hyatt.com/en/hotel/home.html
+	1 Market Place San Diego, California, USA, 92101  
+	0 0
+PARK HYATT AVIARA RESORT, GOLF CLUB & SPA 
+	https://aviara.park.hyatt.com/en/hotel/home.html
+	7100 Aviara Resort Drive Carlsbad, California, USA, 92011  
+	0 0
+PARK HYATT WASHINGTON 
+	https://washingtondc.park.hyatt.com/en/hotel/home.html
+	1201 24th Street, NW Washington, D.C., USA, 20037  
+	0 0
+Hyatt Regency Clearwater Beach Resort and Spa 
+	https://clearwaterbeach.regency.hyatt.com/en/hotel/home.html
+	301 South Gulfview Blvd Clearwater, Florida, USA, 33767  
+	0 0
+HYATT CENTRIC WAIKIKI BEACH 
+	https://waikikibeach.centric.hyatt.com/en/hotel/home.html
+	2255 Kuhio Avenue Honolulu, Hawaii, USA, 96815 TAT Number: TA-095-888-5888-01 
+	0 0
+Hyatt Regency Maui Resort and Spa 
+	https://maui.regency.hyatt.com/en/hotel/home.html
+	200 Nohea Kai Drive Lahaina, Hawaii, USA, 96761-1985 TAT Number: TA-161-564-6720-01 
+	0 0
+Hyatt Regency Waikiki Beach Resort and Spa 
+	https://waikiki.regency.hyatt.com/en/hotel/home.html
+	2424 Kalakaua Avenue Honolulu, Hawaii, USA, 96815-3289 TAT Number: TA-020-671-2832-01 
+	0 0
+HYATT CENTRIC THE LOOP CHICAGO 
+	https://theloopchicago.centric.hyatt.com/en/hotel/home.html
+	100 W. Monroe St. Chicago, Illinois, USA, 60603  
+	0 0
+Hyatt Chicago Magnificent Mile 
+	https://chicagomagnificentmile.hyatt.com/en/hotel/home.html
+	633 North Saint Clair Street Chicago, Illinois, USA, 60611  
+	0 0
+Hyatt Regency Chesapeake Bay Golf Resort, Spa and Marina 
+	https://chesapeakebay.regency.hyatt.com/en/hotel/home.html
+	100 Heron Blvd. at Route 50 Cambridge, Maryland, USA, 21613  
+	0 0
+Hyatt Regency Lake Tahoe Resort, Spa and Casino 
+	https://laketahoe.regency.hyatt.com/en/hotel/home.html
+	111 Country Club Drive Incline Village, Nevada, USA, 89451  
+	0 0
+Mandalay Bay 
+	https://mandalaybay.hyatt.com/en/hotel/home.html
+	3950 Las Vegas Blvd. South Las Vegas, Nevada, USA, 89119  
+	0 0
+The Mirage 
+	https://mirage.hyatt.com/en/hotel/home.html
+	3400 Las Vegas Blvd South Las Vegas, Nevada, USA, 89109  
+	0 0
+The Signature at MGM Grand 
+	https://thesignature.hyatt.com/en/hotel/home.html
+	145 E Harmon Ave Las Vegas, Nevada, USA, 89109  
+	0 0
+Vdara 
+	https://vdara.hyatt.com/en/hotel/home.html
+	2600 West Harmon Ave Las Vegas, Nevada, USA, 89158  
+	0 0
+Hyatt Regency Jersey City on the Hudson 
+	https://jerseycity.regency.hyatt.com/en/hotel/home.html
+	2 Exchange Place Jersey City, New Jersey, USA, 07302  
+	0 0
+Hyatt House New York/Chelsea 
+	https://newyorkchelsea.house.hyatt.com/en/hotel/home.html
+	815 Avenue of the Americas New York, New York, USA, 10001  
+	0 0
+hyatt place new york/midtown-south 
+	https://newyorkmidtown.place.hyatt.com/en/hotel/home.html
+	52 West 36th Street New York, New York, USA, 10018  
+	0 0
+Hyatt Regency Newport 
+	https://newport.regency.hyatt.com/en/hotel/home.html
+	1 Goat Island Newport, Rhode Island, USA, 02840  
+	0 0
+Hyatt Regency Lost Pines Resort and Spa 
+	https://lostpines.regency.hyatt.com/en/hotel/home.html
+	575 Hyatt Lost Pines Road Lost Pines, Texas, USA, 78612  
+	0 0
+THE DRISKILL 
+	https://thedriskill.hyatt.com/en/hotel/home.html
+	604 Brazos Street Austin, Texas, USA, 78701  
+	0 0
+HYATT CENTRIC PARK CITY 
+	https://parkcity.centric.hyatt.com/en/hotel/home.html
+	3551 North Escala Court Park City, Utah, USA, 84098  
+	0 0
+PALACIO DUHAU - PARK HYATT BUENOS AIRES 
+	https://buenosaires.park.hyatt.com/en/hotel/home.html
+	Avenida Alvear 1661 Buenos Aires,  Argentina, C1014AAD  
+	0 0
+ANDAZ MAYAKOBA RESORT RIVIERA MAYA 
+	https://mayakoba.andaz.hyatt.com/en/hotel/home.html
+	Carretera Federal Cancun-Playa Del Carmen Km. 298 Playa del Carmen-Solidaridad, Quintana Roo, Mexico, 77710  
+	0 0
+GRAND HYATT PLAYA DEL CARMEN RESORT 
+	https://playadelcarmen.grand.hyatt.com/en/hotel/home.html
+	1a Avenida esquina Calle 26, Colonia Centro Playa del Carmen, Quintana Roo, Mexico, 77710  
+	0 0
+GRAND HYATT AT BAHA MAR 
+	https://bahamar.grand.hyatt.com/en/hotel/home.html
+	One Baha Mar Boulevard PO Box SP-64254, Nassau,  The Bahamas   
+	0 0
+CARMELO RESORT & SPA, A HYATT HOTEL 
+	https://carmelo.hyatt.com/en/hotel/home.html
+	Ruta 21, Km 262 Carmelo, Colonia, Uruguay, 70100  
+	0 0
+Hyatt Regency Sydney 
+	https://sydney.regency.hyatt.com/en/hotel/home.html
+	161 Sussex Street Sydney, New South Wales, Australia, 2000  
+	0 0
+PARK HYATT MELBOURNE 
+	https://melbourne.park.hyatt.com/en/hotel/home.html
+	1 Parliament Square, off Parliament Place Melbourne, Victoria, Australia, 3002  
+	0 0
+PARK HYATT GUANGZHOU 
+	https://guangzhou.park.hyatt.com/en/hotel/home.html
+	16 Huaxia Road, Zhujiang New Town, Tianhe District Guangzhou, Guangdong, China, 510623 500 m from Guangdong Opera House 
+	0 0
+GRAND HYATT MACAU 
+	https://macau.grand.hyatt.com/en/hotel/home.html
+	City of Dreams, Estrada do Istmo, Cotai Macau,  China   
+	0 0
+PARK HYATT BEIJING 
+	https://beijing.park.hyatt.com/en/hotel/home.html
+	2 Jianguomenwai Street, Chaoyang District Beijing,  China, 100022  
+	0 0
+PARK HYATT CHANGBAISHAN 
+	https://changbaishan.park.hyatt.com/en/hotel/home.html
+	Changbaishan International Resort Fusong County, Jilin Province, Changbaishan,  China, 134504  
+	0 0
+PARK HYATT HANGZHOU 
+	https://hangzhou.park.hyatt.com/en/hotel/home.html
+	1366 Qianjiang Road Hangzhou,  China, 310020 Located in the miXc 
+	0 0
+PARK HYATT SANYA SUNNY BAY RESORT 
+	https://sanya.park.hyatt.com/en/hotel/home.html
+	5 Sunny Bay Road, Yalong Bay National Resort District Sanya,  China, 572000  
+	0 0
+PARK HYATT SHANGHAI 
+	https://shanghai.park.hyatt.com/en/hotel/home.html
+	100 Century Avenue, Pudong Shanghai,  China, 200120  
+	0 0
+Hyatt Regency Kyoto 
+	https://kyoto.regency.hyatt.com/en/hotel/home.html
+	644-2 Sanjusangendo-mawari, Higashiyama-ku Kyoto,  Japan, 605-0941  
+	0 0
+GRAND HYATT SINGAPORE 
+	https://singapore.grand.hyatt.com/en/hotel/home.html
+	10 Scotts Road Singapore,  Republic of Singapore, 228211  
+	0 0
+PARK HYATT SEOUL 
+	https://seoul.park.hyatt.com/en/hotel/home.html
+	606, Teheran-ro, Gangnam-gu Seoul,  South Korea, 06174  
+	0 0
+HÔTEL DU LOUVRE 
+	https://parishoteldulouvre.hyatt.com/en/hotel/home.html
+	Place André Malraux Paris,  France, 75001  
+	0 0
+PARK HYATT JEDDAH – MARINA, CLUB AND SPA 
+	https://jeddah.park.hyatt.com/en/hotel/home.html
+	Al Hamra District , Southern Corniche, P.O. Box 5863 Jeddah,  Kingdom of Saudi Arabia, 21432  
+	0 0
+PARK HYATT MALLORCA 
+	https://mallorca.park.hyatt.com/en/hotel/home.html
+	Urbanización Atalaya de Canyamel, Vial A, 12 Canyamel,  Spain, 07589  
+	0 0
+PARK HYATT ZANZIBAR 
+	https://zanzibar.park.hyatt.com/en/hotel/home.html
+	P.O. Box 4255 Shangani Street, Stone Town, Zanzibar, Tanzania   
+	0 0
+PARK HYATT ISTANBUL - MACKA PALAS 
+	https://istanbul.park.hyatt.com/en/hotel/home.html
+	Tesvikiye, Bronz Sokak No. 4 Sisli Istanbul,  Turkey, 34367  
+	0 0
+Hyatt Regency Kiev 
+	https://kiev.regency.hyatt.com/en/hotel/home.html
+	5, Alla Tarasova Street Kiev (Kyiv),  Ukraine, 01001  
+	0 0
+PARK HYATT ABU DHABI HOTEL AND VILLAS 
+	https://abudhabi.park.hyatt.com/en/hotel/home.html
+	PO Box 52007 Abu Dhabi,  United Arab Emirates   
+	0 0
+PARK HYATT DUBAI 
+	https://dubai.park.hyatt.com/en/hotel/home.html
+	PO Box 2822 Dubai,  United Arab Emirates   
+	0 0

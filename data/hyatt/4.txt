@@ -1,0 +1,280 @@
+HYATT CENTRIC FISHERMAN'S WHARF SAN FRANCISCO 
+	https://fishermanswharf.centric.hyatt.com/en/hotel/home.html
+	555 North Point Street San Francisco, California, USA, 94133  
+	0 0
+HYATT CENTRIC SANTA BARBARA 
+	https://santabarbara.centric.hyatt.com/en/hotel/home.html
+	1111 East Cabrillo Boulevard Santa Barbara, California, USA, 93103  
+	0 0
+Hyatt Regency La Jolla at Aventine 
+	https://lajolla.regency.hyatt.com/en/hotel/home.html
+	3777 La Jolla Village Drive San Diego, California, USA, 92122  
+	0 0
+Hyatt Regency Mission Bay Spa and Marina 
+	https://missionbay.regency.hyatt.com/en/hotel/home.html
+	1441 Quivira Road San Diego, California, USA, 92109  
+	0 0
+Hyatt Regency Monterey Hotel and Spa on Del Monte Golf Course 
+	https://monterey.regency.hyatt.com/en/hotel/home.html
+	1 Old Golf Course Road Monterey, California, USA, 93940-4908  
+	0 0
+GRAND HYATT WASHINGTON 
+	https://washingtondc.grand.hyatt.com/en/hotel/home.html
+	1000 H Street NW Washington, D.C., USA, 20001  
+	0 0
+Hyatt Regency Washington on Capitol Hill 
+	https://washingtondc.regency.hyatt.com/en/hotel/home.html
+	400 New Jersey Avenue, NW Washington, D.C., USA, 20001  
+	0 0
+hyatt place dewey beach 
+	https://deweybeach.place.hyatt.com/en/hotel/home.html
+	1301 Coastal Highway Dewey Beach, Delaware, USA, 19971  
+	0 0
+HYATT CENTRIC SOUTH BEACH MIAMI 
+	https://southbeachmiami.centric.hyatt.com/en/hotel/home.html
+	1600 Collins Avenue Miami Beach, Florida, USA, 33139  
+	0 0
+hyatt place marathon/florida keys 
+	https://marathonfloridakeys.place.hyatt.com/en/hotel/home.html
+	1996 Overseas Highway Marathon, Florida, USA, 33050  
+	0 0
+Hyatt Regency Coconut Point Resort and Spa 
+	https://coconutpoint.regency.hyatt.com/en/hotel/home.html
+	5001 Coconut Road Bonita Springs, Florida, USA, 34134  
+	0 0
+Hyatt Regency Grand Cypress 
+	https://grandcypress.regency.hyatt.com/en/hotel/home.html
+	One Grand Cypress Blvd. Orlando, Florida, USA, 32836  
+	0 0
+Hyatt Regency Orlando 
+	https://orlando.regency.hyatt.com/en/hotel/home.html
+	9801 International Drive Orlando, Florida, USA, 32819  
+	0 0
+ANDAZ SAVANNAH 
+	https://savannah.andaz.hyatt.com/en/hotel/home.html
+	14 Barnard Street Savannah, Georgia, USA, 31401  
+	0 0
+hyatt place chicago/river north 
+	https://chicagorivernorth.place.hyatt.com/en/hotel/home.html
+	66 West Illinois Street Chicago, Illinois, USA, 60654  
+	0 0
+Hyatt Regency Chicago 
+	https://chicago.regency.hyatt.com/en/hotel/home.html
+	151 East Wacker Drive Chicago, Illinois, USA, 60601  
+	0 0
+Hyatt Regency McCormick Place 
+	https://mccormickplace.regency.hyatt.com/en/hotel/home.html
+	2233 South Dr. Martin Luther King Jr. Drive Chicago, Illinois, USA, 60616-9985  
+	0 0
+HYATT CENTRIC FRENCH QUARTER NEW ORLEANS 
+	https://frenchquarter.centric.hyatt.com/en/hotel/home.html
+	800 Iberville Street New Orleans, Louisiana, USA, 70112  
+	0 0
+Hyatt Regency New Orleans 
+	https://neworleans.regency.hyatt.com/en/hotel/home.html
+	601 Loyola Avenue New Orleans, Louisiana, USA, 70113  
+	0 0
+Hyatt Regency Baltimore Inner Harbor 
+	https://baltimore.regency.hyatt.com/en/hotel/home.html
+	300 Light Street Baltimore, Maryland, USA, 21202  
+	0 0
+Hyatt Regency Boston 
+	https://boston.regency.hyatt.com/en/hotel/home.html
+	One Avenue de Lafayette Boston, Massachusetts, USA, 02111  
+	0 0
+Hyatt Regency Boston Harbor 
+	https://bostonharbor.regency.hyatt.com/en/hotel/home.html
+	101 Harborside Drive Boston, Massachusetts, USA, 02128  
+	0 0
+Hyatt Regency Cambridge, Overlooking Boston 
+	https://cambridge.regency.hyatt.com/en/hotel/home.html
+	575 Memorial Dr. Cambridge, Massachusetts, USA, 02139-4896  
+	0 0
+MGM Grand 
+	https://mgmgrand.hyatt.com/en/hotel/home.html
+	3799 Las Vegas Blvd South Las Vegas, Nevada, USA, 89109  
+	0 0
+Monte Carlo 
+	https://montecarlo.hyatt.com/en/hotel/home.html
+	3770 Las Vegas Blvd South Las Vegas, Nevada, USA, 89109  
+	0 0
+New York-New York 
+	https://newyorknewyork.hyatt.com/en/hotel/home.html
+	3790 Las Vegas Blvd. S. Las Vegas, Nevada, USA, 89109  
+	0 0
+Hyatt Regency Tamaya Resort and Spa 
+	https://tamaya.regency.hyatt.com/en/hotel/home.html
+	1300 Tuyuna Trail Santa Ana Pueblo, New Mexico, USA, 87004  
+	0 0
+Hyatt at The Bellevue 
+	https://philadelphiabellevue.hyatt.com/en/hotel/home.html
+	200 South Broad Street Philadelphia, Pennsylvania, USA, 19102  
+	0 0
+hyatt place nashville downtown 
+	https://nashvilledowntown.place.hyatt.com/en/hotel/home.html
+	301 3rd Avenue South Nashville, Tennessee, USA, 37201  
+	0 0
+GRAND HYATT DFW 
+	https://dfw.grand.hyatt.com/en/hotel/home.html
+	2337 South International Parkway, PO Box 619045 DFW Airport, Texas, USA, 75261-9045  
+	0 0
+HYATT CENTRIC THE WOODLANDS 
+	https://thewoodlands.centric.hyatt.com/en/hotel/home.html
+	9595 Six Pines, Suite 1100 The Woodlands, Texas, USA, 77380  
+	0 0
+hyatt place austin downtown 
+	https://austindowntown.place.hyatt.com/en/hotel/home.html
+	211 East 3rd Street Austin, Texas, USA, 78701  
+	0 0
+Hyatt Regency Austin 
+	https://austin.regency.hyatt.com/en/hotel/home.html
+	208 Barton Springs Austin, Texas, USA, 78704  
+	0 0
+Hyatt Regency Hill Country Resort and Spa 
+	https://hillcountry.regency.hyatt.com/en/hotel/home.html
+	9800 Hyatt Resort Drive San Antonio, Texas, USA, 78251  
+	0 0
+hyatt place park city 
+	https://parkcity.place.hyatt.com/en/hotel/home.html
+	4377 North Hwy 224 Park City, Utah, USA, 84098  
+	0 0
+GRAND HYATT SEATTLE 
+	https://seattle.grand.hyatt.com/en/hotel/home.html
+	721 Pine Street Seattle, Washington, USA, 98101  
+	0 0
+Hyatt at Olive 8 
+	https://olive8.hyatt.com/en/hotel/home.html
+	1635 8th Avenue Seattle, Washington, USA, 98101  
+	0 0
+GRAND HYATT RIO DE JANEIRO 
+	https://riodejaneiro.grand.hyatt.com/en/hotel/home.html
+	Av. Lucio Costa 9600 Barra da Tijuca, Rio de Janeiro,  Brazil, 22795-007  
+	0 0
+GRAND HYATT SAO PAULO 
+	https://saopaulo.grand.hyatt.com/en/hotel/home.html
+	Avenida das Nacoes Unidas 13.301 Sao Paulo,  Brazil, 04578-000  
+	0 0
+PARK HYATT TORONTO 
+	https://toronto.park.hyatt.com/en/hotel/home.html
+	4 Avenue Road Toronto, Ontario, Canada, M5R 2E8  
+	0 0
+ANDAZ PENINSULA PAPAGAYO RESORT 
+	https://papagayo.andaz.hyatt.com/en/hotel/home.html
+	Peninsula Papagayo Guanacaste,  Costa Rica   
+	0 0
+Hyatt Regency Trinidad 
+	https://trinidad.regency.hyatt.com/en/hotel/home.html
+	#1 Wrightson Road Port-of-Spain,  Republic of Trinidad & Tobago   
+	0 0
+HYATT HOTEL CANBERRA - A PARK HYATT HOTEL 
+	https://canberra.park.hyatt.com/en/hotel/home.html
+	120 Commonwealth Avenue Canberra, Australian Capital Territory, Australia, 2600  
+	0 0
+GRAND HYATT MELBOURNE 
+	https://melbourne.grand.hyatt.com/en/hotel/home.html
+	123 Collins Street Melbourne, Victoria, Australia, 3000  
+	0 0
+ANDAZ XINTIANDI, SHANGHAI 
+	https://shanghai.andaz.hyatt.com/en/hotel/home.html
+	88 Songshan Road Shanghai,  China, 200021  
+	0 0
+GRAND HYATT BEIJING 
+	https://beijing.grand.hyatt.com/en/hotel/home.html
+	1 East Chang An Avenue Beijing,  China, 100738  
+	0 0
+GRAND HYATT SHANGHAI 
+	https://shanghai.grand.hyatt.com/en/hotel/home.html
+	Jin Mao Tower, 88 Century Avenue, Pudong Shanghai,  China, 200121  
+	0 0
+Hyatt Regency Hangzhou 
+	https://hangzhou.regency.hyatt.com/en/hotel/home.html
+	28 Hu Bin Road Hangzhou,  China, 310006  
+	0 0
+Hyatt Regency Hong Kong, Tsim Sha Tsui 
+	https://hongkongtsimshatsui.regency.hyatt.com/en/hotel/home.html
+	18 Hanoi Road, Tsim Sha Tsui, Kowloon Hong Kong,  China   
+	0 0
+HYATT ON THE BUND, SHANGHAI 
+	https://shanghaithebund.hyatt.com/en/hotel/home.html
+	199 Huang Pu Road Shanghai,  China, 200080  
+	0 0
+ANDAZ DELHI 
+	https://delhi.andaz.hyatt.com/en/hotel/home.html
+	Asset No.1, Aerocity New Delhi,  India, 110037  
+	0 0
+PARK HYATT GOA RESORT AND SPA 
+	https://goa.park.hyatt.com/en/hotel/home.html
+	Arossim Beach, Cansaulim South Goa,  India, 403 712  
+	0 0
+PARK HYATT SIEM REAP 
+	https://siemreap.park.hyatt.com/en/hotel/home.html
+	Sivutha Boulevard Siem Reap,  Kingdom of Cambodia   
+	0 0
+Hyatt Regency Guam 
+	https://guam.regency.hyatt.com/en/hotel/home.html
+	1155 Pale San Vitores Road Tumon, Guam,  Micronesia, 96913-4206  
+	0 0
+GRAND HYATT SEOUL 
+	https://seoul.grand.hyatt.com/en/hotel/home.html
+	322 Sowol-ro, Yongsan-gu Seoul,  South Korea, 04347  
+	0 0
+PARK HYATT BUSAN 
+	https://busan.park.hyatt.com/en/hotel/home.html
+	51, Marine City 1-ro, Haeundae-gu Busan,  South Korea, 48120  
+	0 0
+GRAND HYATT TAIPEI 
+	https://taipei.grand.hyatt.com/en/hotel/home.html
+	2, SongShou Road Taipei,  Taiwan, 11051  
+	0 0
+Hyatt Regency Hua Hin 
+	https://huahin.regency.hyatt.com/en/hotel/home.html
+	91 Hua Hin - Khao Takiap Road Hua Hin,  Thailand, 77110  
+	0 0
+GRAND HYATT ERAWAN BANGKOK 
+	https://bangkok.grand.hyatt.com/en/hotel/home.html
+	494 Rajdamri Road Bangkok,  Thailand, 10330  
+	0 0
+PARK HYATT SAIGON 
+	https://saigon.park.hyatt.com/en/hotel/home.html
+	2 Lam Son Square, District 1 Ho Chi Minh City (Saigon),  Vietnam   
+	0 0
+Hyatt Regency Paris �toile 
+	https://parisetoile.regency.hyatt.com/en/hotel/home.html
+	3, Place du G�n�ral K�nig Paris,  France, 75017  
+	0 0
+GRAND HYATT BERLIN 
+	https://berlin.grand.hyatt.com/en/hotel/home.html
+	Marlene-Dietrich-Platz 2 Berlin,  Germany, 10785  
+	0 0
+Hyatt Regency Cologne 
+	https://cologne.regency.hyatt.com/en/hotel/home.html
+	Kennedy-Ufer 2A Cologne,  Germany, 50679  
+	0 0
+PARK HYATT HAMBURG 
+	https://hamburg.park.hyatt.com/en/hotel/home.html
+	Bugenhagenstrasse 8 Hamburg,  Germany, 20095  
+	0 0
+Hyatt Regency Makkah Jabal Omar 
+	https://makkah.regency.hyatt.com/en/hotel/home.html
+	Jabal Omar, Ibrahim Al Khalil Street P.O. Box 19394, Holy Makkah,  Kingdom of Saudi Arabia, 21955  
+	0 0
+Hyatt Regency Sochi 
+	https://sochi.regency.hyatt.com/en/hotel/home.html
+	Ordzhonikidze 17 Sochi,  Russia, 354000  
+	0 0
+GRAND HYATT DOHA HOTEL & VILLAS 
+	https://doha.grand.hyatt.com/en/hotel/home.html
+	P.O Box 24010 Doha, Qatar, State of Qatar   
+	0 0
+GRAND HYATT MUSCAT 
+	https://muscat.grand.hyatt.com/en/hotel/home.html
+	Shatti Al Qurm, P.O. Box 951 Muscat,  Sultanate of Oman, 133  
+	0 0
+GRAND HYATT ISTANBUL 
+	https://istanbul.grand.hyatt.com/en/hotel/home.html
+	NOT REAL DATA
+	0 0
+GRAND HYATT DUBAI 
+	https://dubai.grand.hyatt.com/en/hotel/home.html
+	P.O. Box 7978 Dubai,  United Arab Emirates   
+	0 0

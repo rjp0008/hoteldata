@@ -1,0 +1,788 @@
+Hyatt Regency Birmingham - The Wynfrey Hotel 
+	https://wynfrey.regency.hyatt.com/en/hotel/home.html
+	1000 Riverchase Galleria Birmingham, Alabama, USA, 35244  
+	33.3797353 -86.8077023
+Hyatt House Anchorage 
+	https://anchorage.house.hyatt.com/en/hotel/home.html
+	5141 Business Park Blvd Anchorage, Alaska, USA, 99503  
+	61.17493409999999 -149.8903263
+Hyatt House Scottsdale/Old Town 
+	https://scottsdale.house.hyatt.com/en/hotel/home.html
+	4245 North Drinkwater Boulevard Scottsdale, Arizona, USA, 85251  
+	33.4979798 -111.9222016
+hyatt place scottsdale/old town 
+	https://scottsdaleoldtown.place.hyatt.com/en/hotel/home.html
+	7300 East Third Avenue Scottsdale, Arizona, USA, 85251  
+	33.49748040000001 -111.9234543
+Hyatt House Cypress/Anaheim 
+	https://cypressanaheim.house.hyatt.com/en/hotel/home.html
+	5905 Corporate Ave. Cypress, California, USA, 90630  
+	33.8085091 -118.0298393
+Hyatt House Pleasant Hill 
+	https://pleasanthill.house.hyatt.com/en/hotel/home.html
+	2611 Contra Costa Blvd. Pleasant Hill, California, USA, 94523  
+	37.942839 -122.0613276
+Hyatt House San Ramon 
+	https://sanramon.house.hyatt.com/en/hotel/home.html
+	2323 San Ramon Valley Blvd. San Ramon, California, USA, 94583  
+	37.7779186 -121.9778579
+hyatt place dublin/pleasanton 
+	https://sanfranciscodublin.place.hyatt.com/en/hotel/home.html
+	4950 Hacienda Drive Dublin, California, USA, 94568  
+	37.7057248 -121.8873647
+hyatt place fremont/silicon valley 
+	https://siliconvalleyfremont.place.hyatt.com/en/hotel/home.html
+	3101 West Warren Avenue Fremont, California, USA, 94538  
+	37.4835702 -121.9397995
+hyatt place ontario/rancho cucamonga 
+	https://ontariomills.place.hyatt.com/en/hotel/home.html
+	4760 East Mills Circle Ontario, California, USA, 91764  
+	34.0702504 -117.5468898
+hyatt place riverside/downtown 
+	https://riversidedowntown.place.hyatt.com/en/hotel/home.html
+	3500 Market Street Riverside, California, USA, 92501  
+	33.9850546 -117.3735377
+hyatt place sacramento/rancho cordova 
+	https://sacramentoranchocordova.place.hyatt.com/en/hotel/home.html
+	10744 Gold Center Drive Rancho Cordova, California, USA, 95670  
+	38.5893575 -121.2859314
+hyatt place sacramento/roseville 
+	https://sacramentoroseville.place.hyatt.com/en/hotel/home.html
+	220 Conference Center Drive Roseville, California, USA, 95678  
+	38.7759583 -121.2727709
+hyatt place san diego/vista-carlsbad 
+	https://sandiegocarlsbad.place.hyatt.com/en/hotel/home.html
+	2645 South Melrose Drive Vista, California, USA, 92081  
+	33.1395207 -117.2455474
+hyatt place san jose/downtown 
+	https://sanjose.place.hyatt.com/en/hotel/home.html
+	282 Almaden Boulevard San Jose, California, USA, 95113  
+	37.3298954 -121.8915701
+hyatt place uc davis 
+	https://ucdavis.place.hyatt.com/en/hotel/home.html
+	173 Old Davis Road Extension Davis, California, USA, 95616  
+	38.5449065 -121.7405167
+Hyatt House Boulder/Broomfield 
+	https://broomfield.house.hyatt.com/en/hotel/home.html
+	13351 W. Midway Blvd. Broomfield, Colorado, USA, 80020  
+	39.940334 -105.1247826
+Hyatt House Denver Airport 
+	https://denverairport.house.hyatt.com/en/hotel/home.html
+	18741 East 71st Avenue Denver, Colorado, USA, 80249  
+	39.8264448 -104.7690647
+Hyatt House Denver Tech Center 
+	https://denvertech.house.hyatt.com/en/hotel/home.html
+	9280 E. Costilla Avenue Englewood, Colorado, USA, 80112  
+	39.591431 -104.8748019
+Hyatt House Denver/Lakewood at Belmar 
+	https://denverlakewood.house.hyatt.com/en/hotel/home.html
+	7310 West Alaska Drive Lakewood, Colorado, USA, 80226  
+	39.7089946 -105.0788012
+hyatt place boulder/pearl street 
+	https://boulderpearlstreet.place.hyatt.com/en/hotel/home.html
+	2280 Junction Pl Boulder, Colorado, USA, 80301  
+	40.0241705 -105.2517078
+hyatt place colorado springs/garden of the gods 
+	https://coloradosprings.place.hyatt.com/en/hotel/home.html
+	503 West Garden of the Gods Road Colorado Springs, Colorado, USA, 80907  
+	38.8950243 -104.8323798
+hyatt place denver airport 
+	https://denverairport.place.hyatt.com/en/hotel/home.html
+	16250 East 40th Avenue Aurora, Colorado, USA, 80011  
+	39.7722425 -104.7982508
+hyatt place denver tech center 
+	https://denvertechcenter.place.hyatt.com/en/hotel/home.html
+	8300 East Crescent Parkway Greenwood Village, Colorado, USA, 80111  
+	39.6235798 -104.8919727
+hyatt place denver-south/park meadows 
+	https://denversouth.place.hyatt.com/en/hotel/home.html
+	9030 East Westview Road Lone Tree, Colorado, USA, 80124  
+	39.564743 -104.8843096
+hyatt place denver/cherry creek 
+	https://denvercherrycreek.place.hyatt.com/en/hotel/home.html
+	4150 East Mississippi Avenue Glendale, Colorado, USA, 80246  
+	39.6956362 -104.938597
+Hyatt Regency Aurora-Denver Conference Center 
+	https://aurora.regency.hyatt.com/en/hotel/home.html
+	13200 East 14th Place Aurora, Colorado, USA, 80011  
+	39.7373446 -104.8351501
+Hyatt Regency Denver Tech Center 
+	https://denvertechcenter.regency.hyatt.com/en/hotel/home.html
+	7800 East Tufts Avenue Denver, Colorado, USA, 80237  
+	39.6302166 -104.8990095
+Hyatt House Hartford North/Windsor 
+	https://hartfordnorth.house.hyatt.com/en/hotel/home.html
+	200 Corporate Drive Windsor, Connecticut, USA, 06095  
+	41.8701927 -72.66744489999999
+Hyatt House Shelton 
+	https://shelton.house.hyatt.com/en/hotel/home.html
+	830 Bridgeport Avenue Shelton, Connecticut, USA, 06484  
+	41.26886890000001 -73.1271587
+hyatt place milford 
+	https://milford.place.hyatt.com/en/hotel/home.html
+	190 Old Gate Lane Milford, Connecticut, USA, 06460  
+	41.2311414 -73.0299205
+Hyatt House Fort Lauderdale Airport & Cruise Port 
+	https://fortlauderdaleairportsouth.house.hyatt.com/en/hotel/home.html
+	90 Southwest 18th Avenue Dania Beach, Florida, USA, 33004  
+	26.0502979 -80.1604715
+hyatt place coconut point 
+	https://coconutpoint.place.hyatt.com/en/hotel/home.html
+	23120 Via Villagio Estero, Florida, USA, 33928  
+	26.4029884 -81.8098231
+hyatt place fort lauderdale 17th street convention center 
+	https://ftlauderdaleconventioncenter.place.hyatt.com/en/hotel/home.html
+	1851 SE 10th Ave (Harbor Shops Drive West) Fort Lauderdale, Florida, USA, 33316  
+	26.0977657 -80.1261093
+hyatt place fort lauderdale/plantation 
+	https://plantation.place.hyatt.com/en/hotel/home.html
+	8530 West Broward Boulevard Plantation, Florida, USA, 33324  
+	26.1189401 -80.2628546
+hyatt place ft. lauderdale airport & cruise port 
+	https://fortlauderdaleairportsouth.place.hyatt.com/en/hotel/home.html
+	91 Southwest 18th Avenue Dania Beach, Florida, USA, 33004  
+	26.0504185 -80.1612483
+hyatt place lakeland center 
+	https://lakelandcenter.place.hyatt.com/en/hotel/home.html
+	525 West Orange Street Lakeland, Florida, USA, 33815  
+	28.0420064 -81.9619027
+hyatt place miami airport-east 
+	https://miamiairporteast.place.hyatt.com/en/hotel/home.html
+	3549 NW Le Jeune Road Miami, Florida, USA, 33142  
+	25.806344 -80.2629858
+hyatt place miami airport-west/doral 
+	https://miamiairportwest.place.hyatt.com/en/hotel/home.html
+	3655 NW 82nd Avenue Miami, Florida, USA, 33166  
+	25.8083722 -80.3277355
+hyatt place orlando/convention center 
+	https://orlandoconventioncenter.place.hyatt.com/en/hotel/home.html
+	8741 International Drive Orlando, Florida, USA, 32819  
+	28.438328 -81.4691996
+hyatt place orlando/universal 
+	https://orlandouniversal.place.hyatt.com/en/hotel/home.html
+	5895 Caravan Court Orlando, Florida, USA, 32819  
+	28.4750849 -81.45675659999999
+hyatt place pensacola airport 
+	https://pensacolaairport.place.hyatt.com/en/hotel/home.html
+	161 Airport Lane Pensacola, Florida, USA, 32504  
+	30.47591569999999 -87.19650109999999
+hyatt place sarasota/bradenton airport 
+	https://sarasotabradenton.place.hyatt.com/en/hotel/home.html
+	950 University Parkway Sarasota, Florida, USA, 34234  
+	27.3814154 -82.5518993
+hyatt place tampa airport/westshore 
+	https://tampaairport.place.hyatt.com/en/hotel/home.html
+	4811 W Main Street Tampa, Florida, USA, 33607  
+	27.9574739 -82.52591509999999
+hyatt place tampa/busch gardens 
+	https://tampabuschgardens.place.hyatt.com/en/hotel/home.html
+	11408 North 30th Street Tampa, Florida, USA, 33612  
+	28.0523232 -82.42778589999999
+Hyatt Regency Jacksonville Riverfront 
+	https://jacksonville.regency.hyatt.com/en/hotel/home.html
+	225 East Coastline Drive Jacksonville, Florida, USA, 32202  
+	30.3241568 -81.65537850000001
+hyatt place atlanta/buckhead 
+	https://atlantabuckhead.place.hyatt.com/en/hotel/home.html
+	3242 Peachtree Road NE Atlanta, Georgia, USA, 30305  
+	33.8436353 -84.3726657
+hyatt place atlanta/downtown 
+	https://atlantadowntown.place.hyatt.com/en/hotel/home.html
+	330 Peachtree Street NE Atlanta, Georgia, USA, 30308  
+	33.7635182 -84.3869787
+hyatt place augusta 
+	https://augusta.place.hyatt.com/en/hotel/home.html
+	160 Mason McKnight Junior Parkway Augusta, Georgia, USA, 30907  
+	33.4906061 -82.1046326
+hyatt place savannah airport 
+	https://savannahairport.place.hyatt.com/en/hotel/home.html
+	4 Stephen S. Green Drive Savannah, Georgia, USA, 31408  
+	32.1383273 -81.23440939999999
+Hyatt Regency Atlanta Perimeter at Villa Christina 
+	https://atlantaperimeter.regency.hyatt.com/en/hotel/home.html
+	4000 Summit Boulevard Atlanta, Georgia, USA, 30319  
+	33.9131947 -84.3420792
+Hyatt Regency Suites Atlanta Northwest 
+	https://atlantasuites.regency.hyatt.com/en/hotel/home.html
+	2999 Windy Hill Road SE Marietta, Georgia, USA, 30067  
+	33.9062583 -84.4664241
+Hyatt House Chicago/Evanston 
+	https://chicagoevanston.house.hyatt.com/en/hotel/home.html
+	1515 Chicago Avenue Evanston, Illinois, USA, 60201  
+	42.0455309 -87.6794848
+hyatt place champaign/urbana 
+	https://champaign.place.hyatt.com/en/hotel/home.html
+	217 N. Neil Street Champaign, Illinois, USA, 61820  
+	40.1179995 -88.2440527
+hyatt place chicago/midway airport 
+	https://chicagomidwayairport.place.hyatt.com/en/hotel/home.html
+	6550 S. Cicero Avenue Chicago, Illinois, USA, 60638  
+	41.7733456 -87.7422287
+hyatt place chicago/o'hare airport 
+	https://chicagoohareairport.place.hyatt.com/en/hotel/home.html
+	6810 Mannheim Road Rosemont, Illinois, USA, 60018  
+	42.0025432 -87.88571929999999
+Hyatt Regency Deerfield 
+	https://deerfield.regency.hyatt.com/en/hotel/home.html
+	1750 Lake Cook Road Deerfield, Illinois, USA, 60015  
+	42.1539293 -87.87067239999999
+Hyatt Regency O'Hare 
+	https://ohare.hyatt.com/en/hotel/home.html
+	9300 Bryn Mawr Avenue Rosemont, Illinois, USA, 60018  
+	41.9815386 -87.8594107
+Hyatt Rosemont 
+	https://rosemont.hyatt.com/en/hotel/home.html
+	6350 N. River Road Rosemont, Illinois, USA, 60018  
+	41.9953769 -87.86223939999999
+The Hyatt Lodge at McDonald's Campus 
+	https://thelodge.hyatt.com/en/hotel/home.html
+	2815 Jorie Boulevard Oak Brook, Illinois, USA, 60523  
+	41.836349 -87.947304
+hyatt place bloomington 
+	https://bloomington.place.hyatt.com/en/hotel/home.html
+	217 West Kirkwood Avenue Bloomington, Indiana, USA, 47404  
+	39.1660838 -86.5356864
+hyatt place indianapolis/keystone 
+	https://indianapoliskeystone.place.hyatt.com/en/hotel/home.html
+	9104 Keystone Crossing Indianapolis, Indiana, USA, 46240  
+	39.9196989 -86.109663
+Hyatt Regency Indianapolis 
+	https://indianapolis.regency.hyatt.com/en/hotel/home.html
+	One South Capitol Avenue Indianapolis, Indiana, USA, 46204  
+	39.7663982 -86.1608629
+hyatt place des moines/downtown 
+	https://desmoines.place.hyatt.com/en/hotel/home.html
+	418 6th Avenue Des Moines, Iowa, USA, 50309  
+	41.587539 -93.62549899999999
+hyatt place lexington 
+	https://lexington.place.hyatt.com/en/hotel/home.html
+	2001 Bryant Road Lexington, Kentucky, USA, 40509  
+	38.0190249 -84.4105715
+hyatt place louisville-east 
+	https://louisvilleeast.place.hyatt.com/en/hotel/home.html
+	701 South Hurstbourne Parkway Louisville, Kentucky, USA, 40222  
+	38.2366153 -85.57591790000001
+Hyatt Regency Lexington 
+	https://lexington.regency.hyatt.com/en/hotel/home.html
+	401 West High Street Lexington, Kentucky, USA, 40507  
+	38.0482967 -84.5013968
+hyatt place baltimore/bwi airport 
+	https://baltimorebwi.place.hyatt.com/en/hotel/home.html
+	940 International Drive Linthicum Heights, Maryland, USA, 21090  
+	39.2079563 -76.6778321
+hyatt place baltimore/owings mills 
+	https://baltimoreowingsmills.place.hyatt.com/en/hotel/home.html
+	4730 Painters Mill Road Owings Mills, Maryland, USA, 21117  
+	39.401765 -76.7845904
+Hyatt House Boston/Burlington 
+	https://burlington.house.hyatt.com/en/hotel/home.html
+	2 Van De Graaff Drive Burlington, Massachusetts, USA, 01803  
+	42.4830154 -71.1952651
+hyatt place boston/braintree 
+	https://braintree.place.hyatt.com/en/hotel/home.html
+	50 Forbes Road Braintree, Massachusetts, USA, 02184  
+	42.22000990000001 -71.0304378
+hyatt place boston/medford 
+	https://bostonmedford.place.hyatt.com/en/hotel/home.html
+	116 Riverside Avenue Medford, Massachusetts, USA, 02155  
+	42.4171054 -71.1051404
+hyatt place grand rapids-south 
+	https://grandrapidssouth.place.hyatt.com/en/hotel/home.html
+	2150 Metro Lane Wyoming, Michigan, USA, 49519  
+	42.8542681 -85.717085
+hyatt place minneapolis airport-south 
+	https://minneapolisairport.place.hyatt.com/en/hotel/home.html
+	7800 International Drive Bloomington, Minnesota, USA, 55425  
+	44.8609977 -93.2269804
+hyatt place minneapolis/downtown 
+	https://minneapolisdowntown.place.hyatt.com/en/hotel/home.html
+	425 7th Street South Minneapolis, Minnesota, USA, 55415  
+	44.9739165 -93.26615869999999
+hyatt place minneapolis/eden prairie 
+	https://minneapolisedenprairie.place.hyatt.com/en/hotel/home.html
+	11369 Viking Drive Eden Prairie, Minnesota, USA, 55344  
+	44.8622332 -93.4211097
+hyatt place biloxi 
+	https://biloxi.place.hyatt.com/en/hotel/home.html
+	1150 Beach Blvd Biloxi, Mississippi, USA, 39530  
+	30.395806 -88.905945
+Hyatt Regency St. Louis at The Arch 
+	https://stlouisarch.regency.hyatt.com/en/hotel/home.html
+	315 Chestnut Street St. Louis, Missouri, USA, 63102  
+	38.6261605 -90.18769830000001
+hyatt place lincoln/downtown-haymarket 
+	https://lincolndowntownhaymarket.place.hyatt.com/en/hotel/home.html
+	600 Q Street Lincoln, Nebraska, USA, 68508  
+	40.8161918 -96.71240990000001
+hyatt place omaha/downtown-old market 
+	https://omahadowntownoldmarket.place.hyatt.com/en/hotel/home.html
+	540 South 12th Street Omaha, Nebraska, USA, 68102  
+	41.2547263 -95.93220140000001
+hyatt place las vegas 
+	https://lasvegas.place.hyatt.com/en/hotel/home.html
+	4520 Paradise Road Las Vegas, Nevada, USA, 89169  
+	36.1070642 -115.151004
+hyatt place reno-tahoe airport 
+	https://renotahoeairport.place.hyatt.com/en/hotel/home.html
+	1790 East Plumb Lane Reno, Nevada, USA, 89502  
+	39.5043665 -119.7796564
+Hyatt House Branchburg 
+	https://branchburg.house.hyatt.com/en/hotel/home.html
+	3141 Route 22 East Branchburg, New Jersey, USA, 08876  
+	40.58681139999999 -74.69858909999999
+Hyatt House Bridgewater 
+	https://bridgewater.house.hyatt.com/en/hotel/home.html
+	530 US-22 Bridgewater, New Jersey, USA, 08807  
+	40.5886743 -74.6439805
+Hyatt House Morristown 
+	https://morristown.house.hyatt.com/en/hotel/home.html
+	194 Park Avenue Morristown, New Jersey, USA, 07960  
+	40.79231739999999 -74.4334392
+Hyatt House Parsippany-East 
+	https://parsippany.house.hyatt.com/en/hotel/home.html
+	299 Smith Road Parsippany, New Jersey, USA, 07054  
+	40.8582281 -74.41066099999999
+Hyatt House Parsippany/Whippany 
+	https://whippany.house.hyatt.com/en/hotel/home.html
+	1 Ridgedale Avenue North Whippany, New Jersey, USA, 07981  
+	40.8373208 -74.4427728
+hyatt place fair lawn/paramus 
+	https://fairlawnparamus.place.hyatt.com/en/hotel/home.html
+	41-01 Broadway (Route 208 North) Fair Lawn, New Jersey, USA, 07410  
+	40.9270686 -74.09269499999999
+hyatt place princeton 
+	https://princeton.place.hyatt.com/en/hotel/home.html
+	3565 US Highway 1 Princeton, New Jersey, USA, 08540  
+	35.5332005 -79.179632
+hyatt place secaucus/meadowlands 
+	https://secaucus.place.hyatt.com/en/hotel/home.html
+	575 Park Plaza Drive Secaucus, New Jersey, USA, 07094  
+	40.7863886 -74.0424427
+Hyatt Regency Morristown 
+	https://morristown.regency.hyatt.com/en/hotel/home.html
+	3 Speedwell Avenue Morristown, New Jersey, USA, 07960  
+	40.7997226 -74.48094309999999
+Hyatt Regency New Brunswick 
+	https://newbrunswick.regency.hyatt.com/en/hotel/home.html
+	Two Albany Street New Brunswick, New Jersey, USA, 08901  
+	40.4962421 -74.4412686
+Hyatt Regency Princeton 
+	https://princeton.regency.hyatt.com/en/hotel/home.html
+	102 Carnegie Center Princeton, New Jersey, USA, 08540-6293  
+	40.3238693 -74.6443353
+hyatt place santa fe 
+	https://santafe.place.hyatt.com/en/hotel/home.html
+	4320 Cerrillos Road Santa Fe, New Mexico, USA, 87507  
+	35.633016 -106.0193365
+hyatt place buffalo/amherst 
+	https://buffaloamherst.place.hyatt.com/en/hotel/home.html
+	5020 Main Street Amherst, New York, USA, 14226  
+	42.9605045 -78.770149
+hyatt place saratoga/malta 
+	https://saratogamalta.place.hyatt.com/en/hotel/home.html
+	20 State Farm Place Malta, New York, USA, 12020  
+	42.9691766 -73.8041248
+Hyatt Regency Buffalo / Hotel and Conference Center 
+	https://buffalo.hyatt.com/en/hotel/home.html
+	Two Fountain Plaza Buffalo, New York, USA, 14202 GPS Address: 300 Pearl Street, Buffalo, New York 14202 
+	42.8880473 -78.8754027
+Hyatt Regency Long Island 
+	https://longisland.regency.hyatt.com/en/hotel/home.html
+	1717 Motor Parkway Hauppauge, New York, USA, 11788  
+	40.8152353 -73.1711948
+Hyatt Regency Rochester 
+	https://rochester.regency.hyatt.com/en/hotel/home.html
+	125 East Main Street Rochester, New York, USA, 14604  
+	43.156452 -77.6082101
+Hyatt House Charlotte/Center City 
+	https://charlottecentercity.house.hyatt.com/en/hotel/home.html
+	435 East Trade Street Charlotte, North Carolina, USA, 28202  
+	35.224179 -80.8390636
+Hyatt House Raleigh North Hills 
+	https://raleighnorthhills.house.hyatt.com/en/hotel/home.html
+	160 Park at North Hills Street Raleigh, North Carolina, USA, 27609  
+	35.8363887 -78.6382098
+hyatt place charlotte downtown 
+	https://charlottedowntown.place.hyatt.com/en/hotel/home.html
+	222 South Caldwell Street Charlotte, North Carolina, USA, 28202  
+	35.2225748 -80.8410841
+hyatt place columbus/osu 
+	https://columbusosu.place.hyatt.com/en/hotel/home.html
+	795 Yard Street Columbus, Ohio, USA, 43212  
+	39.97552719999999 -83.0260413
+Hyatt Regency Cincinnati 
+	https://cincinnati.regency.hyatt.com/en/hotel/home.html
+	151 West Fifth Street Cincinnati, Ohio, USA, 45202  
+	39.1003446 -84.51571849999999
+Hyatt Regency Cleveland at The Arcade 
+	https://cleveland.regency.hyatt.com/en/hotel/home.html
+	420 Superior Avenue East Cleveland, Ohio, USA, 44114  
+	41.500666 -81.6907943
+Hyatt Regency Columbus 
+	https://columbus.regency.hyatt.com/en/hotel/home.html
+	350 North High Street Columbus, Ohio, USA, 43215  
+	39.9696693 -83.001311
+Hyatt House Philadelphia/King of Prussia 
+	https://kingofprussia.house.hyatt.com/en/hotel/home.html
+	240 Mall Boulevard King of Prussia, Pennsylvania, USA, 19406  
+	40.0927253 -75.39296209999999
+Hyatt House Philadelphia/Plymouth Meeting 
+	https://plymouthmeeting.house.hyatt.com/en/hotel/home.html
+	501 E. Germantown Pike East Norriton, Pennsylvania, USA, 19401  
+	40.138186 -75.3043241
+Hyatt House Pittsburgh-South Side 
+	https://pittsburghsouthside.house.hyatt.com/en/hotel/home.html
+	2795 South Water Street Pittsburgh, Pennsylvania, USA, 15203  
+	40.4283628 -79.96395179999999
+Hyatt House Pittsburgh/Bloomfield/Shadyside 
+	https://pittsburghbloomfield.house.hyatt.com/en/hotel/home.html
+	5335 Baum Boulevard Pittsburgh, Pennsylvania, USA, 15224  
+	40.4570283 -79.9390595
+hyatt place bethlehem 
+	https://bethlehem.place.hyatt.com/en/hotel/home.html
+	45 West North Street Bethlehem, Pennsylvania, USA, 18018  
+	40.6232796 -75.3800859
+hyatt place philadelphia/king of prussia 
+	https://kingofprussia.place.hyatt.com/en/hotel/home.html
+	440 American Avenue King of Prussia, Pennsylvania, USA, 19406  
+	40.0943439 -75.3974594
+hyatt place pittsburgh south/meadows racetrack & casino 
+	https://pittsburghsouth.place.hyatt.com/en/hotel/home.html
+	212 Racetrack Road Washington, Pennsylvania, USA, 15301  
+	40.2191202 -80.2052344
+Hyatt Regency Pittsburgh International Airport 
+	https://pittsburghairport.regency.hyatt.com/en/hotel/home.html
+	1111 Airport Boulevard PO Box 12420 Pittsburgh, Pennsylvania, USA, 15231  
+	40.4967937 -80.25986019999999
+hyatt place manat� 
+	https://manati.place.hyatt.com/en/hotel/home.html
+	122 Carretera PR-2 Manat�, Puerto Rico, USA, 00674  
+	0 0
+hyatt place san juan/bayam�n 
+	https://bayamon.place.hyatt.com/en/hotel/home.html
+	Ave Ram�n Luis Rivera Bayam�n, Puerto Rico, USA, 00961  
+	18.3746422 -66.1778147
+hyatt place charleston airport/convention center 
+	https://charlestonairport.place.hyatt.com/en/hotel/home.html
+	3234 West Montague Avenue North Charleston, South Carolina, USA, 29418  
+	32.8642546 -80.01760759999999
+hyatt place columbia/downtown/the vista 
+	https://columbiadowntown.place.hyatt.com/en/hotel/home.html
+	819 Gervais Street Columbia, South Carolina, USA, 29201  
+	33.9997186 -81.0391813
+hyatt place north charleston 
+	https://northcharleston.place.hyatt.com/en/hotel/home.html
+	2455 Prospect Drive North Charleston, South Carolina, USA, 29406  
+	32.9319482 -80.04794749999999
+Hyatt Regency Greenville 
+	https://greenville.regency.hyatt.com/en/hotel/home.html
+	220 North Main Street Greenville, South Carolina, USA, 29601  
+	34.8532051 -82.39683
+hyatt place nashville airport 
+	https://nashvilleairport.place.hyatt.com/en/hotel/home.html
+	721 Royal Parkway Nashville, Tennessee, USA, 37214  
+	36.1463025 -86.66429579999999
+hyatt place nashville/brentwood 
+	https://nashvillebrentwood.place.hyatt.com/en/hotel/home.html
+	202 Summit View Drive Brentwood, Tennessee, USA, 37027  
+	36.0390835 -86.78006429999999
+hyatt place nashville/franklin/cool springs 
+	https://franklin.place.hyatt.com/en/hotel/home.html
+	650 Bakers Bridge Avenue Franklin, Tennessee, USA, 37067  
+	35.960906 -86.80632349999999
+hyatt place nashville/hendersonville 
+	https://nashvillehendersonville.place.hyatt.com/en/hotel/home.html
+	330 East Main Street Hendersonville, Tennessee, USA, 37075  
+	36.3127042 -86.5966222
+hyatt place nashville/opryland 
+	https://nashvilleopryland.place.hyatt.com/en/hotel/home.html
+	220 Rudy's Circle Nashville, Tennessee, USA, 37214  
+	36.220771 -86.6963011
+Hyatt House Austin/Arboretum 
+	https://austinarboretum.house.hyatt.com/en/hotel/home.html
+	10001 N. Capital of Texas Highway Austin, Texas, USA, 78759  
+	30.3899001 -97.7365813
+Hyatt House Dallas/Frisco 
+	https://dallasfrisco.house.hyatt.com/en/hotel/home.html
+	2875 Parkwood Boulevard Frisco, Texas, USA, 75034  
+	33.1019826 -96.8172991
+Hyatt House Dallas/Lincoln Park 
+	https://dallaslincolnpark.house.hyatt.com/en/hotel/home.html
+	8221 North Central Expressway Dallas, Texas, USA, 75225  
+	32.8624571 -96.7712703
+Hyatt House Dallas/Uptown 
+	https://dallasuptown.house.hyatt.com/en/hotel/home.html
+	2914 Harry Hines Boulevard Dallas, Texas, USA, 75201  
+	32.7949945 -96.8099682
+Hyatt House Houston/Galleria 
+	https://houstongalleria.house.hyatt.com/en/hotel/home.html
+	3440 Sage Road Houston, Texas, USA, 77056  
+	29.7292762 -95.46751549999999
+hyatt place austin-north central 
+	https://austinnorthcentral.place.hyatt.com/en/hotel/home.html
+	7522 North IH-35 Austin, Texas, USA, 78752  
+	30.338354 -97.70364740000001
+hyatt place austin/arboretum 
+	https://austinarboretum.place.hyatt.com/en/hotel/home.html
+	3612 Tudor Boulevard Austin, Texas, USA, 78759  
+	30.3848238 -97.73749099999999
+hyatt place corpus christi 
+	https://corpuschristi.place.hyatt.com/en/hotel/home.html
+	6773 South Padre Island Drive Corpus Christi, Texas, USA, 78412  
+	27.696245 -97.349457
+hyatt place dfw 
+	https://dfw.place.hyatt.com/en/hotel/home.html
+	2350 Global Drive, P.O. Box 613289 DFW Airport, Texas, USA, 75261  
+	32.8543289 -97.0386418
+hyatt place dallas/arlington 
+	https://dallasarlington.place.hyatt.com/en/hotel/home.html
+	2380 E. Road to Six Flags Street Arlington, Texas, USA, 76011  
+	32.7524626 -97.0660275
+hyatt place dallas/grapevine 
+	https://dallasgrapevine.place.hyatt.com/en/hotel/home.html
+	2220 Grapevine Mills Circle West Grapevine, Texas, USA, 76051  
+	32.9611264 -97.0464978
+hyatt place houston nw vintage park 
+	https://houstonvintagepark.place.hyatt.com/en/hotel/home.html
+	20330 Tomball Parkway Houston, Texas, USA, 77070  
+	29.9883849 -95.5726268
+hyatt place houston-northwest/cy-fair 
+	https://houstonnorthwest.place.hyatt.com/en/hotel/home.html
+	19813 Northwest Fwy Houston, Texas, USA, 77065  
+	29.9236337 -95.62920419999999
+hyatt place houston/galleria 
+	https://houstongalleria.place.hyatt.com/en/hotel/home.html
+	5252 W. Alabama Houston, Texas, USA, 77056  
+	29.7382063 -95.4681602
+hyatt place houston/katy 
+	https://houstonkaty.place.hyatt.com/en/hotel/home.html
+	1401 N. Westgreen Blvd. Katy, Texas, USA, 77449  
+	29.7879951 -95.73612399999999
+hyatt place houston/sugar land 
+	https://houstonsugarland.place.hyatt.com/en/hotel/home.html
+	16730 Creek Bend Drive Sugar Land, Texas, USA, 77478  
+	29.6025273 -95.62403359999999
+hyatt place lubbock 
+	https://lubbock.place.hyatt.com/en/hotel/home.html
+	2309 MacDavis Lane Lubbock, Texas, USA, 79401  
+	33.5900491 -101.8663823
+Hyatt Regency DFW International Airport 
+	https://dfw.regency.hyatt.com/en/hotel/home.html
+	2334 North International Parkway, P.O. Box 619014 DFW Airport, Texas, USA, 75261  
+	32.8974543 -97.0386758
+Hyatt Regency North Houston 
+	https://northhouston.regency.hyatt.com/en/hotel/home.html
+	425 North Sam Houston Parkway East Houston, Texas, USA, 77060  
+	29.940184 -95.3957312
+Hyatt House Salt Lake City/Downtown 
+	https://saltlakecitydowntown.house.hyatt.com/en/hotel/home.html
+	140 South 300 West Salt Lake City, Utah, USA, 84101  
+	40.7667514 -111.9002433
+Hyatt House Salt Lake City/Sandy 
+	https://sandy.house.hyatt.com/en/hotel/home.html
+	9685 South Monroe Street Sandy, Utah, USA, 84070  
+	40.5750998 -111.8986434
+hyatt place salt lake city airport 
+	https://saltlakecityairport.place.hyatt.com/en/hotel/home.html
+	52 N. Tommy Thompson Road Salt Lake City, Utah, USA, 84116  
+	40.7709492 -112.001782
+hyatt place salt lake city/cottonwood 
+	https://cottonwood.place.hyatt.com/en/hotel/home.html
+	3090 E 6200 S Salt Lake City, Utah, USA, 84121  
+	40.6354822 -111.8051599
+hyatt place salt lake city/downtown/the gateway 
+	https://saltlakecitydowntown.place.hyatt.com/en/hotel/home.html
+	55 North 400 West Salt Lake City, Utah, USA, 84101  
+	40.7707705 -111.9028884
+hyatt place salt lake city/lehi 
+	https://saltlakecitylehi.place.hyatt.com/en/hotel/home.html
+	3700 North Outlet Parkway Lehi, Utah, USA, 84043  
+	40.432455 -111.8818541
+Hyatt House Herndon/Reston 
+	https://herndon.house.hyatt.com/en/hotel/home.html
+	467 Herndon Parkway Herndon, Virginia, USA, 20170  
+	38.9565114 -77.3757019
+Hyatt House Richmond-West 
+	https://richmondwest.house.hyatt.com/en/hotel/home.html
+	11800 W. Broad Street Henrico, Virginia, USA, 23233  
+	37.6553251 -77.6253194
+hyatt place charlottesville 
+	https://charlottesville.place.hyatt.com/en/hotel/home.html
+	2100 Bond Street Charlottesville, Virginia, USA, 22901  
+	38.0665503 -78.4935038
+hyatt place chesapeake/greenbrier 
+	https://chesapeakegreenbrier.place.hyatt.com/en/hotel/home.html
+	709 Eden Way North Chesapeake, Virginia, USA, 23320  
+	36.7713179 -76.2378841
+Hyatt House Seattle/Bellevue 
+	https://bellevue.house.hyatt.com/en/hotel/home.html
+	3244 139th Avenue SE Bellevue, Washington, USA, 98005  
+	47.58067 -122.154241
+hyatt place madison/downtown 
+	https://madisondowntown.place.hyatt.com/en/hotel/home.html
+	333 W Washington Avenue Madison, Wisconsin, USA, 53703  
+	43.0717035 -89.3876148
+Hyatt Regency Milwaukee 
+	https://milwaukee.regency.hyatt.com/en/hotel/home.html
+	333 West Kilbourn Avenue Milwaukee, Wisconsin, USA, 53203  
+	43.0408791 -87.91504359999999
+PARK HYATT MENDOZA 
+	https://mendoza.park.hyatt.com/en/hotel/home.html
+	Chile 1124 Mendoza,  Argentina, 5500  
+	-32.889215 -68.845828
+hyatt place edmonton/downtown 
+	https://edmontondowntown.place.hyatt.com/en/hotel/home.html
+	9576 Jasper Avenue NW Edmonton, Alberta, Canada, T5H4H7  
+	53.5442768 -113.4818577
+Hyatt Regency Montreal 
+	https://montreal.regency.hyatt.com/en/hotel/home.html
+	1255 Jeanne-Mance Montreal, Quebec, Canada, H5B 1E5  
+	45.5062118 -73.5640521
+hyatt place santiago/vitacura 
+	https://santiagovitacura.place.hyatt.com/en/hotel/home.html
+	Avenida Americo Vespucio Norte 1597 - Vitacura Santiago,  Chile, 7630293  
+	-33.3997159 -70.58722089999999
+Hyatt Regency Cartagena 
+	https://cartagena.regency.hyatt.com/en/hotel/home.html
+	Carrera 1 #12-118 Cartagena,  Colombia, 130000  
+	0 0
+hyatt place san jose/pinares 
+	https://sanjosepinares.place.hyatt.com/en/hotel/home.html
+	Plaza Momentum Pinares San Jose,  Costa Rica   
+	9.9143651 -84.0233516
+Hyatt Regency Andares Guadalajara 
+	https://andaresguadalajara.regency.hyatt.com/en/hotel/home.html
+	Puerta de Hierro 4965 Zapopan, Jalisco, Mexico, 45116  
+	20.7101743 -103.4117084
+Hyatt Regency Dongguan 
+	https://dongguan.regency.hyatt.com/en/hotel/home.html
+	Song Shan Lake National High-tech Industrial Development Zone, Qinyuan Road Dongguan, Guangdong, China, 523808  
+	22.9695292 113.8980913
+Hyatt Regency Wuhan Optics Valley 
+	https://wuhanopticsvalley.regency.hyatt.com/en/hotel/home.html
+	No.1077 Luoyu Road, Hongshan District Wuhan, Hubei Province, China, 430074 45 minutes from Wuhan TianHe International Airport 
+	0 0
+Hyatt Regency Wuxi 
+	https://wuxi.regency.hyatt.com/en/hotel/home.html
+	109, Renmin Zhong Road Wuxi, Jiangsu Province, China, 214000 Adjacent to the national 4A pedestrian avenue, Chong An Street 
+	0 0
+GRAND HYATT SHENYANG 
+	https://shenyang.grand.hyatt.com/en/hotel/home.html
+	No. 288A, Qingnian Street, Heping District Shenyang,  China, 110004  
+	41.776284 123.434211
+Hyatt Regency Qingdao 
+	https://qingdao.regency.hyatt.com/en/hotel/home.html
+	88 Donghai East Road Qingdao, Shandong, China, 266061  
+	36.088363 120.460798
+Hyatt Regency Chongming 
+	https://chongming.regency.hyatt.com/en/hotel/home.html
+	Lane 799, Lan Hai Road, Chenjia Town, Chongming County Shanghai,  China, 202162  
+	31.515355 121.8314499
+Hyatt Regency Fuzhou Cangshan 
+	https://fuzhoucangshan.regency.hyatt.com/en/hotel/home.html
+	46 Huaxi Nan Road Cangshan District Fuzhou,  China, 350008  
+	26.0489666 119.3198001
+Hyatt Regency Jinan 
+	https://jinan.regency.hyatt.com/en/hotel/home.html
+	187 Jingsi Road, Shizhong District Jinan,  China, 250001  
+	36.662827 117.000244
+Hyatt Regency Shanghai, Wujiaochang 
+	https://shanghaiwujiaochang.regency.hyatt.com/en/hotel/home.html
+	88 East Guoding Road Shanghai,  China, 200433  
+	31.2937975 121.5157729
+Hyatt Regency Suzhou 
+	https://suzhou.regency.hyatt.com/en/hotel/home.html
+	88 Huachi Street, Suzhou Industrial Park Suzhou,  China, 215028  
+	31.3182833 120.7130856
+Hyatt Regency Xi'an 
+	https://xian.regency.hyatt.com/en/hotel/home.html
+	988 Qu Jiang Chi East Road, Qu Jiang New District Xi'an,  China, 710061 45-minute drive to the airport 
+	0 0
+PARK HYATT HYDERABAD 
+	https://hyderabad.park.hyatt.com/en/hotel/home.html
+	Road No. 2, Banjara Hills Hyderabad, Telangana, India, 500034  
+	0 0
+hyatt place goa candolim 
+	https://goacandolim.place.hyatt.com/en/hotel/home.html
+	Anna Waddo, Main Candolim Road Bardez, Goa ,  India, 403515  
+	0 0
+Hyatt Regency Delhi 
+	https://delhi.regency.hyatt.com/en/hotel/home.html
+	Bhikaiji Cama Place, Ring Road New Delhi,  India, 110066  
+	0 0
+Hyatt Regency Mumbai 
+	https://mumbai.regency.hyatt.com/en/hotel/home.html
+	Sahar Airport Road Mumbai,  India, 400 099  
+	0 0
+Hyatt Regency Pune 
+	https://pune.regency.hyatt.com/en/hotel/home.html
+	Weikfield IT Park, Nagar Road Pune,  India, 411014  
+	0 0
+Hyatt Regency Fukuoka 
+	https://fukuoka.regency.hyatt.com/en/hotel/home.html
+	2-14-1 Hakataeki Higashi, Hakata-Ku Fukuoka,  Japan, 812-0013  
+	33.5891385 130.4269358
+Hyatt Regency Osaka 
+	https://osaka.regency.hyatt.com/en/hotel/home.html
+	1-13-11 Nanko-Kita, Suminoe-Ku Osaka,  Japan, 559-0034  
+	0 0
+Hyatt Regency Saipan 
+	https://saipan.regency.hyatt.com/en/hotel/home.html
+	Royal Palm Avenue, Micro Beach Road, Garapan, Saipan, MP 96950 Saipan, Mariana Islands, Micronesia   
+	0 0
+Hyatt City of Dreams Manila 
+	https://cityofdreamsmanila.hyatt.com/en/hotel/home.html
+	Asean Avenue corner Roxas Boulevard, Entertainment City Para�aque, Manila,  Philippines, 1701  
+	0 0
+hyatt place phuket, patong 
+	https://phuketpatong.place.hyatt.com/en/hotel/home.html
+	17/1-3 Soi Prabaramee 4, Patong Phuket,  Thailand, 83150 30-minute drive from Phuket International Airport 
+	0 0
+Hyatt Regency Tashkent 
+	https://tashkent.regency.hyatt.com/en/hotel/home.html
+	Navoi Street, 1 A Tashkent,  Uzbekistan   
+	0 0
+hyatt place yerevan 
+	https://yerevan.place.hyatt.com/en/hotel/home.html
+	26/1, V. Sargsyan Street Yerevan,  Armenia, 0010  
+	0 0
+Hyatt Regency Sharm El Sheikh Resort 
+	https://sharmelsheikh.regency.hyatt.com/en/hotel/home.html
+	Gardens Bay, PO Box 58, South Sinai, Egypt Sharm El Sheikh,  Egypt   
+	0 0
+hyatt place london heathrow hayes
+	https://londonheathrowairport.place.hyatt.com/en/hotel/home.html
+	Hayes Gate House, 27 Uxbridge Road Hayes,  England (United Kingdom), UB4 0JN
+	0 0
+Hyatt Regency Thessaloniki 
+	https://thessaloniki.regency.hyatt.com/en/hotel/home.html
+	13 kilometres Thessaloniki-Perea Thessaloniki,  Greece, 57001
+	0 0
+hyatt place taghazout bay 
+	https://taghazoutbay.place.hyatt.com/en/hotel/home.html
+	Station Touristique de Taghazout Km 17, Route d'Essaouira, Agadir,  Morocco, 80750  
+	0 0
+Hyatt Regency Ekaterinburg 
+	https://ekaterinburg.regency.hyatt.com/en/hotel/home.html
+	8, Borisa Yeltsina Street Ekaterinburg,  Russia, 620014  
+	0 0
+Hyatt Regency Belgrade 
+	https://belgrade.regency.hyatt.com/en/hotel/home.html
+	PO Box 067, Milentija Popovica 5 Belgrade,  Serbia, 11070  
+	0 0
+Hyatt Regency Johannesburg 
+	https://johannesburg.regency.hyatt.com/en/hotel/home.html
+	191 Oxford Road, Rosebank Johannesburg,  South Africa, 2132  
+	0 0
+Hyatt Regency Dushanbe 
+	https://dushanbe.regency.hyatt.com/en/hotel/home.html
+	26/1, Ismoili Somoni Prospekt Dushanbe,  Tajikistan, 734026  
+	0 0
+hyatt place dubai baniyas square 
+	https://dubaibaniyassquare.place.hyatt.com/en/hotel/home.html
+	P.O. Box 36588 Dubai,  United Arab Emirates   
+	0 0
+hyatt place dubai/al rigga 
+	https://dubaialrigga.place.hyatt.com/en/hotel/home.html
+	P.O. Box 33178 Dubai,  United Arab Emirates   
+	0 0

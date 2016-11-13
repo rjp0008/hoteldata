@@ -1,0 +1,2960 @@
+Fairfield Inn & Suites Athens I-65
+	/hotels/rewards-points/hsvat-fairfield-inn-and-suites-athens-i-65/
+	21282 Athens-Limestone Lane Athens
+	0 0
+Courtyard Birmingham Downtown at UAB
+	/hotels/rewards-points/bhmdw-courtyard-birmingham-downtown-at-uab/
+	1820 5th Avenue South Birmingham
+	0 0
+Birmingham Marriott
+	/hotels/rewards-points/bhmmc-birmingham-marriott/
+	3590 Grandview Parkway Birmingham
+	0 0
+Residence Inn Birmingham Downtown at UAB
+	/hotels/rewards-points/bhmri-residence-inn-birmingham-downtown-at-uab/
+	821 20th Street South Birmingham
+	0 0
+Courtyard Columbus Phenix City/Riverfront
+	/hotels/rewards-points/csgcp-courtyard-columbus-phenix-city-riverfront/
+	1400 3rd Avenue Phenix City
+	0 0
+Residence Inn Phoenix Chandler/Fashion Center
+	/hotels/rewards-points/phxcd-residence-inn-phoenix-chandler-fashion-center/
+	200 North Federal Street Chandler
+	0 0
+Courtyard Phoenix Chandler
+	/hotels/rewards-points/phxcl-courtyard-phoenix-chandler/
+	920 N 54th Street Chandler
+	0 0
+SpringHill Suites Phoenix Chandler/Fashion Center
+	/hotels/rewards-points/phxcs-springhill-suites-phoenix-chandler-fashion-center/
+	225 N. Metro Boulevard Chandler
+	0 0
+Fairfield Inn & Suites Phoenix Chandler/Fashion Center
+	/hotels/rewards-points/phxff-fairfield-inn-and-suites-phoenix-chandler-fashion-center/
+	1100 South Price Road Chandler
+	0 0
+SpringHill Suites Phoenix Glendale Sports & Entertainment District
+	/hotels/rewards-points/phxgl-springhill-suites-phoenix-glendale-sports-and-entertainment-district/
+	7370 N. Zanjero (Janjero) Boulevard Glendale
+	0 0
+Residence Inn Phoenix Goodyear
+	/hotels/rewards-points/phxgy-residence-inn-phoenix-goodyear/
+	2020 N. Litchfield Rd. Goodyear
+	0 0
+Residence Inn Phoenix Mesa
+	/hotels/rewards-points/phxrm-residence-inn-phoenix-mesa/
+	941 W. Grove Avenue Mesa
+	0 0
+Fairfield Inn & Suites Phoenix Midtown
+	/hotels/rewards-points/phxas-fairfield-inn-and-suites-phoenix-midtown/
+	2520 N. Central Avenue Phoenix
+	0 0
+Courtyard Phoenix North/Happy Valley
+	/hotels/rewards-points/phxbc-courtyard-phoenix-north-happy-valley/
+	2029 West Whispering Wind Drive (formerly Hatfield Road) Phoenix
+	0 0
+Fairfield Inn & Suites Phoenix North
+	/hotels/rewards-points/phxbr-fairfield-inn-and-suites-phoenix-north/
+	17017 N. Black Canyon Highway Phoenix
+	0 0
+Courtyard Phoenix Airport
+	/hotels/rewards-points/phxca-courtyard-phoenix-airport/
+	2621 South 47th Street Phoenix
+	0 0
+Residence Inn Phoenix Desert View at Mayo Clinic
+	/hotels/rewards-points/phxmh-residence-inn-phoenix-desert-view-at-mayo-clinic/
+	5665 E. Mayo Boulevard Phoenix
+	0 0
+Residence Inn Phoenix Airport
+	/hotels/rewards-points/phxra-residence-inn-phoenix-airport/
+	801 North 44th Street Phoenix
+	0 0
+SpringHill Suites Phoenix North
+	/hotels/rewards-points/phxss-springhill-suites-phoenix-north/
+	9425 N. Black Canyon Highway Phoenix
+	0 0
+Residence Inn Prescott
+	/hotels/rewards-points/prcri-residence-inn-prescott/
+	3599 Lee Circle Prescott
+	0 0
+Fairfield Inn Scottsdale North
+	/hotels/rewards-points/phxfi-fairfield-inn-scottsdale-north/
+	13440 N Scottsdale Road Scottsdale
+	0 0
+Courtyard Scottsdale at Mayo Clinic
+	/hotels/rewards-points/phxmy-courtyard-scottsdale-at-mayo-clinic/
+	13444 East Shea Boulevard Scottsdale
+	0 0
+Courtyard Scottsdale Salt River
+	/hotels/rewards-points/phxpi-courtyard-scottsdale-salt-river/
+	5201 North Pima Road Scottsdale
+	0 0
+Residence Inn Scottsdale Paradise Valley
+	/hotels/rewards-points/phxrs-residence-inn-scottsdale-paradise-valley/
+	6040 North Scottsdale Road Scottsdale
+	0 0
+Courtyard Scottsdale Old Town
+	/hotels/rewards-points/phxsc-courtyard-scottsdale-old-town/
+	3311 North Scottsdale Road Scottsdale
+	0 0
+TownePlace Suites Scottsdale
+	/hotels/rewards-points/phxto-towneplace-suites-scottsdale/
+	10740 North 90th Street Scottsdale
+	0 0
+TownePlace Suites Tempe at Arizona Mills Mall
+	/hotels/rewards-points/phxtt-towneplace-suites-tempe-at-arizona-mills-mall/
+	5223 South Priest Drive Tempe
+	0 0
+Little Rock Marriott
+	/hotels/rewards-points/litpb-little-rock-marriott/
+	3 Statehouse Plaza Little Rock
+	0 0
+Residence Inn Springdale
+	/hotels/rewards-points/spzri-residence-inn-springdale/
+	1740 South 48th Street Springdale
+	0 0
+Courtyard Anaheim Buena Park
+	/hotels/rewards-points/snabp-courtyard-anaheim-buena-park/
+	7621 Beach Boulevard Buena Park
+	0 0
+Fairfield Inn & Suites Anaheim North/Buena Park
+	/hotels/rewards-points/snapk-fairfield-inn-and-suites-anaheim-north-buena-park/
+	7828 Orangethorpe Avenue Buena Park
+	0 0
+Courtyard Camarillo
+	/hotels/rewards-points/oxrch-courtyard-camarillo/
+	4994 Verdugo Way Camarillo
+	0 0
+Residence Inn Camarillo
+	/hotels/rewards-points/oxrcr-residence-inn-camarillo/
+	2912 Petit Street Camarillo
+	0 0
+Courtyard Chico
+	/hotels/rewards-points/ciccy-courtyard-chico/
+	2481 Carmichael Drive Chico
+	0 0
+Residence Inn Chico
+	/hotels/rewards-points/cicri-residence-inn-chico/
+	2485 Carmichael Drive Chico
+	0 0
+Courtyard San Jose Cupertino
+	/hotels/rewards-points/sjccu-courtyard-san-jose-cupertino/
+	10605 North Wolfe Road Cupertino
+	0 0
+Fairfield Inn & Suites Fairfield Napa Valley Area
+	/hotels/rewards-points/oaknp-fairfield-inn-and-suites-fairfield-napa-valley-area/
+	315 Pittman Road Fairfield
+	0 0
+Courtyard Huntington Beach Fountain Valley
+	/hotels/rewards-points/snafc-courtyard-huntington-beach-fountain-valley/
+	9950 Slater Avenue Fountain Valley
+	0 0
+Residence Inn Fremont Silicon Valley
+	/hotels/rewards-points/sjcbf-residence-inn-fremont-silicon-valley/
+	5400 Farwell Place Fremont
+	0 0
+Fremont Marriott Silicon Valley
+	/hotels/rewards-points/sjcfm-fremont-marriott-silicon-valley/
+	46100 Landing Parkway Fremont
+	0 0
+Courtyard Los Angeles Hacienda Heights/Orange County
+	/hotels/rewards-points/laxhh-courtyard-los-angeles-hacienda-heights-orange-county/
+	1905 S Azusa Avenue Hacienda Heights
+	0 0
+Courtyard Irvine John Wayne Airport/Orange County
+	/hotels/rewards-points/laxch-courtyard-irvine-john-wayne-airport-orange-county/
+	2701 Main Street Irvine
+	0 0
+Residence Inn Irvine Spectrum
+	/hotels/rewards-points/snair-residence-inn-irvine-spectrum/
+	10 Morgan Irvine
+	0 0
+Courtyard Laguna Hills Irvine Spectrum/Orange County
+	/hotels/rewards-points/snalh-courtyard-laguna-hills-irvine-spectrum-orange-county/
+	23175 Avenida de la Carlota Laguna Hills
+	0 0
+Courtyard Long Beach Downtown
+	/hotels/rewards-points/lgbcy-courtyard-long-beach-downtown/
+	500 East First Street Long Beach
+	0 0
+Residence Inn Long Beach Downtown
+	/hotels/rewards-points/lgbri-residence-inn-long-beach-downtown/
+	600 Queensway Drive Long Beach
+	0 0
+Residence Inn Cypress Los Alamitos
+	/hotels/rewards-points/snaoc-residence-inn-cypress-los-alamitos/
+	4931 Katella Avenue Los Alamitos
+	0 0
+Courtyard Merced
+	/hotels/rewards-points/mcecy-courtyard-merced/
+	750 Motel Drive Merced
+	0 0
+Courtyard Milpitas Silicon Valley
+	/hotels/rewards-points/sjcmp-courtyard-milpitas-silicon-valley/
+	1480 Falcon Drive Milpitas
+	0 0
+TownePlace Suites Milpitas Silicon Valley
+	/hotels/rewards-points/sjctm-towneplace-suites-milpitas-silicon-valley/
+	1428 Falcon Drive Milpitas
+	0 0
+Fairfield Inn Mission Viejo Orange County
+	/hotels/rewards-points/snavo-fairfield-inn-mission-viejo-orange-county/
+	26328 Oso Parkway Mission Viejo
+	0 0
+Residence Inn San Jose South/Morgan Hill
+	/hotels/rewards-points/sjcmo-residence-inn-san-jose-south-morgan-hill/
+	18620 Madrone Parkway Morgan Hill
+	0 0
+Courtyard Newark Silicon Valley
+	/hotels/rewards-points/sjcft-courtyard-newark-silicon-valley/
+	34905 Newark Blvd Newark
+	0 0
+Residence Inn Newark Silicon Valley
+	/hotels/rewards-points/sjcnw-residence-inn-newark-silicon-valley/
+	35466 Dumbarton Court Newark
+	0 0
+Residence Inn Oxnard River Ridge
+	/hotels/rewards-points/oxrri-residence-inn-oxnard-river-ridge/
+	2101 West Vineyard Ave. Oxnard
+	0 0
+Residence Inn Anaheim Placentia/Fullerton
+	/hotels/rewards-points/snapl-residence-inn-anaheim-placentia-fullerton/
+	700 W Kimberly Avenue Placentia
+	0 0
+Courtyard Pleasant Hill
+	/hotels/rewards-points/oakcp-courtyard-pleasant-hill/
+	2250 Contra Costa Boulevard Pleasant Hill
+	0 0
+Residence Inn Pleasant Hill Concord
+	/hotels/rewards-points/oakph-residence-inn-pleasant-hill-concord/
+	700 Ellinwood Way Pleasant Hill
+	0 0
+Courtyard Pleasanton
+	/hotels/rewards-points/oakpl-courtyard-pleasanton/
+	5059 Hopyard Road Pleasanton
+	0 0
+Sacramento Marriott Rancho Cordova
+	/hotels/rewards-points/sacmc-sacramento-marriott-rancho-cordova/
+	11211 Point East Drive Rancho Cordova
+	0 0
+Residence Inn Sacramento Rancho Cordova
+	/hotels/rewards-points/sacrr-residence-inn-sacramento-rancho-cordova/
+	2779 Prospect Park Drive Rancho Cordova
+	0 0
+Courtyard Ontario Rancho Cucamonga
+	/hotels/rewards-points/ontcy-courtyard-ontario-rancho-cucamonga/
+	11525 Mission Vista Dr. Rancho Cucamonga
+	0 0
+TownePlace Suites Redding
+	/hotels/rewards-points/rddrd-towneplace-suites-redding/
+	2180 Larkspur Lane Redding
+	0 0
+Courtyard Richmond Berkeley
+	/hotels/rewards-points/oakcy-courtyard-richmond-berkeley/
+	3150 Garrity Way Richmond
+	0 0
+Marriott Riverside at the Convention Center
+	/hotels/rewards-points/ralmc-marriott-riverside-at-the-convention-center/
+	3400 Market Street Riverside
+	0 0
+Fairfield Inn & Suites Los Angeles Rosemead
+	/hotels/rewards-points/laxfr-fairfield-inn-and-suites-los-angeles-rosemead/
+	705 San Gabriel Boulevard Rosemead
+	0 0
+SpringHill Suites Sacramento Roseville
+	/hotels/rewards-points/sacsr-springhill-suites-sacramento-roseville/
+	10593 Fairway Drive Roseville
+	0 0
+SpringHill Suites Sacramento Airport Natomas
+	/hotels/rewards-points/sacsh-springhill-suites-sacramento-airport-natomas/
+	2555 Venture Oaks Way Sacramento
+	0 0
+Residence Inn San Bernardino
+	/hotels/rewards-points/ontbe-residence-inn-san-bernardino/
+	1040 E. Harriman Place San Bernardino
+	0 0
+Courtyard San Diego Rancho Bernardo
+	/hotels/rewards-points/sanbo-courtyard-san-diego-rancho-bernardo/
+	11611 Bernardo Plaza Court San Diego
+	0 0
+Courtyard San Jose North/Silicon Valley
+	/hotels/rewards-points/sjcno-courtyard-san-jose-north-silicon-valley/
+	111 Holger Way San Jose
+	0 0
+Courtyard San Ramon
+	/hotels/rewards-points/oakrm-courtyard-san-ramon/
+	18090 San Ramon Valley Blvd San Ramon
+	0 0
+Residence Inn San Ramon
+	/hotels/rewards-points/oakrs-residence-inn-san-ramon/
+	1071 Market Place San Ramon
+	0 0
+Courtyard Costa Mesa South Coast Metro
+	/hotels/rewards-points/snasa-courtyard-costa-mesa-south-coast-metro/
+	3002 South Harbor Boulevard Santa Ana
+	0 0
+TownePlace Suites San Jose Santa Clara
+	/hotels/rewards-points/sjcsn-towneplace-suites-san-jose-santa-clara/
+	2877 Lakeside Drive Santa Clara
+	0 0
+Courtyard Ventura Simi Valley
+	/hotels/rewards-points/oxrcy-courtyard-ventura-simi-valley/
+	191 Cochran Street Simi Valley
+	0 0
+TownePlace Suites Sunnyvale Mountain View
+	/hotels/rewards-points/sjcss-towneplace-suites-sunnyvale-mountain-view/
+	606 South Bernardo Avenue Sunnyvale
+	0 0
+Courtyard Los Angeles Torrance/Palos Verdes
+	/hotels/rewards-points/laxto-courtyard-los-angeles-torrance-palos-verdes/
+	2633 Sepulveda Boulevard Torrance
+	0 0
+Fairfield Inn & Suites Tustin Orange County
+	/hotels/rewards-points/snatf-fairfield-inn-and-suites-tustin-orange-county/
+	15011 Newport Avenue Tustin
+	0 0
+Fairfield Inn & Suites Ukiah Mendocino County
+	/hotels/rewards-points/stsuk-fairfield-inn-and-suites-ukiah-mendocino-county/
+	1140 Airport Park Boulevard Ukiah
+	0 0
+Courtyard Vallejo Napa Valley
+	/hotels/rewards-points/sfovl-courtyard-vallejo-napa-valley/
+	1000 Fairgrounds Drive Vallejo
+	0 0
+Visalia Marriott at the Convention Center
+	/hotels/rewards-points/vismc-visalia-marriott-at-the-convention-center/
+	300 South Court Visalia
+	0 0
+Fairfield Inn & Suites Los Angeles West Covina
+	/hotels/rewards-points/laxfs-fairfield-inn-and-suites-los-angeles-west-covina/
+	3211 East Garvey Avenue North West Covina
+	0 0
+Fairfield Inn & Suites Alamosa
+	/hotels/rewards-points/alsfi-fairfield-inn-and-suites-alamosa/
+	721 Mariposa Street Alamosa
+	0 0
+Fairfield Inn Colorado Springs Air Force Academy
+	/hotels/rewards-points/cosfi-fairfield-inn-colorado-springs-air-force-academy/
+	7085 Commerce Center Drive Colorado Springs
+	0 0
+Fairfield Inn & Suites Colorado Springs South
+	/hotels/rewards-points/cosfs-fairfield-inn-and-suites-colorado-springs-south/
+	2725 Geyser Drive Colorado Springs
+	0 0
+SpringHill Suites Colorado Springs South
+	/hotels/rewards-points/coshs-springhill-suites-colorado-springs-south/
+	1570 N Newport Road Colorado Springs
+	0 0
+Fairfield Inn & Suites Colorado Springs North/Air Force Academy
+	/hotels/rewards-points/cossm-fairfield-inn-and-suites-colorado-springs-north-air-force-academy/
+	15275 Struthers Road Colorado Springs
+	0 0
+TownePlace Suites Colorado Springs South
+	/hotels/rewards-points/cosss-towneplace-suites-colorado-springs-south/
+	1530 N. Newport Road Colorado Springs
+	0 0
+TownePlace Suites Colorado Springs Garden of the Gods
+	/hotels/rewards-points/costs-towneplace-suites-colorado-springs-garden-of-the-gods/
+	4760 Centennial Blvd. Colorado Springs
+	0 0
+Residence Inn Colorado Springs North/Air Force Academy
+	/hotels/rewards-points/costw-residence-inn-colorado-springs-north-air-force-academy/
+	9805 Federal Drive Colorado Springs
+	0 0
+Courtyard Denver Cherry Creek
+	/hotels/rewards-points/dench-courtyard-denver-cherry-creek/
+	1475 S. Colorado Blvd Denver
+	0 0
+Fairfield Inn & Suites Denver Airport
+	/hotels/rewards-points/denfa-fairfield-inn-and-suites-denver-airport/
+	6851 Tower Road Denver
+	0 0
+Fairfield Inn & Suites Denver Cherry Creek
+	/hotels/rewards-points/denfi-fairfield-inn-and-suites-denver-cherry-creek/
+	1680 South Colorado Blvd Denver
+	0 0
+TownePlace Suites Denver Airport at Gateway Park
+	/hotels/rewards-points/denta-towneplace-suites-denver-airport-at-gateway-park/
+	4100 N. Kittredge Street Denver
+	0 0
+Fairfield Inn & Suites Grand Junction Downtown/Historic Main Street
+	/hotels/rewards-points/gjtfi-fairfield-inn-and-suites-grand-junction-downtown-historic-main-street/
+	225 Main Street Grand Junction
+	0 0
+SpringHill Suites Grand Junction Downtown/Historic Main Street
+	/hotels/rewards-points/gjtsh-springhill-suites-grand-junction-downtown-historic-main-street/
+	236 Main Street Grand Junction
+	0 0
+Residence Inn Denver Tech Center
+	/hotels/rewards-points/denew-residence-inn-denver-tech-center/
+	6565 South Yosemite St. Greenwood Village
+	0 0
+Residence Inn Denver Highlands Ranch
+	/hotels/rewards-points/denhr-residence-inn-denver-highlands-ranch/
+	93 West Centennial Boulevard Highlands Ranch
+	0 0
+Courtyard Denver Southwest/Lakewood
+	/hotels/rewards-points/denlk-courtyard-denver-southwest-lakewood/
+	7180 West Hampden Avenue Lakewood
+	0 0
+Courtyard Denver Southwest/Littleton
+	/hotels/rewards-points/denlt-courtyard-denver-southwest-littleton/
+	3056 West County Line Road Littleton
+	0 0
+SpringHill Suites Boulder Longmont
+	/hotels/rewards-points/denbl-springhill-suites-boulder-longmont/
+	1470 Dry Creek Drive Longmont
+	0 0
+Courtyard Boulder Longmont
+	/hotels/rewards-points/denlg-courtyard-boulder-longmont/
+	1410 Dry Creek Drive Longmont
+	0 0
+Residence Inn Boulder Longmont
+	/hotels/rewards-points/vbori-residence-inn-boulder-longmont/
+	1450 Dry Creek Drive Longmont
+	0 0
+Courtyard Boulder Louisville
+	/hotels/rewards-points/denls-courtyard-boulder-louisville/
+	948 West Dillon Road Louisville
+	0 0
+Residence Inn Boulder Louisville
+	/hotels/rewards-points/vborl-residence-inn-boulder-louisville/
+	845 Coal Creek Circle Louisville
+	0 0
+Fairfield Inn & Suites Loveland Fort Collins
+	/hotels/rewards-points/ftclv-fairfield-inn-and-suites-loveland-fort-collins/
+	1710 Foxtrail Drive Loveland
+	0 0
+Residence Inn Danbury
+	/hotels/rewards-points/dxrri-residence-inn-danbury/
+	22 Segar Street Danbury
+	0 0
+Residence Inn Hartford Downtown
+	/hotels/rewards-points/bdlri-residence-inn-hartford-downtown/
+	942 Main Street Hartford
+	0 0
+Residence Inn Hartford Manchester
+	/hotels/rewards-points/bdlmn-residence-inn-hartford-manchester/
+	201 Hale Road Manchester
+	0 0
+SpringHill Suites Milford
+	/hotels/rewards-points/bdrsh-springhill-suites-milford/
+	50 Rowe Avenue Milford
+	0 0
+Trumbull Marriott Merritt Parkway
+	/hotels/rewards-points/bdrct-trumbull-marriott-merritt-parkway/
+	180 Hawley Lane Trumbull
+	0 0
+Hartford/Windsor Marriott Airport
+	/hotels/rewards-points/bdlap-hartford-windsor-marriott-airport/
+	28 Day Hill Road Windsor
+	0 0
+Courtyard Wilmington Newark/Christiana Mall
+	/hotels/rewards-points/ilgwc-courtyard-wilmington-newark-christiana-mall/
+	48 Geoffrey Drive Newark
+	0 0
+Fairfield Inn & Suites Boca Raton
+	/hotels/rewards-points/pbiap-fairfield-inn-and-suites-boca-raton/
+	3400 Airport Road Boca Raton
+	0 0
+Residence Inn Boca Raton
+	/hotels/rewards-points/pbibo-residence-inn-boca-raton/
+	525 NW 77th Street Boca Raton
+	0 0
+SpringHill Suites Boca Raton
+	/hotels/rewards-points/pbish-springhill-suites-boca-raton/
+	5130 NW 8th Avenue Boca Raton
+	0 0
+TownePlace Suites Boca Raton
+	/hotels/rewards-points/pbits-towneplace-suites-boca-raton/
+	5110 NW 8th Avenue Boca Raton
+	0 0
+Fairfield Inn & Suites Sarasota Lakewood Ranch
+	/hotels/rewards-points/srqfi-fairfield-inn-and-suites-sarasota-lakewood-ranch/
+	6105 Exchange Way Bradenton
+	0 0
+SpringHill Suites St. Petersburg Clearwater
+	/hotels/rewards-points/tpace-springhill-suites-st-petersburg-clearwater/
+	3485 Ulmerton Road Clearwater
+	0 0
+Fairfield Inn & Suites Clearwater
+	/hotels/rewards-points/tpacr-fairfield-inn-and-suites-clearwater/
+	3070 Gulf to Bay Boulevard Clearwater
+	0 0
+Fairfield Inn & Suites Clermont
+	/hotels/rewards-points/mcocm-fairfield-inn-and-suites-clermont/
+	1750 Hunt Trace Clermont
+	0 0
+Courtyard Daytona Beach Speedway/Airport
+	/hotels/rewards-points/dabcy-courtyard-daytona-beach-speedway-airport/
+	1605 Richard Petty Blvd. Daytona Beach
+	0 0
+Courtyard Fort Lauderdale North/Cypress Creek
+	/hotels/rewards-points/fllcp-courtyard-fort-lauderdale-north-cypress-creek/
+	2440 W. Cypress Creek Road Fort Lauderdale
+	0 0
+TownePlace Suites Fort Lauderdale West
+	/hotels/rewards-points/flltc-towneplace-suites-fort-lauderdale-west/
+	3100 West Prospect Road Fort Lauderdale
+	0 0
+Courtyard Fort Lauderdale Weston
+	/hotels/rewards-points/fllwc-courtyard-fort-lauderdale-weston/
+	2000 N. Commerce Parkway Fort Lauderdale
+	0 0
+TownePlace Suites Fort Walton Beach-Eglin AFB
+	/hotels/rewards-points/vpsts-towneplace-suites-fort-walton-beach-eglin-afb/
+	843 Eglin Parkway Fort Walton Beach
+	0 0
+TownePlace Suites Gainesville Northwest
+	/hotels/rewards-points/gnvnw-towneplace-suites-gainesville-northwest/
+	7451 West Newberry Road Gainesville
+	0 0
+TownePlace Suites Miami Homestead
+	/hotels/rewards-points/miatm-towneplace-suites-miami-homestead/
+	935 NE 30th Terrace Homestead
+	0 0
+Jacksonville Marriott
+	/hotels/rewards-points/jaxfl-jacksonville-marriott/
+	4670 Salisbury Road Jacksonville
+	0 0
+Courtyard Jacksonville Mayo Clinic/Beaches
+	/hotels/rewards-points/jaxmc-courtyard-jacksonville-mayo-clinic-beaches/
+	14390 Mayo Boulevard Jacksonville
+	0 0
+Courtyard Palm Beach Jupiter
+	/hotels/rewards-points/pbija-courtyard-palm-beach-jupiter/
+	4800 Main Street Jupiter
+	0 0
+Fairfield Inn & Suites Lake City
+	/hotels/rewards-points/gnvlc-fairfield-inn-and-suites-lake-city/
+	538 SW Corporate Drive Lake City
+	0 0
+Orlando Marriott Lake Mary
+	/hotels/rewards-points/mcoml-orlando-marriott-lake-mary/
+	1501 International Parkway Lake Mary
+	0 0
+Courtyard Lakeland
+	/hotels/rewards-points/tpalk-courtyard-lakeland/
+	3725 Harden Blvd Lakeland
+	0 0
+TownePlace Suites Lakeland
+	/hotels/rewards-points/tpaxl-towneplace-suites-lakeland/
+	3370 North Road 98 Lakeland
+	0 0
+Residence Inn Tampa Suncoast Parkway at NorthPointe Village
+	/hotels/rewards-points/tpasc-residence-inn-tampa-suncoast-parkway-at-northpointe-village/
+	2101 Northpointe Parkway Lutz
+	0 0
+TownePlace Suites Miami Airport West/Doral Area
+	/hotels/rewards-points/miata-towneplace-suites-miami-airport-west-doral-area/
+	10505 NW 36th Street Miami
+	0 0
+Courtyard Miami Lakes
+	/hotels/rewards-points/miaml-courtyard-miami-lakes/
+	15700 NW 77th Court Miami Lakes
+	0 0
+Fairfield Inn & Suites Ocala
+	/hotels/rewards-points/gnvfo-fairfield-inn-and-suites-ocala/
+	4101 S.W. 38th Court Ocala
+	0 0
+Residence Inn Tampa Oldsmar
+	/hotels/rewards-points/tpaod-residence-inn-tampa-oldsmar/
+	4012 Tampa Road Oldsmar
+	0 0
+Courtyard Orlando Lake Buena Vista at Vista Centre
+	/hotels/rewards-points/mcobn-courtyard-orlando-lake-buena-vista-at-vista-centre/
+	8501 Palm Parkway Orlando
+	0 0
+Courtyard Orlando Airport
+	/hotels/rewards-points/mcoch-courtyard-orlando-airport/
+	7155 North Frontage Road Orlando
+	0 0
+Courtyard Orlando Lake Nona
+	/hotels/rewards-points/mcolc-courtyard-orlando-lake-nona/
+	6955 Lake Nona Boulevard Orlando
+	0 0
+Residence Inn Orlando Lake Nona
+	/hotels/rewards-points/mcoln-residence-inn-orlando-lake-nona/
+	6955 Lake Nona Boulevard Orlando
+	0 0
+Courtyard Orlando Downtown
+	/hotels/rewards-points/mcoma-courtyard-orlando-downtown/
+	730 North Magnolia Avenue Orlando
+	0 0
+Courtyard Orlando International Drive/Convention Center
+	/hotels/rewards-points/mcooi-courtyard-orlando-international-drive-convention-center/
+	8600 Austrian Court Orlando
+	0 0
+Courtyard Panama City
+	/hotels/rewards-points/pfncy-courtyard-panama-city/
+	905 East 23rd Place Panama City
+	0 0
+Fairfield Inn & Suites Panama City Beach
+	/hotels/rewards-points/pfnfi-fairfield-inn-and-suites-panama-city-beach/
+	7718 Front Beach Road Panama City Beach
+	0 0
+Fairfield Inn & Suites Fort Lauderdale Pembroke Pines
+	/hotels/rewards-points/fllpe-fairfield-inn-and-suites-fort-lauderdale-pembroke-pines/
+	1650 SW 145th Avenue Pembroke Pines
+	0 0
+Courtyard Pensacola
+	/hotels/rewards-points/pnscy-courtyard-pensacola/
+	451 Creighton Road Pensacola
+	0 0
+Fairfield Inn Pensacola I-10
+	/hotels/rewards-points/pnsfi-fairfield-inn-pensacola-i-10/
+	7325 N Davis Hwy Pensacola
+	0 0
+SpringHill Suites Pensacola
+	/hotels/rewards-points/pnsps-springhill-suites-pensacola/
+	487 Creighton Road Pensacola
+	0 0
+Fairfield Inn & Suites Lakeland Plant City
+	/hotels/rewards-points/tpapc-fairfield-inn-and-suites-lakeland-plant-city/
+	4307 Sterling Commerce Dr. Plant City
+	0 0
+Residence Inn Port St. Lucie
+	/hotels/rewards-points/jenps-residence-inn-port-st-lucie/
+	1920 SW Fountainview Boulevard Port St. Lucie
+	0 0
+Fairfield Inn & Suites Fort Walton Beach-Eglin AFB
+	/hotels/rewards-points/vpsfi-fairfield-inn-and-suites-fort-walton-beach-eglin-afb/
+	1280 Eglin Parkway N. Shalimar
+	0 0
+World Golf Village Renaissance St. Augustine Resort
+	/hotels/rewards-points/jaxbr-world-golf-village-renaissance-st-augustine-resort/
+	500 South Legacy Trail St. Augustine
+	0 0
+Fairfield Inn & Suites St. Augustine I-95
+	/hotels/rewards-points/jaxst-fairfield-inn-and-suites-st-augustine-i-95/
+	305 Outlet Mall Blvd St. Augustine
+	0 0
+Courtyard Stuart
+	/hotels/rewards-points/pbist-courtyard-stuart/
+	7615 SW Lost River Road Stuart
+	0 0
+Courtyard Tallahassee North/I-10 Capital Circle
+	/hotels/rewards-points/tlhcy-courtyard-tallahassee-north-i-10-capital-circle/
+	1972 Raymond Diehl Road Tallahassee
+	0 0
+Residence Inn Tallahassee North/I-10 Capital Circle
+	/hotels/rewards-points/tlhri-residence-inn-tallahassee-north-i-10-capital-circle/
+	1880 Raymond Diehl Road Tallahassee
+	0 0
+SpringHill Suites Tampa Westshore Airport
+	/hotels/rewards-points/tpash-springhill-suites-tampa-westshore-airport/
+	4835 W Cypress Street Tampa
+	0 0
+Residence Inn Tampa Downtown
+	/hotels/rewards-points/tpatd-residence-inn-tampa-downtown/
+	101 East Tyler Street Tampa
+	0 0
+Residence Inn Tampa Westshore/Airport
+	/hotels/rewards-points/tpaws-residence-inn-tampa-westshore-airport/
+	4312 W. Boy Scout Boulevard Tampa
+	0 0
+TownePlace Suites The Villages
+	/hotels/rewards-points/leets-towneplace-suites-the-villages/
+	1141 Alonzo Ave. The Villages
+	0 0
+Residence Inn West Palm Beach
+	/hotels/rewards-points/pbipb-residence-inn-west-palm-beach/
+	2461 Metrocentre Boulevard East West Palm Beach
+	0 0
+TownePlace Suites Orlando at Flamingo Crossings/Western Entrance
+	/hotels/rewards-points/mcocr-towneplace-suites-orlando-at-flamingo-crossings-western-entrance/
+	13295 Flamingo Crossings Boulevard Winter Garden
+	0 0
+SpringHill Suites Orlando at Flamingo Crossings/Western Entrance
+	/hotels/rewards-points/mcofm-springhill-suites-orlando-at-flamingo-crossings-western-entrance/
+	13279 Flamingo Crossings Boulevard Winter Garden
+	0 0
+SpringHill Suites Atlanta Buckhead
+	/hotels/rewards-points/atlab-springhill-suites-atlanta-buckhead/
+	3459 Buckhead Loop NE Atlanta
+	0 0
+AC Hotel Atlanta Buckhead at Phipps Plaza
+	/hotels/rewards-points/atlac-ac-hotel-atlanta-buckhead-at-phipps-plaza/
+	3600 Wieuca Road NE Atlanta
+	0 0
+Atlanta Airport Marriott
+	/hotels/rewards-points/atlap-atlanta-airport-marriott/
+	4711 Best Road Atlanta
+	0 0
+Courtyard Atlanta Buckhead
+	/hotels/rewards-points/atlcb-courtyard-atlanta-buckhead/
+	3332 Peachtree Road NE Atlanta
+	0 0
+Courtyard Atlanta Midtown/Georgia Tech
+	/hotels/rewards-points/atlmn-courtyard-atlanta-midtown-georgia-tech/
+	1132 Techwood Drive NW Atlanta
+	0 0
+Residence Inn Atlanta Midtown/Georgia Tech
+	/hotels/rewards-points/atlmt-residence-inn-atlanta-midtown-georgia-tech/
+	1041 West Peachtree Street NW Atlanta
+	0 0
+Atlanta Marriott Century Center/Emory Area
+	/hotels/rewards-points/atlne-atlanta-marriott-century-center-emory-area/
+	2000 Century Boulevard  NE Atlanta
+	0 0
+Atlanta Marriott Perimeter Center
+	/hotels/rewards-points/atlpc-atlanta-marriott-perimeter-center/
+	246 Perimeter Center Parkway NE Atlanta
+	0 0
+Residence Inn Atlanta Midtown/Peachtree at 17th
+	/hotels/rewards-points/atlri-residence-inn-atlanta-midtown-peachtree-at-17th/
+	1365 Peachtree Street NE Atlanta
+	0 0
+Augusta Marriott at the Convention Center
+	/hotels/rewards-points/agsmc-augusta-marriott-at-the-convention-center/
+	2 Tenth Street Augusta
+	0 0
+Courtyard Brunswick
+	/hotels/rewards-points/bqkcy-courtyard-brunswick/
+	580 Millennium Boulevard Brunswick
+	0 0
+Fairfield Inn & Suites Cartersville
+	/hotels/rewards-points/atlcv-fairfield-inn-and-suites-cartersville/
+	20 Canyon Parkway Cartersville
+	0 0
+Columbus Marriott
+	/hotels/rewards-points/csgmc-columbus-marriott/
+	800 Front Avenue Columbus
+	0 0
+Courtyard Atlanta Decatur Downtown/Emory
+	/hotels/rewards-points/atldc-courtyard-atlanta-decatur-downtown-emory/
+	130 Clairemont Avenue Decatur
+	0 0
+SpringHill Suites Atlanta Kennesaw
+	/hotels/rewards-points/atlkn-springhill-suites-atlanta-kennesaw/
+	3399 Town Point Drive Kennesaw
+	0 0
+Fairfield Inn & Suites Atlanta Kennesaw
+	/hotels/rewards-points/atlnc-fairfield-inn-and-suites-atlanta-kennesaw/
+	3425 Busbee Drive Kennesaw
+	0 0
+Macon Marriott City Center
+	/hotels/rewards-points/mcnfs-macon-marriott-city-center/
+	240 Coliseum Drive Macon
+	0 0
+Fairfield Inn & Suites Savannah I-95 South
+	/hotels/rewards-points/savab-fairfield-inn-and-suites-savannah-i-95-south/
+	17027 Abercorn St. (Exit 94) Savannah
+	0 0
+Courtyard Savannah Midtown
+	/hotels/rewards-points/savch-courtyard-savannah-midtown/
+	6703 Abercorn Street Savannah
+	0 0
+Fairfield Inn & Suites Savannah Midtown
+	/hotels/rewards-points/savmd-fairfield-inn-and-suites-savannah-midtown/
+	5801 Abercorn Street Savannah
+	0 0
+SpringHill Suites Savannah Airport
+	/hotels/rewards-points/savsa-springhill-suites-savannah-airport/
+	One  Jay R. Turner Drive (Exit 104) Savannah
+	0 0
+SpringHill Suites Savannah Midtown
+	/hotels/rewards-points/savsh-springhill-suites-savannah-midtown/
+	11317 Abercorn Street Savannah
+	0 0
+Fairfield Inn & Suites Tifton
+	/hotels/rewards-points/tfofi-fairfield-inn-and-suites-tifton/
+	806 W. 7th St. Tifton
+	0 0
+Fairfield Inn & Suites Valdosta
+	/hotels/rewards-points/vldfv-fairfield-inn-and-suites-valdosta/
+	2010 West Hill Avenue Valdosta
+	0 0
+Fairfield Inn & Suites Idaho Falls
+	/hotels/rewards-points/idafi-fairfield-inn-and-suites-idaho-falls/
+	1293 West Broadway Idaho Falls
+	0 0
+Fairfield Inn & Suites Moscow
+	/hotels/rewards-points/puwfi-fairfield-inn-and-suites-moscow/
+	1000 West Pullman Road Moscow
+	0 0
+Fairfield Inn & Suites Twin Falls
+	/hotels/rewards-points/twftw-fairfield-inn-and-suites-twin-falls/
+	1788 Washington Street North Twin Falls
+	0 0
+Courtyard Chicago Midway Airport
+	/hotels/rewards-points/chicm-courtyard-chicago-midway-airport/
+	6610 South Cicero Avenue Bedford Park
+	0 0
+Chicago Marriott Southwest at Burr Ridge
+	/hotels/rewards-points/chisw-chicago-marriott-southwest-at-burr-ridge/
+	1200 Burr Ridge Parkway Burr Ridge
+	0 0
+Courtyard Champaign
+	/hotels/rewards-points/cmpcy-courtyard-champaign/
+	1811 Moreland Boulevard Champaign
+	0 0
+Residence Inn Champaign
+	/hotels/rewards-points/cmpri-residence-inn-champaign/
+	502 West Marketview Drive Champaign
+	0 0
+TownePlace Suites Champaign Urbana/Campustown
+	/hotels/rewards-points/cmpts-towneplace-suites-champaign-urbana-campustown/
+	603 South Sixth Street Champaign
+	0 0
+SpringHill Suites Chicago O'Hare
+	/hotels/rewards-points/chico-springhill-suites-chicago-ohare/
+	8101 West Higgins Road Chicago
+	0 0
+Courtyard Chicago O'Hare
+	/hotels/rewards-points/chica-courtyard-chicago-ohare/
+	2950 S. River Road Des Plaines
+	0 0
+Chicago Marriott Suites Downers Grove
+	/hotels/rewards-points/chidg-chicago-marriott-suites-downers-grove/
+	1500 Opus Place Downers Grove
+	0 0
+Fairfield Inn & Suites Mount Vernon Rend Lake
+	/hotels/rewards-points/mvnfi-fairfield-inn-and-suites-mount-vernon-rend-lake/
+	217 Potomac Blvd. Mount Vernon
+	0 0
+Residence Inn Chicago Oak Brook
+	/hotels/rewards-points/chibk-residence-inn-chicago-oak-brook/
+	790 Jorie Boulevard Oak Brook
+	0 0
+Chicago Marriott Oak Brook
+	/hotels/rewards-points/chiob-chicago-marriott-oak-brook/
+	1401 West 22nd Street Oak Brook
+	0 0
+Residence Inn Chicago O'Hare
+	/hotels/rewards-points/chirt-residence-inn-chicago-ohare/
+	7101 Chestnut Street Rosemont
+	0 0
+Renaissance Schaumburg Convention Center Hotel
+	/hotels/rewards-points/chirs-renaissance-schaumburg-convention-center-hotel/
+	1551 N. Thoreau Dr. Schaumburg
+	0 0
+Fairfield Inn & Suites Chicago Tinley Park
+	/hotels/rewards-points/chitp-fairfield-inn-and-suites-chicago-tinley-park/
+	18511 North Creek Drive Tinley Park
+	0 0
+SpringHill Suites Chicago Waukegan/Gurnee
+	/hotels/rewards-points/chiwg-springhill-suites-chicago-waukegan-gurnee/
+	4101 Fountain Square Place Waukegan
+	0 0
+Residence Inn Indianapolis Carmel
+	/hotels/rewards-points/indcr-residence-inn-indianapolis-carmel/
+	11895 North Meridian Street Carmel
+	0 0
+SpringHill Suites Indianapolis Carmel
+	/hotels/rewards-points/indsh-springhill-suites-indianapolis-carmel/
+	11855 N. Meridian Street Carmel
+	0 0
+Fairfield Inn & Suites Elkhart
+	/hotels/rewards-points/sbneh-fairfield-inn-and-suites-elkhart/
+	3501 Plaza Court Elkhart
+	0 0
+Residence Inn Chicago Southeast/Hammond, IN
+	/hotels/rewards-points/chiin-residence-inn-chicago-southeast-hammond-in/
+	7740 Corinne Drive Hammond
+	0 0
+Residence Inn Indianapolis Airport
+	/hotels/rewards-points/indap-residence-inn-indianapolis-airport/
+	5224 West Southern Avenue Indianapolis
+	0 0
+Fairfield Inn & Suites Indianapolis East
+	/hotels/rewards-points/indes-fairfield-inn-and-suites-indianapolis-east/
+	7110 East 21st Street Indianapolis
+	0 0
+Residence Inn Indianapolis Fishers
+	/hotels/rewards-points/indfs-residence-inn-indianapolis-fishers/
+	9765 Crosspoint Boulevard Indianapolis
+	0 0
+Courtyard Indianapolis Northwest
+	/hotels/rewards-points/indnw-courtyard-indianapolis-northwest/
+	7226 Woodland Drive at 71st Street Indianapolis
+	0 0
+Fairfield Inn & Suites Louisville North
+	/hotels/rewards-points/sdfjf-fairfield-inn-and-suites-louisville-north/
+	619 North Shore Drive Jeffersonville
+	0 0
+Courtyard Lafayette
+	/hotels/rewards-points/lafcy-courtyard-lafayette/
+	150 Fairington Ave Lafayette
+	0 0
+Fairfield Inn & Suites Lafayette
+	/hotels/rewards-points/laffi-fairfield-inn-and-suites-lafayette/
+	4000 South Street Lafayette
+	0 0
+Residence Inn Merrillville
+	/hotels/rewards-points/mrvri-residence-inn-merrillville/
+	8018 Delaware Place Merrillville
+	0 0
+Fairfield Inn & Suites Ames
+	/hotels/rewards-points/dsmai-fairfield-inn-and-suites-ames/
+	2137 Isaac Newton Dr. SE 16th St. Ames
+	0 0
+TownePlace Suites Ames
+	/hotels/rewards-points/dsmta-towneplace-suites-ames/
+	1523 South Dayton Avenue Ames
+	0 0
+Residence Inn Cedar Rapids South
+	/hotels/rewards-points/cidcs-residence-inn-cedar-rapids-south/
+	730 33rd Avenue SW Cedar Rapids
+	0 0
+Cedar Rapids Marriott
+	/hotels/rewards-points/cidmc-cedar-rapids-marriott/
+	1200 Collins Road N.E. Cedar Rapids
+	0 0
+Residence Inn Cedar Rapids
+	/hotels/rewards-points/cidri-residence-inn-cedar-rapids/
+	1900 Dodge Road NE Cedar Rapids
+	0 0
+Residence Inn Coralville
+	/hotels/rewards-points/cidvl-residence-inn-coralville/
+	2681 James Street Coralville
+	0 0
+AC Hotel Des Moines East Village
+	/hotels/rewards-points/dsmad-ac-hotel-des-moines-east-village/
+	401 East Grand Avenue Des Moines
+	0 0
+Residence Inn Des Moines Downtown
+	/hotels/rewards-points/dsmrd-residence-inn-des-moines-downtown/
+	100 SW Water Street Des Moines
+	0 0
+Fairfield Inn Dubuque
+	/hotels/rewards-points/dbqfi-fairfield-inn-dubuque/
+	3400 Dodge Street Dubuque
+	0 0
+Courtyard Des Moines West/Jordan Creek
+	/hotels/rewards-points/dsmcw-courtyard-des-moines-west-jordan-creek/
+	410 S. 68th Street West Des Moines
+	0 0
+Fairfield Inn & Suites Des Moines West
+	/hotels/rewards-points/dsmwf-fairfield-inn-and-suites-des-moines-west/
+	7225 Vista Drive West Des Moines
+	0 0
+Residence Inn Kansas City at The Legends
+	/hotels/rewards-points/mcisp-residence-inn-kansas-city-at-the-legends/
+	1875 Village West Parkway Kansas City
+	0 0
+TownePlace Suites Lawrence Downtown
+	/hotels/rewards-points/foets-towneplace-suites-lawrence-downtown/
+	900 New Hampshire Street Lawrence
+	0 0
+Courtyard Salina
+	/hotels/rewards-points/slncy-courtyard-salina/
+	3020 Riffel Drive Salina
+	0 0
+Courtyard Kansas City Shawnee
+	/hotels/rewards-points/mcism-courtyard-kansas-city-shawnee/
+	17250 Midland Dr. Shawnee
+	0 0
+Ambassador Hotel Wichita, Autograph Collection
+	/hotels/rewards-points/ictak-ambassador-hotel-wichita-autograph-collection/
+	104 South Broadway Street Wichita
+	0 0
+Fairfield Inn & Suites Elizabethtown
+	/hotels/rewards-points/sdfel-fairfield-inn-and-suites-elizabethtown/
+	1031 Executive Drive Elizabethtown
+	0 0
+Courtyard Cincinnati Airport
+	/hotels/rewards-points/cvgca-courtyard-cincinnati-airport/
+	3990 Olympic Boulevard Erlanger
+	0 0
+SpringHill Suites Cincinnati Airport South
+	/hotels/rewards-points/cvgsf-springhill-suites-cincinnati-airport-south/
+	7492 Turfway Road Florence
+	0 0
+Cincinnati Airport Marriott
+	/hotels/rewards-points/cvgam-cincinnati-airport-marriott/
+	2395 Progress Drive Hebron
+	0 0
+Courtyard Lexington North
+	/hotels/rewards-points/lexno-courtyard-lexington-north/
+	775 Newtown Court Lexington
+	0 0
+Fairfield Inn & Suites Lexington Keeneland Airport
+	/hotels/rewards-points/lexsw-fairfield-inn-and-suites-lexington-keeneland-airport/
+	3050 Lakecrest Circle Lexington
+	0 0
+Residence Inn Louisville East
+	/hotels/rewards-points/sdfhf-residence-inn-louisville-east/
+	120 North Hurstbourne Parkway Louisville
+	0 0
+Fairfield Inn Louisville South
+	/hotels/rewards-points/sdffs-fairfield-inn-louisville-south/
+	362 Brenton Way Shepherdsville
+	0 0
+Courtyard Somerset
+	/hotels/rewards-points/smecy-courtyard-somerset/
+	2254 South Highway 27 Somerset
+	0 0
+Baton Rouge Marriott
+	/hotels/rewards-points/btrmc-baton-rouge-marriott/
+	5500 Hilton Avenue Baton Rouge
+	0 0
+Courtyard Monroe Airport
+	/hotels/rewards-points/mlucy-courtyard-monroe-airport/
+	4915 Pecanland Mall Drive Monroe
+	0 0
+TownePlace Suites Monroe
+	/hotels/rewards-points/mluts-towneplace-suites-monroe/
+	4919 Pecanland Mall Drive Monroe
+	0 0
+TownePlace Suites Bangor
+	/hotels/rewards-points/bgrts-towneplace-suites-bangor/
+	240 Sylvan Road Bangor
+	0 0
+Residence Inn Aberdeen at Ripken Stadium
+	/hotels/rewards-points/bwide-residence-inn-aberdeen-at-ripken-stadium/
+	830 Long Drive Aberdeen
+	0 0
+Courtyard Annapolis
+	/hotels/rewards-points/bwian-courtyard-annapolis/
+	2559 Riva Road Annapolis
+	0 0
+Residence Inn Annapolis
+	/hotels/rewards-points/bwira-residence-inn-annapolis/
+	170 Admiral Cochrane Drive Annapolis
+	0 0
+Residence Inn Baltimore White Marsh
+	/hotels/rewards-points/bwiwm-residence-inn-baltimore-white-marsh/
+	4980 Mercantile Rd Baltimore
+	0 0
+Bethesda Marriott
+	/hotels/rewards-points/wasbt-bethesda-marriott/
+	5151 Pooks Hill Road Bethesda
+	0 0
+Courtyard Chevy Chase
+	/hotels/rewards-points/wasvy-courtyard-chevy-chase/
+	5520 Wisconsin Ave Chevy Chase
+	0 0
+SpringHill Suites Columbia
+	/hotels/rewards-points/bwico-springhill-suites-columbia/
+	7055 Minstrel Way Columbia
+	0 0
+Courtyard Frederick
+	/hotels/rewards-points/wasfd-courtyard-frederick/
+	5225 Westview Drive Frederick
+	0 0
+Gaithersburg Marriott Washingtonian Center
+	/hotels/rewards-points/waswg-gaithersburg-marriott-washingtonian-center/
+	9751 Washingtonian Boulevard Gaithersburg
+	0 0
+Greenbelt Marriott
+	/hotels/rewards-points/wasgb-greenbelt-marriott/
+	6400 Ivy Lane Greenbelt
+	0 0
+Fairfield Inn & Suites Arundel Mills BWI Airport
+	/hotels/rewards-points/bwias-fairfield-inn-and-suites-arundel-mills-bwi-airport/
+	7539 Teague Road Hanover
+	0 0
+TownePlace Suites Arundel Mills BWI Airport
+	/hotels/rewards-points/bwita-towneplace-suites-arundel-mills-bwi-airport/
+	7021 Arundel Mills Circle Hanover
+	0 0
+Residence Inn Baltimore Hunt Valley
+	/hotels/rewards-points/bwirh-residence-inn-baltimore-hunt-valley/
+	45 Schilling Road Hunt Valley
+	0 0
+Residence Inn Largo Capital Beltway
+	/hotels/rewards-points/waspr-residence-inn-largo-capital-beltway/
+	1330 Caraway Court Largo
+	0 0
+Courtyard Baltimore BWI Airport
+	/hotels/rewards-points/bwica-courtyard-baltimore-bwi-airport/
+	1671 West Nursery Road Linthicum
+	0 0
+Fairfield Inn & Suites Baltimore BWI Airport
+	/hotels/rewards-points/bwiaf-fairfield-inn-and-suites-baltimore-bwi-airport/
+	1020 Andover Road Linthicum Heights
+	0 0
+Bethesda North Marriott Hotel & Conference Center
+	/hotels/rewards-points/wasbn-bethesda-north-marriott-hotel-and-conference-center/
+	5701 Marinelli Road North Bethesda
+	0 0
+Residence Inn Salisbury
+	/hotels/rewards-points/sbyri-residence-inn-salisbury/
+	140 Centre Road Salisbury
+	0 0
+Fairfield Inn Amesbury
+	/hotels/rewards-points/mhtfa-fairfield-inn-amesbury/
+	35 Clarks Road Amesbury
+	0 0
+Fairfield Inn & Suites Worcester Auburn
+	/hotels/rewards-points/bosaw-fairfield-inn-and-suites-worcester-auburn/
+	718 Southbridge Street Auburn
+	0 0
+Residence Inn Boston Bridgewater
+	/hotels/rewards-points/ewbbw-residence-inn-boston-bridgewater/
+	2020 Pleasant Street Bridgewater
+	0 0
+Residence Inn Boston Brockton
+	/hotels/rewards-points/bosbc-residence-inn-boston-brockton/
+	124 Liberty Street Brockton
+	0 0
+Residence Inn Boston North Shore/Danvers
+	/hotels/rewards-points/bosdn-residence-inn-boston-north-shore-danvers/
+	51 Newbury Street, Route 1 Danvers
+	0 0
+TownePlace Suites Boston North Shore/Danvers
+	/hotels/rewards-points/bostd-towneplace-suites-boston-north-shore-danvers/
+	238 Andover Street Danvers
+	0 0
+Fairfield Inn Boston Dedham
+	/hotels/rewards-points/bosdh-fairfield-inn-boston-dedham/
+	235 Elm Street Dedham
+	0 0
+Courtyard Boston Littleton
+	/hotels/rewards-points/boslt-courtyard-boston-littleton/
+	102 Constitution Avenue, The Point Littleton
+	0 0
+Residence Inn Boston Marlborough
+	/hotels/rewards-points/bosmb-residence-inn-boston-marlborough/
+	112 Donald Lynch Blvd. Marlborough
+	0 0
+Courtyard Boston Marlborough
+	/hotels/rewards-points/bosmd-courtyard-boston-marlborough/
+	75 Felton Street Marlborough
+	0 0
+Courtyard Boston Natick
+	/hotels/rewards-points/bosnf-courtyard-boston-natick/
+	342 Speen Street Natick
+	0 0
+Courtyard Boston Norwood/Canton
+	/hotels/rewards-points/bosnw-courtyard-boston-norwood-canton/
+	300 River Ridge Drive Norwood
+	0 0
+SpringHill Suites Boston Peabody
+	/hotels/rewards-points/bospy-springhill-suites-boston-peabody/
+	43 Newbury Street (US 1 North) Peabody
+	0 0
+Courtyard Boston Stoughton
+	/hotels/rewards-points/bosst-courtyard-boston-stoughton/
+	200 Technology Center Drive Stoughton
+	0 0
+Residence Inn Boston Westford
+	/hotels/rewards-points/bosrw-residence-inn-boston-westford/
+	7 Lan Drive Westford
+	0 0
+Courtyard Boston Woburn/Boston North
+	/hotels/rewards-points/boscw-courtyard-boston-woburn-boston-north/
+	700 Unicorn Park Dr Woburn
+	0 0
+Fairfield Inn Boston Woburn/Burlington
+	/hotels/rewards-points/bosfw-fairfield-inn-boston-woburn-burlington/
+	285 Mishawum Road Woburn
+	0 0
+Courtyard Boston Woburn/Burlington
+	/hotels/rewards-points/boswb-courtyard-boston-woburn-burlington/
+	240 Mishawum Road Woburn
+	0 0
+TownePlace Suites Ann Arbor
+	/hotels/rewards-points/arbtp-towneplace-suites-ann-arbor/
+	1301 Briarwood Circle Ann Arbor
+	0 0
+Courtyard Grand Rapids Airport
+	/hotels/rewards-points/grrcy-courtyard-grand-rapids-airport/
+	4741 28th Street SE Grand Rapids
+	0 0
+Residence Inn Grand Rapids West
+	/hotels/rewards-points/grrrw-residence-inn-grand-rapids-west/
+	3451 Rivertown Point Court, SW Grandville
+	0 0
+Residence Inn Kalamazoo East
+	/hotels/rewards-points/azozo-residence-inn-kalamazoo-east/
+	1500 East Kilgore Road Kalamazoo
+	0 0
+Detroit Marriott Livonia
+	/hotels/rewards-points/dtwli-detroit-marriott-livonia/
+	17100 Laurel Park Drive North Livonia
+	0 0
+Fairfield Inn & Suites Muskegon Norton Shores
+	/hotels/rewards-points/mkgns-fairfield-inn-and-suites-muskegon-norton-shores/
+	1520 East Mount Garfield Road Muskegon
+	0 0
+The Baronette Renaissance Detroit-Novi Hotel
+	/hotels/rewards-points/dtwdn-the-baronette-renaissance-detroit-novi-hotel/
+	27790 Novi Road Novi
+	0 0
+Residence Inn Detroit Novi
+	/hotels/rewards-points/dtwno-residence-inn-detroit-novi/
+	27477 Cabaret Drive Novi
+	0 0
+Detroit Metro Airport Marriott
+	/hotels/rewards-points/dtwrm-detroit-metro-airport-marriott/
+	30559 Flynn Drive Romulus
+	0 0
+Fairfield Inn & Suites St. Joseph Stevensville
+	/hotels/rewards-points/behfi-fairfield-inn-and-suites-st-joseph-stevensville/
+	4408 Red Arrow Highway Stevensville
+	0 0
+Fairfield Inn & Suites Watervliet St. Joseph
+	/hotels/rewards-points/sbnwl-fairfield-inn-and-suites-watervliet-st-joseph/
+	8258 Arnt Boulevard Watervliet
+	0 0
+Courtyard Bloomington by Mall of America
+	/hotels/rewards-points/mspcy-courtyard-bloomington-by-mall-of-america/
+	7800 Bloomington Avenue South Bloomington
+	0 0
+Residence Inn Bloomington by Mall of America
+	/hotels/rewards-points/mspll-residence-inn-bloomington-by-mall-of-america/
+	7850 Bloomington Avenue South Bloomington
+	0 0
+TownePlace Suites Minneapolis Mall of America
+	/hotels/rewards-points/msptb-towneplace-suites-minneapolis-mall-of-america/
+	2500 Lindau Lane Bloomington
+	0 0
+Courtyard Minneapolis Downtown
+	/hotels/rewards-points/mspdc-courtyard-minneapolis-downtown/
+	1500 Washington Avenue South Minneapolis
+	0 0
+Residence Inn Minneapolis Downtown/City Center
+	/hotels/rewards-points/mspri-residence-inn-minneapolis-downtown-city-center/
+	45 South 8th Street Minneapolis
+	0 0
+Minneapolis Marriott West
+	/hotels/rewards-points/mspsp-minneapolis-marriott-west/
+	9960 Wayzata Boulevard Minneapolis
+	0 0
+Courtyard Fargo Moorhead, MN
+	/hotels/rewards-points/farcy-courtyard-fargo-moorhead-mn/
+	1080 28th Avenue South Moorhead
+	0 0
+Residence Inn Minneapolis Plymouth
+	/hotels/rewards-points/msppl-residence-inn-minneapolis-plymouth/
+	2750 Annapolis Circle Plymouth
+	0 0
+Courtyard Rochester Mayo Clinic Area/Saint Marys
+	/hotels/rewards-points/rstcy-courtyard-rochester-mayo-clinic-area-saint-marys/
+	161 13th Ave. SW Rochester
+	0 0
+SpringHill Suites Rochester Mayo Clinic Area/Saint Marys
+	/hotels/rewards-points/rstsh-springhill-suites-rochester-mayo-clinic-area-saint-marys/
+	1125 2nd Street SW Rochester
+	0 0
+Residence Inn Minneapolis St. Paul/Roseville
+	/hotels/rewards-points/mspro-residence-inn-minneapolis-st-paul-roseville/
+	2985 Centre Pointe Drive Roseville
+	0 0
+Fairfield Inn & Suites Minneapolis St. Paul/Roseville
+	/hotels/rewards-points/msprv-fairfield-inn-and-suites-minneapolis-st-paul-roseville/
+	3045 Centre Pointe Dr. N Roseville
+	0 0
+Courtyard Columbus
+	/hotels/rewards-points/gtrcy-courtyard-columbus/
+	1995 6th Street North Columbus
+	0 0
+Courtyard Biloxi North/D'Iberville
+	/hotels/rewards-points/gptbn-courtyard-biloxi-north-diberville/
+	11471 Cinema Drive D'Iberville
+	0 0
+Residence Inn Gulfport-Biloxi Airport
+	/hotels/rewards-points/gptri-residence-inn-gulfport-biloxi-airport/
+	14100 Airport Road Gulfport
+	0 0
+Courtyard Hattiesburg
+	/hotels/rewards-points/hbgcy-courtyard-hattiesburg/
+	119 Grand Drive Hattiesburg
+	0 0
+Residence Inn Hattiesburg
+	/hotels/rewards-points/hbgri-residence-inn-hattiesburg/
+	116 Grand Drive Hattiesburg
+	0 0
+Courtyard Oxford
+	/hotels/rewards-points/uoxcy-courtyard-oxford/
+	305 Jackson Avenue East Oxford
+	0 0
+TownePlace Suites Oxford
+	/hotels/rewards-points/uoxts-towneplace-suites-oxford/
+	105 Ed Perry Boulevard Oxford
+	0 0
+Courtyard Starkville MSU at The Mill Conference Center
+	/hotels/rewards-points/gtrsv-courtyard-starkville-msu-at-the-mill-conference-center/
+	100 Mercantile Street Starkville
+	0 0
+Fairfield Inn & Suites Branson
+	/hotels/rewards-points/sgfbn-fairfield-inn-and-suites-branson/
+	220 Highway 165 South Branson
+	0 0
+Residence Inn Columbia
+	/hotels/rewards-points/couri-residence-inn-columbia/
+	1100 Woodland Springs Court Columbia
+	0 0
+Kansas City Airport Marriott
+	/hotels/rewards-points/mciap-kansas-city-airport-marriott/
+	775 Brasilia Avenue Kansas City
+	0 0
+Courtyard Kansas City Downtown/Convention Center
+	/hotels/rewards-points/mciks-courtyard-kansas-city-downtown-convention-center/
+	1535 Baltimore Avenue Kansas City
+	0 0
+Courtyard Kansas City at Briarcliff
+	/hotels/rewards-points/mcino-courtyard-kansas-city-at-briarcliff/
+	4000 North Mulberry Drive Kansas City
+	0 0
+Residence Inn Kansas City Downtown/Convention Center
+	/hotels/rewards-points/mcisr-residence-inn-kansas-city-downtown-convention-center/
+	1535 Baltimore Kansas City
+	0 0
+Residence Inn Kansas City Downtown/Union Hill
+	/hotels/rewards-points/mciuh-residence-inn-kansas-city-downtown-union-hill/
+	2975 Main Street Kansas City
+	0 0
+Fairfield Inn Kansas City Downtown/Union Hill
+	/hotels/rewards-points/mciun-fairfield-inn-kansas-city-downtown-union-hill/
+	3001 Main Street Kansas City
+	0 0
+Residence Inn Springfield
+	/hotels/rewards-points/sgfri-residence-inn-springfield/
+	1303 East Kingsley Street Springfield
+	0 0
+Marriott St. Louis Airport
+	/hotels/rewards-points/stlap-marriott-st-louis-airport/
+	10700 Pear Tree Lane St. Louis
+	0 0
+Residence Inn St. Louis Galleria
+	/hotels/rewards-points/stlrh-residence-inn-st-louis-galleria/
+	8011 Galleria Parkway St. Louis
+	0 0
+Marriott St. Louis West
+	/hotels/rewards-points/stlwe-marriott-st-louis-west/
+	660 Maryville Centre Drive St. Louis
+	0 0
+Fairfield Inn & Suites Billings
+	/hotels/rewards-points/bilmt-fairfield-inn-and-suites-billings/
+	2026 Overland Avenue Billings
+	0 0
+Residence Inn Billings
+	/hotels/rewards-points/bilri-residence-inn-billings/
+	956 South 25th Street West Billings
+	0 0
+SpringHill Suites Billings
+	/hotels/rewards-points/bilsh-springhill-suites-billings/
+	1818 King Avenue West Billings
+	0 0
+TownePlace Suites Billings
+	/hotels/rewards-points/bilts-towneplace-suites-billings/
+	2480 Grant Road Billings
+	0 0
+Fairfield Inn Bozeman
+	/hotels/rewards-points/bznfi-fairfield-inn-bozeman/
+	828 Wheat Drive Bozeman
+	0 0
+Courtyard Omaha Bellevue at Beardmore Event Center
+	/hotels/rewards-points/omasb-courtyard-omaha-bellevue-at-beardmore-event-center/
+	3730 Raynor Parkway Bellevue
+	0 0
+Courtyard Lincoln Downtown/Haymarket
+	/hotels/rewards-points/lnkcy-courtyard-lincoln-downtown-haymarket/
+	808 R Street Lincoln
+	0 0
+Fairfield Inn & Suites Lincoln
+	/hotels/rewards-points/lnkfi-fairfield-inn-and-suites-lincoln/
+	4221 Industrial Avenue Lincoln
+	0 0
+Fairfield Inn & Suites Lincoln Airport
+	/hotels/rewards-points/lnkno-fairfield-inn-and-suites-lincoln-airport/
+	1000 West Bond Street Lincoln
+	0 0
+Residence Inn Omaha Aksarben Village
+	/hotels/rewards-points/omakv-residence-inn-omaha-aksarben-village/
+	1717 South 67th Street Omaha
+	0 0
+Courtyard Omaha Aksarben Village
+	/hotels/rewards-points/omawt-courtyard-omaha-aksarben-village/
+	1625 S 67th Street Omaha
+	0 0
+Courtyard Carson City
+	/hotels/rewards-points/rnocc-courtyard-carson-city/
+	3870 S Carson St Carson City
+	0 0
+Courtyard Las Vegas South
+	/hotels/rewards-points/lascy-courtyard-las-vegas-south/
+	5845 Dean Martin Drive Las Vegas
+	0 0
+Fairfield Inn Las Vegas Airport
+	/hotels/rewards-points/lasfi-fairfield-inn-las-vegas-airport/
+	3850 South Paradise Road Las Vegas
+	0 0
+Fairfield Inn & Suites Las Vegas South
+	/hotels/rewards-points/lasfs-fairfield-inn-and-suites-las-vegas-south/
+	5775 Dean Martin Drive Las Vegas
+	0 0
+Residence Inn Las Vegas South
+	/hotels/rewards-points/lasri-residence-inn-las-vegas-south/
+	5875 Dean Martin Drive Las Vegas
+	0 0
+Residence Inn Las Vegas Airport
+	/hotels/rewards-points/lasvr-residence-inn-las-vegas-airport/
+	7690 South Las Vegas Boulevard Las Vegas
+	0 0
+SpringHill Suites Las Vegas North Speedway
+	/hotels/rewards-points/lasvn-springhill-suites-las-vegas-north-speedway/
+	2910 East Craig Road North Las Vegas
+	0 0
+Courtyard Reno
+	/hotels/rewards-points/rnocy-courtyard-reno/
+	6855 South Virginia Street Reno
+	0 0
+Fairfield Inn & Suites Reno Sparks
+	/hotels/rewards-points/rnofi-fairfield-inn-and-suites-reno-sparks/
+	2085 Brierley Way Sparks
+	0 0
+Fairfield Inn & Suites Hooksett
+	/hotels/rewards-points/mhtho-fairfield-inn-and-suites-hooksett/
+	8 Bell Ave Hooksett
+	0 0
+Courtyard Manchester-Boston Regional Airport
+	/hotels/rewards-points/mhtcy-courtyard-manchester-boston-regional-airport/
+	700 Huse Road Manchester
+	0 0
+SpringHill Suites Manchester-Boston Regional Airport
+	/hotels/rewards-points/mhtsh-springhill-suites-manchester-boston-regional-airport/
+	975 North Perimeter Road Manchester
+	0 0
+TownePlace Suites Manchester-Boston Regional Airport
+	/hotels/rewards-points/mhtts-towneplace-suites-manchester-boston-regional-airport/
+	686 Huse Road Manchester
+	0 0
+Residence Inn Bridgewater Branchburg
+	/hotels/rewards-points/ewrbw-residence-inn-bridgewater-branchburg/
+	3241 Route 22 East Branchburg
+	0 0
+Residence Inn Cherry Hill Philadelphia
+	/hotels/rewards-points/phlch-residence-inn-cherry-hill-philadelphia/
+	1821 Old Cuthbert Road Cherry Hill
+	0 0
+Residence Inn Deptford
+	/hotels/rewards-points/phlrd-residence-inn-deptford/
+	1154 Hurffville Road Deptford
+	0 0
+TownePlace Suites Dover Rockaway
+	/hotels/rewards-points/ewrdo-towneplace-suites-dover-rockaway/
+	4 Commerce Center Drive Dover
+	0 0
+Residence Inn East Rutherford Meadowlands
+	/hotels/rewards-points/ewrmd-residence-inn-east-rutherford-meadowlands/
+	10 Murray Hill Parkway East Rutherford
+	0 0
+Fairfield Inn East Rutherford Meadowlands
+	/hotels/rewards-points/ewrsc-fairfield-inn-east-rutherford-meadowlands/
+	850 Paterson Plank Road East Rutherford
+	0 0
+Residence Inn Newark Elizabeth/Liberty International Airport
+	/hotels/rewards-points/ewreb-residence-inn-newark-elizabeth-liberty-international-airport/
+	83 International Blvd Elizabeth
+	0 0
+Renaissance Woodbridge Hotel
+	/hotels/rewards-points/ewrwd-renaissance-woodbridge-hotel/
+	515 US Highway 1 South Iselin
+	0 0
+Courtyard Montvale
+	/hotels/rewards-points/ewrmv-courtyard-montvale/
+	100 Chestnut Ridge Road Montvale
+	0 0
+Residence Inn Mt. Laurel at Bishop's Gate
+	/hotels/rewards-points/phlrl-residence-inn-mt-laurel-at-bishops-gate/
+	1000 Bishops Gate Boulevard Mount Laurel
+	0 0
+Residence Inn Mt. Olive at International Trade Center
+	/hotels/rewards-points/cdwri-residence-inn-mt-olive-at-international-trade-center/
+	271 Continental Drive Mt. Olive
+	0 0
+Courtyard Newark Liberty International Airport
+	/hotels/rewards-points/ewrca-courtyard-newark-liberty-international-airport/
+	600 US 1 & 9 Newark
+	0 0
+Fairfield Inn & Suites Newark Liberty International Airport
+	/hotels/rewards-points/ewrfs-fairfield-inn-and-suites-newark-liberty-international-airport/
+	618 US Highway 1 & 9 South Newark
+	0 0
+Courtyard Paramus
+	/hotels/rewards-points/ewrcp-courtyard-paramus/
+	320 Route 17 North Paramus
+	0 0
+Fairfield Inn & Suites Paramus
+	/hotels/rewards-points/ewrpx-fairfield-inn-and-suites-paramus/
+	601 From Road Paramus
+	0 0
+Park Ridge Marriott
+	/hotels/rewards-points/ewrpr-park-ridge-marriott/
+	300 Brae Boulevard Park Ridge
+	0 0
+Courtyard Princeton
+	/hotels/rewards-points/ttncy-courtyard-princeton/
+	3815 US Route 1 @ Mapleton Rd Princeton
+	0 0
+Courtyard Lincroft Red Bank
+	/hotels/rewards-points/ewrrb-courtyard-lincroft-red-bank/
+	245 Half Mile Road Red Bank
+	0 0
+Courtyard Secaucus Meadowlands
+	/hotels/rewards-points/ewrse-courtyard-secaucus-meadowlands/
+	455 Harmon Meadow Boulevard Secaucus
+	0 0
+SpringHill Suites Voorhees Mt. Laurel/Cherry Hill
+	/hotels/rewards-points/phlvo-springhill-suites-voorhees-mt-laurel-cherry-hill/
+	1031 Voorhees Drive Voorhees
+	0 0
+Albuquerque Marriott Pyramid North
+	/hotels/rewards-points/abqmc-albuquerque-marriott-pyramid-north/
+	5151 San Francisco Road NE Albuquerque
+	0 0
+Albuquerque Marriott
+	/hotels/rewards-points/abqnm-albuquerque-marriott/
+	2101 Louisiana Boulevard NE Albuquerque
+	0 0
+Residence Inn Santa Fe
+	/hotels/rewards-points/safnm-residence-inn-santa-fe/
+	1698 Galisteo Street Santa Fe
+	0 0
+Courtyard Albany Airport
+	/hotels/rewards-points/albca-courtyard-albany-airport/
+	168 Wolf Road Albany
+	0 0
+Courtyard Albany Thruway
+	/hotels/rewards-points/albws-courtyard-albany-thruway/
+	1455 Washington Avenue Albany
+	0 0
+Residence Inn Long Island Islip/Courthouse Complex
+	/hotels/rewards-points/ispcl-residence-inn-long-island-islip-courthouse-complex/
+	7 Court House Dr Central Islip
+	0 0
+Courtyard Buffalo Airport
+	/hotels/rewards-points/bufap-courtyard-buffalo-airport/
+	4243 Genesee Street Cheektowaga
+	0 0
+Fairfield Inn & Suites Buffalo Airport
+	/hotels/rewards-points/buffs-fairfield-inn-and-suites-buffalo-airport/
+	4271 Genesee Street Cheektowaga
+	0 0
+TownePlace Suites Buffalo Airport
+	/hotels/rewards-points/bufts-towneplace-suites-buffalo-airport/
+	4265 Genesee Street Cheektowaga
+	0 0
+Fairfield Inn Corning Riverside
+	/hotels/rewards-points/elmfi-fairfield-inn-corning-riverside/
+	3 South Buffalo Street Corning
+	0 0
+Residence Inn Albany East Greenbush/Tech Valley
+	/hotels/rewards-points/albri-residence-inn-albany-east-greenbush-tech-valley/
+	3 Tech Valley Drive East Greenbush
+	0 0
+SpringHill Suites Syracuse Carrier Circle
+	/hotels/rewards-points/syrsh-springhill-suites-syracuse-carrier-circle/
+	6580 Weighlock Drive East Syracuse
+	0 0
+TownePlace Suites Republic Airport Long Island/Farmingdale
+	/hotels/rewards-points/ispra-towneplace-suites-republic-airport-long-island-farmingdale/
+	1 Marriott Plaza Farmingdale
+	0 0
+Residence Inn Long Island Hauppauge/Islandia
+	/hotels/rewards-points/ispri-residence-inn-long-island-hauppauge-islandia/
+	850 Veterans Memorial Hwy. Hauppauge
+	0 0
+Fairfield Inn & Suites Elmira Corning
+	/hotels/rewards-points/elmhh-fairfield-inn-and-suites-elmira-corning/
+	1600 County Route 64 Horseheads
+	0 0
+Fairfield Inn & Suites Plattsburgh
+	/hotels/rewards-points/pbgfi-fairfield-inn-and-suites-plattsburgh/
+	579 Route 3 Plattsburgh
+	0 0
+Courtyard Poughkeepsie
+	/hotels/rewards-points/pouch-courtyard-poughkeepsie/
+	2641 South Road/Route 9 Poughkeepsie
+	0 0
+Rochester Airport Marriott
+	/hotels/rewards-points/rocap-rochester-airport-marriott/
+	1890 Ridge Road West Rochester
+	0 0
+Courtyard Long Island MacArthur Airport
+	/hotels/rewards-points/ispcy-courtyard-long-island-macarthur-airport/
+	5000 Express Drive South Ronkonkoma
+	0 0
+Courtyard Rye
+	/hotels/rewards-points/hpnry-courtyard-rye/
+	631 Midland Avenue Rye
+	0 0
+Residence Inn Syracuse Downtown at Armory Square
+	/hotels/rewards-points/syrdr-residence-inn-syracuse-downtown-at-armory-square/
+	300 West Fayette Street Syracuse
+	0 0
+Courtyard Tarrytown Greenburgh
+	/hotels/rewards-points/hpngr-courtyard-tarrytown-greenburgh/
+	475 White Plains Road Tarrytown
+	0 0
+Fairfield Inn & Suites Utica
+	/hotels/rewards-points/ucafi-fairfield-inn-and-suites-utica/
+	71 North Genesee Street Utica
+	0 0
+SpringHill Suites Buffalo Airport
+	/hotels/rewards-points/bufsh-springhill-suites-buffalo-airport/
+	6647 Transit Road Williamsville
+	0 0
+Courtyard Yonkers Westchester County
+	/hotels/rewards-points/hpnyc-courtyard-yonkers-westchester-county/
+	5 Executive Boulevard Yonkers
+	0 0
+Residence Inn Yonkers Westchester County
+	/hotels/rewards-points/hpnyk-residence-inn-yonkers-westchester-county/
+	7 Executive Boulevard Yonkers
+	0 0
+Courtyard Chapel Hill
+	/hotels/rewards-points/rduch-courtyard-chapel-hill/
+	100 Marriott Way Chapel Hill
+	0 0
+Residence Inn Chapel Hill
+	/hotels/rewards-points/rduhl-residence-inn-chapel-hill/
+	101 Erwin Road Chapel Hill
+	0 0
+Courtyard Charlotte Airport North
+	/hotels/rewards-points/cltca-courtyard-charlotte-airport-north/
+	2700 Little Rock Road Charlotte
+	0 0
+Residence Inn Charlotte Uptown
+	/hotels/rewards-points/cltru-residence-inn-charlotte-uptown/
+	404 S. Mint Street Charlotte
+	0 0
+SpringHill Suites Charlotte Airport
+	/hotels/rewards-points/cltsa-springhill-suites-charlotte-airport/
+	3055 Scott Futrell Drive Charlotte
+	0 0
+Fairfield Inn & Suites Charlotte Uptown
+	/hotels/rewards-points/cltut-fairfield-inn-and-suites-charlotte-uptown/
+	201 South McDowell Street Charlotte
+	0 0
+Residence Inn Charlotte Concord
+	/hotels/rewards-points/cltcn-residence-inn-charlotte-concord/
+	7601 Scott Padgett Parkway Concord
+	0 0
+SpringHill Suites Charlotte Concord Mills/Speedway
+	/hotels/rewards-points/clthc-springhill-suites-charlotte-concord-mills-speedway/
+	7811 Gateway Lane NW Concord
+	0 0
+SpringHill Suites Durham Chapel Hill
+	/hotels/rewards-points/rdurl-springhill-suites-durham-chapel-hill/
+	5310 McFarland Drive Durham
+	0 0
+Fairfield Inn & Suites Elizabeth City
+	/hotels/rewards-points/orfec-fairfield-inn-and-suites-elizabeth-city/
+	1640 City Center Blvd Elizabeth City
+	0 0
+Fairfield Inn Fayetteville I-95
+	/hotels/rewards-points/faycr-fairfield-inn-fayetteville-i-95/
+	1925 Cedar Creek Road Fayetteville
+	0 0
+Fairfield Inn Greensboro Airport
+	/hotels/rewards-points/gsoap-fairfield-inn-greensboro-airport/
+	7615 Thorndike Rd Greensboro
+	0 0
+Greensboro-High Point Marriott Airport
+	/hotels/rewards-points/gsonc-greensboro-high-point-marriott-airport/
+	One Marriott Drive Greensboro
+	0 0
+SpringHill Suites Greensboro
+	/hotels/rewards-points/gsosh-springhill-suites-greensboro/
+	6006 Landmark Center Blvd Greensboro
+	0 0
+Residence Inn Charlotte Lake Norman
+	/hotels/rewards-points/cltrn-residence-inn-charlotte-lake-norman/
+	16830 Kenton Drive Huntersville
+	0 0
+Courtyard Wilmington/Wrightsville Beach
+	/hotels/rewards-points/ilmcy-courtyard-wilmington-wrightsville-beach/
+	151 Van Campen Boulevard Wilmington
+	0 0
+TownePlace Suites Wilmington/Wrightsville Beach
+	/hotels/rewards-points/ilmts-towneplace-suites-wilmington-wrightsville-beach/
+	305 Eastwood Rd Wilmington
+	0 0
+Fairfield Inn & Suites Wilson
+	/hotels/rewards-points/rwiwf-fairfield-inn-and-suites-wilson/
+	4915 Hayes Place West Wilson
+	0 0
+Courtyard Winston-Salem Hanes Mall
+	/hotels/rewards-points/intsr-courtyard-winston-salem-hanes-mall/
+	1600 Westbrook Plaza Drive Winston-Salem
+	0 0
+Residence Inn Winston-Salem Southwest
+	/hotels/rewards-points/intws-residence-inn-winston-salem-southwest/
+	3885 Oxford Station Way Winston-Salem
+	0 0
+Residence Inn Bismarck North
+	/hotels/rewards-points/bisri-residence-inn-bismarck-north/
+	3421 N 14th St Bismarck
+	0 0
+Fairfield Inn & Suites Fargo
+	/hotels/rewards-points/farfi-fairfield-inn-and-suites-fargo/
+	3902 9th Avenue S Fargo
+	0 0
+Residence Inn Fargo
+	/hotels/rewards-points/farri-residence-inn-fargo/
+	4335 23rd Avenue South Fargo
+	0 0
+Courtyard Akron Downtown
+	/hotels/rewards-points/cakdt-courtyard-akron-downtown/
+	41 Furnace Street Akron
+	0 0
+Residence Inn Akron South/Green
+	/hotels/rewards-points/cakri-residence-inn-akron-south-green/
+	897 Arlington Ridge East Akron
+	0 0
+Courtyard Youngstown Canfield
+	/hotels/rewards-points/yngcy-courtyard-youngstown-canfield/
+	4173 Westford Place Canfield
+	0 0
+Fairfield Inn & Suites Canton South
+	/hotels/rewards-points/cakfc-fairfield-inn-and-suites-canton-south/
+	4025 Greentree Avenue Canton
+	0 0
+Fairfield Inn & Suites Cincinnati Uptown/University Area
+	/hotels/rewards-points/cvgmt-fairfield-inn-and-suites-cincinnati-uptown-university-area/
+	2500 South Market Street Cincinnati
+	0 0
+Courtyard Columbus Downtown
+	/hotels/rewards-points/cmhcy-courtyard-columbus-downtown/
+	35 West Spring Street Columbus
+	0 0
+Residence Inn Columbus Polaris
+	/hotels/rewards-points/cmhnc-residence-inn-columbus-polaris/
+	8865 Lyra Drive Columbus
+	0 0
+Fairfield Inn & Suites Columbus OSU
+	/hotels/rewards-points/cmhsu-fairfield-inn-and-suites-columbus-osu/
+	3031 Olentangy River Road Columbus
+	0 0
+Courtyard Dayton North
+	/hotels/rewards-points/daycn-courtyard-dayton-north/
+	7087 Miller Lane Dayton
+	0 0
+Residence Inn Dayton North
+	/hotels/rewards-points/dayri-residence-inn-dayton-north/
+	7227 York Center Drive Dayton
+	0 0
+SpringHill Suites Dayton North
+	/hotels/rewards-points/daysn-springhill-suites-dayton-north/
+	3591 York Plaza Lane Dayton
+	0 0
+Courtyard Dayton-University of Dayton
+	/hotels/rewards-points/dayud-courtyard-dayton-university-of-dayton/
+	2006 Edwin C Moses Boulevard Dayton
+	0 0
+Columbus Marriott Northwest
+	/hotels/rewards-points/cmhnw-columbus-marriott-northwest/
+	5605 Blazer Pkwy Dublin
+	0 0
+Residence Inn Akron Fairlawn
+	/hotels/rewards-points/cakfl-residence-inn-akron-fairlawn/
+	4080 Embassy Parkway Fairlawn
+	0 0
+Cincinnati Marriott Northeast
+	/hotels/rewards-points/cvgne-cincinnati-marriott-northeast/
+	9664 S Mason Montgomery Road Mason
+	0 0
+Fairfield Inn & Suites Toledo Maumee
+	/hotels/rewards-points/tolmu-fairfield-inn-and-suites-toledo-maumee/
+	521 West Dussel Dr Maumee
+	0 0
+Residence Inn Toledo Maumee
+	/hotels/rewards-points/tolrt-residence-inn-toledo-maumee/
+	1370 Arrowhead Drive Maumee
+	0 0
+Courtyard Newark Granville
+	/hotels/rewards-points/cmhnk-courtyard-newark-granville/
+	500 Highland Blvd. Newark
+	0 0
+Residence Inn Youngstown Warren/Niles
+	/hotels/rewards-points/yngnr-residence-inn-youngstown-warren-niles/
+	5555 Youngstown-Warren Road Niles
+	0 0
+Residence Inn Youngstown Boardman/Poland
+	/hotels/rewards-points/yngri-residence-inn-youngstown-boardman-poland/
+	7396 Tiffany South Poland
+	0 0
+Courtyard Akron Stow
+	/hotels/rewards-points/cakcy-courtyard-akron-stow/
+	4047 Bridgewater Parkway Stow
+	0 0
+Cleveland Marriott East
+	/hotels/rewards-points/cleem-cleveland-marriott-east/
+	26300 Harvard Road Warrensville Heights
+	0 0
+Residence Inn Cincinnati North/West Chester
+	/hotels/rewards-points/cvgrw-residence-inn-cincinnati-north-west-chester/
+	6240 Muhlhauser Road West Chester
+	0 0
+Courtyard Cleveland Willoughby
+	/hotels/rewards-points/clewb-courtyard-cleveland-willoughby/
+	35103 Maplegrove Road Willoughby
+	0 0
+Courtyard Oklahoma City Downtown
+	/hotels/rewards-points/okcdt-courtyard-oklahoma-city-downtown/
+	2 West Reno Avenue Oklahoma City
+	0 0
+SpringHill Suites Oklahoma City Downtown
+	/hotels/rewards-points/okcsd-springhill-suites-oklahoma-city-downtown/
+	600 East Sheridan Avenue Oklahoma City
+	0 0
+Residence Inn Stillwater
+	/hotels/rewards-points/pncri-residence-inn-stillwater/
+	800 South Murphy Street Stillwater
+	0 0
+Courtyard Portland Beaverton
+	/hotels/rewards-points/pdxcy-courtyard-portland-beaverton/
+	8500 SW Nimbus Avenue Beaverton
+	0 0
+Fairfield Inn & Suites Portland West/Beaverton
+	/hotels/rewards-points/pdxfh-fairfield-inn-and-suites-portland-west-beaverton/
+	15583 NW Gateway Court Beaverton
+	0 0
+Courtyard Portland Southeast/Clackamas
+	/hotels/rewards-points/pdxck-courtyard-portland-southeast-clackamas/
+	9300 SE Sunnybrook Blvd. Clackamas
+	0 0
+TownePlace Suites Portland Hillsboro
+	/hotels/rewards-points/pdxts-towneplace-suites-portland-hillsboro/
+	6550 NE Brighton Street Hillsboro
+	0 0
+Fairfield Inn & Suites Portland South/Lake Oswego
+	/hotels/rewards-points/pdxow-fairfield-inn-and-suites-portland-south-lake-oswego/
+	6100 South West Meadows Road Lake Oswego
+	0 0
+Courtyard Medford Airport
+	/hotels/rewards-points/mfrcy-courtyard-medford-airport/
+	600 Airport Road Medford
+	0 0
+TownePlace Suites Medford
+	/hotels/rewards-points/mfrts-towneplace-suites-medford/
+	1395 Center Drive Medford
+	0 0
+Courtyard Portland Airport
+	/hotels/rewards-points/pdxca-courtyard-portland-airport/
+	11550 NE Airport Way Portland
+	0 0
+Fairfield Inn & Suites Portland Airport
+	/hotels/rewards-points/pdxfi-fairfield-inn-and-suites-portland-airport/
+	11929 NE Airport Way Portland
+	0 0
+Fairfield Inn & Suites Portland North Harbour
+	/hotels/rewards-points/pdxpf-fairfield-inn-and-suites-portland-north-harbour/
+	1200 North Anchor Way Portland
+	0 0
+Residence Inn Portland North Harbour
+	/hotels/rewards-points/pdxph-residence-inn-portland-north-harbour/
+	1250 North Anchor Way Portland
+	0 0
+Fairfield Inn & Suites Belle Vernon
+	/hotels/rewards-points/lbebv-fairfield-inn-and-suites-belle-vernon/
+	189 Finley Road Belle Vernon
+	0 0
+Residence Inn Harrisburg Carlisle
+	/hotels/rewards-points/harri-residence-inn-harrisburg-carlisle/
+	1 Hampton Court Carlisle
+	0 0
+Residence Inn Philadelphia Conshohocken
+	/hotels/rewards-points/phlcn-residence-inn-philadelphia-conshohocken/
+	191 Washington Street Conshohocken
+	0 0
+Pittsburgh Marriott North
+	/hotels/rewards-points/pitno-pittsburgh-marriott-north/
+	100 Cranberry Woods Drive Cranberry Township
+	0 0
+Courtyard Pittsburgh Greensburg
+	/hotels/rewards-points/pitgb-courtyard-pittsburgh-greensburg/
+	700 Power Line Drive Greensburg
+	0 0
+Fairfield Inn Philadelphia Valley Forge/King of Prussia
+	/hotels/rewards-points/phlvf-fairfield-inn-philadelphia-valley-forge-king-of-prussia/
+	258 Mall Boulevard King Of Prussia
+	0 0
+SpringHill Suites Pittsburgh Latrobe
+	/hotels/rewards-points/pitlt-springhill-suites-pittsburgh-latrobe/
+	115 Arnold Palmer Dr Latrobe
+	0 0
+Fairfield Inn & Suites Lock Haven
+	/hotels/rewards-points/iptlh-fairfield-inn-and-suites-lock-haven/
+	50 Spring Street Lock Haven
+	0 0
+Courtyard Pittsburgh Monroeville
+	/hotels/rewards-points/pitmr-courtyard-pittsburgh-monroeville/
+	3962 William Penn Highway Monroeville
+	0 0
+SpringHill Suites Pittsburgh Monroeville
+	/hotels/rewards-points/pitmv-springhill-suites-pittsburgh-monroeville/
+	122 Daugherty Drive Monroeville
+	0 0
+SpringHill Suites Pittsburgh Mt. Lebanon
+	/hotels/rewards-points/pitle-springhill-suites-pittsburgh-mt-lebanon/
+	611 Washington Road Mt. Lebanon
+	0 0
+Fairfield Inn & Suites Harrisburg West
+	/hotels/rewards-points/harnc-fairfield-inn-and-suites-harrisburg-west/
+	185 Beacon Hill Boulevard New Cumberland
+	0 0
+Fairfield Inn & Suites Pittsburgh New Stanton
+	/hotels/rewards-points/lbefi-fairfield-inn-and-suites-pittsburgh-new-stanton/
+	107  Bair Blvd. New Stanton
+	0 0
+TownePlace Suites Pittsburgh Harmarville
+	/hotels/rewards-points/pitne-towneplace-suites-pittsburgh-harmarville/
+	2785 Freeport Road Pittsburgh
+	0 0
+Residence Inn Pittsburgh Monroeville/Wilkins Township
+	/hotels/rewards-points/pitpm-residence-inn-pittsburgh-monroeville-wilkins-township/
+	3455 William Penn Highway Pittsburgh
+	0 0
+SpringHill Suites Pittsburgh Airport
+	/hotels/rewards-points/pitsh-springhill-suites-pittsburgh-airport/
+	239 Summit Park Drive Pittsburgh
+	0 0
+Courtyard Pittsburgh Airport Settlers Ridge
+	/hotels/rewards-points/pitsr-courtyard-pittsburgh-airport-settlers-ridge/
+	5100 Campbells Run Road Pittsburgh
+	0 0
+SpringHill Suites West Mifflin
+	/hotels/rewards-points/pitwm-springhill-suites-west-mifflin/
+	1000 Regis Avenue Pittsburgh
+	0 0
+SpringHill Suites Philadelphia Airport/Ridley Park
+	/hotels/rewards-points/phlsr-springhill-suites-philadelphia-airport-ridley-park/
+	201 Industrial Highway Ridley Park
+	0 0
+Residence Inn Scranton
+	/hotels/rewards-points/scrri-residence-inn-scranton/
+	947 Viewmont Drive Scranton
+	0 0
+Courtyard Shippensburg
+	/hotels/rewards-points/harsb-courtyard-shippensburg/
+	503 Newburg Road Shippensburg
+	0 0
+Courtyard Philadelphia Springfield
+	/hotels/rewards-points/phlgf-courtyard-philadelphia-springfield/
+	400 West Sproul Road Springfield
+	0 0
+Courtyard Pittsburgh Washington/Meadow Lands
+	/hotels/rewards-points/pitwc-courtyard-pittsburgh-washington-meadow-lands/
+	1800 Tanger Boulevard Washington
+	0 0
+Courtyard Philadelphia Devon
+	/hotels/rewards-points/phldv-courtyard-philadelphia-devon/
+	762 W Lancaster Avenue Wayne
+	0 0
+Courtyard Philadelphia Valley Forge/King of Prussia
+	/hotels/rewards-points/phlva-courtyard-philadelphia-valley-forge-king-of-prussia/
+	1100 Drummers Lane Wayne
+	0 0
+Courtyard Providence Lincoln
+	/hotels/rewards-points/pvdln-courtyard-providence-lincoln/
+	636 George Washington Highway Lincoln
+	0 0
+Courtyard Florence
+	/hotels/rewards-points/flocy-courtyard-florence/
+	2680 Hospitality Blvd. Florence
+	0 0
+Residence Inn Florence
+	/hotels/rewards-points/flori-residence-inn-florence/
+	2660 Hospitality Boulevard Florence
+	0 0
+SpringHill Suites Florence
+	/hotels/rewards-points/flosh-springhill-suites-florence/
+	2670 Hospitality Boulevard Florence
+	0 0
+Residence Inn Columbia Northwest/Harbison
+	/hotels/rewards-points/caehb-residence-inn-columbia-northwest-harbison/
+	944 Lake Murray Boulevard Irmo
+	0 0
+Fairfield Inn & Suites Charleston North/Ashley Phosphate
+	/hotels/rewards-points/chsfn-fairfield-inn-and-suites-charleston-north-ashley-phosphate/
+	2540 North Forest Drive North Charleston
+	0 0
+Fairfield Inn & Suites Charleston North/University Area
+	/hotels/rewards-points/chsne-fairfield-inn-and-suites-charleston-north-university-area/
+	2600 Elms Center Road North Charleston
+	0 0
+Courtyard Charleston Summerville
+	/hotels/rewards-points/chssm-courtyard-charleston-summerville/
+	1510 Rose Drive Summerville
+	0 0
+Courtyard Sioux Falls
+	/hotels/rewards-points/fsdcy-courtyard-sioux-falls/
+	4300 West Empire Place Sioux Falls
+	0 0
+Residence Inn Sioux Falls
+	/hotels/rewards-points/fsdri-residence-inn-sioux-falls/
+	4509 W. Empire Place Sioux Falls
+	0 0
+SpringHill Suites Sioux Falls
+	/hotels/rewards-points/fsdsh-springhill-suites-sioux-falls/
+	4304 W. Empire Place Sioux Falls
+	0 0
+Fairfield Inn & Suites Spearfish
+	/hotels/rewards-points/rapsp-fairfield-inn-and-suites-spearfish/
+	2720 1st Avenue East Spearfish
+	0 0
+Fairfield Inn & Suites Chattanooga
+	/hotels/rewards-points/chafi-fairfield-inn-and-suites-chattanooga/
+	2345 Shallowford Village Drive Chattanooga
+	0 0
+Fairfield Inn & Suites Chattanooga South/East Ridge
+	/hotels/rewards-points/chase-fairfield-inn-and-suites-chattanooga-south-east-ridge/
+	1453 North Mack Smith Road East Ridge
+	0 0
+Courtyard Jackson
+	/hotels/rewards-points/mklcy-courtyard-jackson/
+	200 Campbell Oaks Drive Jackson
+	0 0
+Residence Inn Jackson
+	/hotels/rewards-points/mklri-residence-inn-jackson/
+	126 Old Medina Crossing Jackson
+	0 0
+SpringHill Suites Knoxville at Turkey Creek
+	/hotels/rewards-points/tyskw-springhill-suites-knoxville-at-turkey-creek/
+	10955 Turkey Drive Knoxville
+	0 0
+TownePlace Suites Nashville Smyrna
+	/hotels/rewards-points/bnans-towneplace-suites-nashville-smyrna/
+	990 Colonnade Drive Smyrna
+	0 0
+Fairfield Inn & Suites Nashville Smyrna
+	/hotels/rewards-points/bnasy-fairfield-inn-and-suites-nashville-smyrna/
+	810 Expo Drive Smyrna
+	0 0
+Courtyard Abilene Southwest/Abilene Mall South
+	/hotels/rewards-points/abicy-courtyard-abilene-southwest-abilene-mall-south/
+	4350 Ridgemont Drive Abilene
+	0 0
+Courtyard Abilene Northeast
+	/hotels/rewards-points/abine-courtyard-abilene-northeast/
+	2141 Scottish Road Abilene
+	0 0
+Residence Inn Abilene
+	/hotels/rewards-points/abiri-residence-inn-abilene/
+	1641 Musgrave Blvd Abilene
+	0 0
+Fairfield Inn & Suites Amarillo West/Medical Center
+	/hotels/rewards-points/amafi-fairfield-inn-and-suites-amarillo-west-medical-center/
+	6600 Interstate 40 West Amarillo
+	0 0
+Residence Inn Amarillo
+	/hotels/rewards-points/amari-residence-inn-amarillo/
+	6700 Interstate 40 West Amarillo
+	0 0
+SpringHill Suites Amarillo West/Medical Center
+	/hotels/rewards-points/amash-springhill-suites-amarillo-west-medical-center/
+	2301 Cinema Drive Amarillo
+	0 0
+Fairfield Inn & Suites Corpus Christi Aransas Pass
+	/hotels/rewards-points/crpfc-fairfield-inn-and-suites-corpus-christi-aransas-pass/
+	2679 Business Highway 35 Aransas Pass
+	0 0
+Courtyard Dallas Arlington South
+	/hotels/rewards-points/dalac-courtyard-dallas-arlington-south/
+	711 Highlander Boulevard Arlington
+	0 0
+Residence Inn Dallas Arlington South
+	/hotels/rewards-points/dalag-residence-inn-dallas-arlington-south/
+	801 Highlander Boulevard Arlington
+	0 0
+Residence Inn Arlington
+	/hotels/rewards-points/dalar-residence-inn-arlington/
+	1050 Brookhollow Plaza Drive Arlington
+	0 0
+SpringHill Suites Dallas Arlington North
+	/hotels/rewards-points/dfwsh-springhill-suites-dallas-arlington-north/
+	1975 E. Lamar Blvd Arlington
+	0 0
+Courtyard Austin-University Area
+	/hotels/rewards-points/auscy-courtyard-austin-university-area/
+	5660 North Interstate Highway 35 Austin
+	0 0
+Fairfield Inn & Suites Austin-University Area
+	/hotels/rewards-points/ausfi-fairfield-inn-and-suites-austin-university-area/
+	959 Reinli Street Austin
+	0 0
+Fairfield Inn & Suites Austin Northwest/The Domain Area
+	/hotels/rewards-points/auspb-fairfield-inn-and-suites-austin-northwest-the-domain-area/
+	11201 North MoPac Expressway Austin
+	0 0
+Fairfield Inn & Suites Austin North/Parmer Lane
+	/hotels/rewards-points/auspl-fairfield-inn-and-suites-austin-north-parmer-lane/
+	12536 North IH35 Austin
+	0 0
+Fairfield Inn & Suites Austin Northwest/Research Blvd
+	/hotels/rewards-points/ausrb-fairfield-inn-and-suites-austin-northwest-research-blvd/
+	13087 Research Blvd Austin
+	0 0
+SpringHill Suites Austin Northwest/Arboretum
+	/hotels/rewards-points/aussn-springhill-suites-austin-northwest-arboretum/
+	10936 Stonelake Blvd. Austin
+	0 0
+TownePlace Suites Austin North/Tech Ridge
+	/hotels/rewards-points/austs-towneplace-suites-austin-north-tech-ridge/
+	12427 Tech Ridge Boulevard Austin
+	0 0
+SpringHill Suites Houston Baytown
+	/hotels/rewards-points/houbt-springhill-suites-houston-baytown/
+	5169 East Freeway Baytown
+	0 0
+Fairfield Inn & Suites San Antonio Boerne
+	/hotels/rewards-points/satbo-fairfield-inn-and-suites-san-antonio-boerne/
+	6 Cascade Caverns Road Boerne
+	0 0
+SpringHill Suites Austin Cedar Park
+	/hotels/rewards-points/auscp-springhill-suites-austin-cedar-park/
+	1110 Discovery Boulevard Cedar Park
+	0 0
+TownePlace Suites Bryan College Station
+	/hotels/rewards-points/clltb-towneplace-suites-bryan-college-station/
+	1300 University Drive East College Station
+	0 0
+Courtyard Corpus Christi
+	/hotels/rewards-points/crpcy-courtyard-corpus-christi/
+	5133 Flynn Parkway Corpus Christi
+	0 0
+Fairfield Inn & Suites Corpus Christi
+	/hotels/rewards-points/crpfi-fairfield-inn-and-suites-corpus-christi/
+	5217 Blanche Moore Drive Corpus Christi
+	0 0
+Residence Inn Corpus Christi
+	/hotels/rewards-points/crpri-residence-inn-corpus-christi/
+	5229 Blanche Moore Drive Corpus Christi
+	0 0
+TownePlace Suites Corpus Christi
+	/hotels/rewards-points/crpts-towneplace-suites-corpus-christi/
+	6701 South Padre Island Drive Corpus Christi
+	0 0
+SpringHill Suites Dallas Downtown/West End
+	/hotels/rewards-points/dalwe-springhill-suites-dallas-downtown-west-end/
+	1907 N. Lamar St Dallas
+	0 0
+DFW Airport Marriott South
+	/hotels/rewards-points/dfwam-dfw-airport-marriott-south/
+	4151 Centreport Drive Fort Worth
+	0 0
+Courtyard Fort Worth University Drive
+	/hotels/rewards-points/dfwch-courtyard-fort-worth-university-drive/
+	3150 Riverfront Drive Fort Worth
+	0 0
+Courtyard Fort Worth Historic Stockyards
+	/hotels/rewards-points/dfwcn-courtyard-fort-worth-historic-stockyards/
+	2537 North Main Street Fort Worth
+	0 0
+Dallas/Fort Worth Marriott Hotel & Golf Club at Champions Circle
+	/hotels/rewards-points/dfwmc-dallas-fort-worth-marriott-hotel-and-golf-club-at-champions-circle/
+	3300 Championship Parkway Fort Worth
+	0 0
+Residence Inn Fort Worth Cultural District
+	/hotels/rewards-points/dfwrw-residence-inn-fort-worth-cultural-district/
+	2500 Museum Way Fort Worth
+	0 0
+Fairfield Inn & Suites Fort Worth University Drive
+	/hotels/rewards-points/dfwun-fairfield-inn-and-suites-fort-worth-university-drive/
+	1505 S University Drive Fort Worth
+	0 0
+Residence Inn Houston Medical Center/NRG Park
+	/hotels/rewards-points/houas-residence-inn-houston-medical-center-nrg-park/
+	7710 South Main Street Houston
+	0 0
+Courtyard Houston-West University
+	/hotels/rewards-points/houbs-courtyard-houston-west-university/
+	2929 Westpark Dr Houston
+	0 0
+Courtyard Houston Downtown/Convention Center
+	/hotels/rewards-points/houdt-courtyard-houston-downtown-convention-center/
+	916 Dallas Street Houston
+	0 0
+Houston Marriott Energy Corridor
+	/hotels/rewards-points/houeg-houston-marriott-energy-corridor/
+	16011 Katy Freeway Houston
+	0 0
+Residence Inn Houston by The Galleria
+	/hotels/rewards-points/hougl-residence-inn-houston-by-the-galleria/
+	2500 McCue Road Houston
+	0 0
+Residence Inn Houston Downtown/Convention Center
+	/hotels/rewards-points/hourd-residence-inn-houston-downtown-convention-center/
+	904 Dallas Street Houston
+	0 0
+SpringHill Suites Houston Medical Center/NRG Park
+	/hotels/rewards-points/hourp-springhill-suites-houston-medical-center-nrg-park/
+	1400 Old Spanish Trail Houston
+	0 0
+SpringHill Suites Houston Downtown/Convention Center
+	/hotels/rewards-points/houzd-springhill-suites-houston-downtown-convention-center/
+	914 Dallas Street Houston
+	0 0
+SpringHill Suites Houston Intercontinental Airport
+	/hotels/rewards-points/iahsh-springhill-suites-houston-intercontinental-airport/
+	15840 John F Kennedy Boulevard Houston
+	0 0
+Dallas Marriott Las Colinas
+	/hotels/rewards-points/dalcl-dallas-marriott-las-colinas/
+	223 West Las Colinas Boulevard Irving
+	0 0
+SpringHill Suites Houston Katy Mills
+	/hotels/rewards-points/houkf-springhill-suites-houston-katy-mills/
+	2501 Texmati Dr. Katy
+	0 0
+SpringHill Suites Laredo
+	/hotels/rewards-points/lrdsh-springhill-suites-laredo/
+	5940 San Bernardo Ave. Laredo
+	0 0
+Courtyard Lubbock
+	/hotels/rewards-points/lbbcy-courtyard-lubbock/
+	4011 South Loop 289 Lubbock
+	0 0
+Courtyard Lubbock Downtown/University Area
+	/hotels/rewards-points/lbbdt-courtyard-lubbock-downtown-university-area/
+	308 Avenue V Lubbock
+	0 0
+Fairfield Inn & Suites Lubbock
+	/hotels/rewards-points/lbbfi-fairfield-inn-and-suites-lubbock/
+	4007 South Loop 289 Lubbock
+	0 0
+Courtyard Dallas Midlothian at Midlothian Conference Center
+	/hotels/rewards-points/dalcd-courtyard-dallas-midlothian-at-midlothian-conference-center/
+	3 Community Circle Drive Midlothian
+	0 0
+Fairfield Inn & Suites New Braunfels
+	/hotels/rewards-points/satbf-fairfield-inn-and-suites-new-braunfels/
+	1465 IH-35-N New Braunfels
+	0 0
+TownePlace Suites Corpus Christi Portland
+	/hotels/rewards-points/crppt-towneplace-suites-corpus-christi-portland/
+	109 Esplanade Drive Portland
+	0 0
+Fairfield Inn & Suites Rockport
+	/hotels/rewards-points/crprp-fairfield-inn-and-suites-rockport/
+	2950 Hwy 35 North Business Rockport
+	0 0
+Residence Inn Austin Round Rock
+	/hotels/rewards-points/ausrk-residence-inn-austin-round-rock/
+	2505 S I H-35 Round Rock
+	0 0
+Courtyard San Angelo
+	/hotels/rewards-points/sjtcy-courtyard-san-angelo/
+	2572 Southwest Blvd San Angelo
+	0 0
+Courtyard San Antonio Downtown/Market Square
+	/hotels/rewards-points/satcd-courtyard-san-antonio-downtown-market-square/
+	600 Santa Rosa South San Antonio
+	0 0
+Fairfield Inn & Suites San Antonio Alamo Plaza/Convention Center
+	/hotels/rewards-points/satdw-fairfield-inn-and-suites-san-antonio-alamo-plaza-convention-center/
+	422 Bonham San Antonio
+	0 0
+Fairfield Inn & Suites San Antonio Downtown/Market Square
+	/hotels/rewards-points/satfi-fairfield-inn-and-suites-san-antonio-downtown-market-square/
+	620 South Santa Rosa San Antonio
+	0 0
+Residence Inn San Antonio SeaWorld®/Lackland
+	/hotels/rewards-points/satsr-residence-inn-san-antonio-seaworld-lackland/
+	2838 Cinema Ridge San Antonio
+	0 0
+SpringHill Suites San Antonio SeaWorld®/Lackland
+	/hotels/rewards-points/satss-springhill-suites-san-antonio-seaworld-lackland/
+	138 Richland Hills Drive San Antonio
+	0 0
+Fairfield Inn & Suites San Antonio SeaWorld®/Westover Hills
+	/hotels/rewards-points/satsw-fairfield-inn-and-suites-san-antonio-seaworld-westover-hills/
+	4026 Wiseman Blvd San Antonio
+	0 0
+TownePlace Suites San Antonio Downtown
+	/hotels/rewards-points/sattd-towneplace-suites-san-antonio-downtown/
+	409 East Houston Street San Antonio
+	0 0
+Fairfield Inn & Suites Austin San Marcos
+	/hotels/rewards-points/ausfm-fairfield-inn-and-suites-austin-san-marcos/
+	1250 North IH-35 San Marcos
+	0 0
+TownePlace Suites Seguin
+	/hotels/rewards-points/satsg-towneplace-suites-seguin/
+	2732 Jay Road Seguin
+	0 0
+Courtyard Houston North/Shenandoah
+	/hotels/rewards-points/iahcs-courtyard-houston-north-shenandoah/
+	19255 David Memorial Drive Shenandoah
+	0 0
+Residence Inn Houston Springwoods Village
+	/hotels/rewards-points/houpg-residence-inn-houston-springwoods-village/
+	22814 Holzwarth Road Spring
+	0 0
+Courtyard Houston Springwoods Village
+	/hotels/rewards-points/houxp-courtyard-houston-springwoods-village/
+	22742 Holzwarth Road Spring
+	0 0
+Courtyard Houston The Woodlands
+	/hotels/rewards-points/houwd-courtyard-houston-the-woodlands/
+	1020 Lake Front Circle The Woodlands
+	0 0
+Residence Inn Houston The Woodlands/Lake Front Circle
+	/hotels/rewards-points/houwo-residence-inn-houston-the-woodlands-lake-front-circle/
+	1040 Lake Front Circle The Woodlands
+	0 0
+Courtyard Waco
+	/hotels/rewards-points/wcocy-courtyard-waco/
+	101 Washington Avenue Waco
+	0 0
+Dallas/Fort Worth Marriott Solana
+	/hotels/rewards-points/dalwl-dallas-fort-worth-marriott-solana/
+	1301 Solana Boulevard, Building 3 Westlake
+	0 0
+SpringHill Suites Waco Woodway
+	/hotels/rewards-points/wcosh-springhill-suites-waco-woodway/
+	200 Colonnade Parkway Woodway
+	0 0
+SpringHill Suites Lehi at Thanksgiving Point
+	/hotels/rewards-points/slcle-springhill-suites-lehi-at-thanksgiving-point/
+	2447 West Executive Parkway Lehi
+	0 0
+SpringHill Suites Logan
+	/hotels/rewards-points/slclg-springhill-suites-logan/
+	635 South Riverwoods Parkway Logan
+	0 0
+SpringHill Suites Provo
+	/hotels/rewards-points/slcps-springhill-suites-provo/
+	1580 North Freedom Boulevard Provo
+	0 0
+Provo Marriott Hotel & Conference Center
+	/hotels/rewards-points/slcvo-provo-marriott-hotel-and-conference-center/
+	101 West 100 North Provo
+	0 0
+Courtyard Salt Lake City Downtown
+	/hotels/rewards-points/slccd-courtyard-salt-lake-city-downtown/
+	345 West 100 South Salt Lake City
+	0 0
+Residence Inn Salt Lake City Downtown
+	/hotels/rewards-points/slcri-residence-inn-salt-lake-city-downtown/
+	285 West Broadway (300 S) Salt Lake City
+	0 0
+TownePlace Suites Burlington Williston
+	/hotels/rewards-points/btvts-towneplace-suites-burlington-williston/
+	66 Zephyr Road, Taft Corners Williston
+	0 0
+SpringHill Suites Alexandria
+	/hotels/rewards-points/wasax-springhill-suites-alexandria/
+	6065 Richmond Highway Alexandria
+	0 0
+Residence Inn Alexandria Old Town South at Carlyle
+	/hotels/rewards-points/wasra-residence-inn-alexandria-old-town-south-at-carlyle/
+	2345 Mill Road Alexandria
+	0 0
+SpringHill Suites Alexandria Old Town/Southwest
+	/hotels/rewards-points/wasva-springhill-suites-alexandria-old-town-southwest/
+	2950 Eisenhower Avenue Alexandria
+	0 0
+Residence Inn Arlington Capital View
+	/hotels/rewards-points/wasry-residence-inn-arlington-capital-view/
+	2850 South Potomac Avenue Arlington
+	0 0
+Residence Inn Chesapeake Greenbrier
+	/hotels/rewards-points/orfgb-residence-inn-chesapeake-greenbrier/
+	1500 Crossways Blvd. Chesapeake
+	0 0
+Marriott Chesapeake
+	/hotels/rewards-points/orfgr-marriott-chesapeake/
+	725 Woodlake Drive Chesapeake
+	0 0
+Residence Inn Fairfax Merrifield
+	/hotels/rewards-points/iadxm-residence-inn-fairfax-merrifield/
+	8125 Gatehouse Road Falls Church
+	0 0
+Falls Church Marriott Fairview Park
+	/hotels/rewards-points/wasfp-falls-church-marriott-fairview-park/
+	3111 Fairview Park Drive Falls Church
+	0 0
+Residence Inn Fredericksburg
+	/hotels/rewards-points/fkrri-residence-inn-fredericksburg/
+	60 Towne Centre Blvd Fredericksburg
+	0 0
+Courtyard Harrisonburg
+	/hotels/rewards-points/shdcy-courtyard-harrisonburg/
+	1890 Evelyn Byrd Avenue Harrisonburg
+	0 0
+Fairfield Inn & Suites Harrisonburg
+	/hotels/rewards-points/shdfi-fairfield-inn-and-suites-harrisonburg/
+	1946 Medical Avenue Harrisonburg
+	0 0
+Washington Dulles Marriott Suites
+	/hotels/rewards-points/iadds-washington-dulles-marriott-suites/
+	13101 Worldgate Drive Herndon
+	0 0
+Courtyard Lynchburg
+	/hotels/rewards-points/lyhcy-courtyard-lynchburg/
+	4640 Murray Place Lynchburg
+	0 0
+Fairfield Inn & Suites Lynchburg Liberty University
+	/hotels/rewards-points/lyhfi-fairfield-inn-and-suites-lynchburg-liberty-university/
+	3777 Candlers Mountain Road Lynchburg
+	0 0
+SpringHill Suites Lynchburg
+	/hotels/rewards-points/lyhsh-springhill-suites-lynchburg/
+	15171 Wards Road Lynchburg
+	0 0
+Newport News Marriott at City Center
+	/hotels/rewards-points/phfoy-newport-news-marriott-at-city-center/
+	740 Town Center Drive Newport News
+	0 0
+Courtyard Norfolk Downtown
+	/hotels/rewards-points/orfdt-courtyard-norfolk-downtown/
+	520 Plume Street Norfolk
+	0 0
+SpringHill Suites Norfolk Virginia Beach
+	/hotels/rewards-points/orfnw-springhill-suites-norfolk-virginia-beach/
+	6350 Newtown Rd Norfolk
+	0 0
+SpringHill Suites Norfolk Old Dominion University
+	/hotels/rewards-points/orfod-springhill-suites-norfolk-old-dominion-university/
+	4500 Hampton Boulevard Norfolk
+	0 0
+Residence Inn Norfolk Airport
+	/hotels/rewards-points/orfri-residence-inn-norfolk-airport/
+	1590 North Military Highway Norfolk
+	0 0
+Residence Inn Norfolk Downtown
+	/hotels/rewards-points/orfrn-residence-inn-norfolk-downtown/
+	227 West Brambleton Avenue Norfolk
+	0 0
+Renaissance Portsmouth-Norfolk Waterfront Hotel
+	/hotels/rewards-points/orfpt-renaissance-portsmouth-norfolk-waterfront-hotel/
+	425 Water St Portsmouth
+	0 0
+Courtyard Roanoke Airport
+	/hotels/rewards-points/roacy-courtyard-roanoke-airport/
+	3301 Ordway Drive Roanoke
+	0 0
+Residence Inn Springfield Old Keene Mill
+	/hotels/rewards-points/wasok-residence-inn-springfield-old-keene-mill/
+	6412 Backlick Road Springfield
+	0 0
+Tysons Corner Marriott
+	/hotels/rewards-points/wastc-tysons-corner-marriott/
+	8028 Leesburg Pike Tysons Corner
+	0 0
+Residence Inn Tysons Corner Mall
+	/hotels/rewards-points/wasto-residence-inn-tysons-corner-mall/
+	8400 Old Courthouse Road Vienna
+	0 0
+Fairfield Inn & Suites Wytheville
+	/hotels/rewards-points/blffi-fairfield-inn-and-suites-wytheville/
+	200 Marriott Way Wytheville
+	0 0
+Courtyard Newport News Yorktown
+	/hotels/rewards-points/phfyt-courtyard-newport-news-yorktown/
+	105 Cybernetics Way Yorktown
+	0 0
+TownePlace Suites Bellingham
+	/hotels/rewards-points/blits-towneplace-suites-bellingham/
+	4050 Northwest Avenue Bellingham
+	0 0
+Fairfield Inn & Suites Burlington
+	/hotels/rewards-points/otsfs-fairfield-inn-and-suites-burlington/
+	9384 Old Highway 99 North Burlington
+	0 0
+Fairfield Inn & Suites Tacoma DuPont
+	/hotels/rewards-points/seadp-fairfield-inn-and-suites-tacoma-dupont/
+	1515 Wilmington Drive DuPont
+	0 0
+Courtyard Seattle North/Everett
+	/hotels/rewards-points/seaev-courtyard-seattle-north-everett/
+	3003 Colby Avenue Everett
+	0 0
+Courtyard Seattle Federal Way
+	/hotels/rewards-points/seafw-courtyard-seattle-federal-way/
+	31910 Gateway Center Blvd. South Federal Way
+	0 0
+Courtyard Seattle North/Lynnwood Everett
+	/hotels/rewards-points/sealn-courtyard-seattle-north-lynnwood-everett/
+	4220 Alderwood Mall Boulevard Lynnwood
+	0 0
+TownePlace Suites Seattle Everett/Mukilteo
+	/hotels/rewards-points/seats-towneplace-suites-seattle-everett-mukilteo/
+	8521 Mukilteo Speedway Mukilteo
+	0 0
+TownePlace Suites Olympia
+	/hotels/rewards-points/olmts-towneplace-suites-olympia/
+	900 Capitol Way South Olympia
+	0 0
+Fairfield Inn & Suites Tacoma Puyallup
+	/hotels/rewards-points/seapp-fairfield-inn-and-suites-tacoma-puyallup/
+	202 15th Avenue SW Puyallup
+	0 0
+TownePlace Suites Seattle South/Renton
+	/hotels/rewards-points/seatr-towneplace-suites-seattle-south-renton/
+	300 SW 19th Street Renton
+	0 0
+Courtyard Richland Columbia Point
+	/hotels/rewards-points/psccy-courtyard-richland-columbia-point/
+	480 Columbia Point Drive Richland
+	0 0
+Courtyard Spokane Downtown at the Convention Center
+	/hotels/rewards-points/gegch-courtyard-spokane-downtown-at-the-convention-center/
+	401 North Riverpoint Boulevard Spokane
+	0 0
+Residence Inn Spokane East Valley
+	/hotels/rewards-points/gegri-residence-inn-spokane-east-valley/
+	15915 E. Indiana Avenue Spokane
+	0 0
+SpringHill Suites Portland Vancouver
+	/hotels/rewards-points/pdxvs-springhill-suites-portland-vancouver/
+	1421 SE Tech Center Dr Vancouver
+	0 0
+Courtyard Bridgeport Clarksburg
+	/hotels/rewards-points/ckbcy-courtyard-bridgeport-clarksburg/
+	30 Shaner Drive Bridgeport
+	0 0
+SpringHill Suites Bridgeport Clarksburg
+	/hotels/rewards-points/ckbsh-springhill-suites-bridgeport-clarksburg/
+	97 Platinum Drive Bridgeport
+	0 0
+TownePlace Suites Bridgeport Clarksburg
+	/hotels/rewards-points/ckbts-towneplace-suites-bridgeport-clarksburg/
+	101 Platinum Drive Bridgeport
+	0 0
+Charleston Marriott Town Center
+	/hotels/rewards-points/crwwv-charleston-marriott-town-center/
+	200 Lee Street East Charleston
+	0 0
+SpringHill Suites Morgantown
+	/hotels/rewards-points/mgwsh-springhill-suites-morgantown/
+	1910 Hunter's Way Morgantown
+	0 0
+Courtyard Morgantown
+	/hotels/rewards-points/mgwcy-courtyard-morgantown/
+	460 Courtyard Street Morgantown
+	0 0
+Residence Inn Morgantown
+	/hotels/rewards-points/mgwri-residence-inn-morgantown/
+	1046 Willowdale Road Morgantown
+	0 0
+Fairfield Inn & Suites Princeton
+	/hotels/rewards-points/blffp-fairfield-inn-and-suites-princeton/
+	107 Halls Ridge Road Princeton
+	0 0
+Residence Inn Appleton
+	/hotels/rewards-points/atwri-residence-inn-appleton/
+	310 Metro Drive Appleton
+	0 0
+Fairfield Inn & Suites Green Bay Southwest
+	/hotels/rewards-points/grbfi-fairfield-inn-and-suites-green-bay-southwest/
+	2850 South Oneida Street Green Bay
+	0 0
+Courtyard Madison East
+	/hotels/rewards-points/msncy-courtyard-madison-east/
+	2502 Crossroads Drive Madison
+	0 0
+Fairfield Inn & Suites Madison East
+	/hotels/rewards-points/msnme-fairfield-inn-and-suites-madison-east/
+	2702 Crossroads Drive Madison
+	0 0
+Residence Inn Madison East
+	/hotels/rewards-points/msnri-residence-inn-madison-east/
+	4862 Hayes Road Madison
+	0 0
+Courtyard Madison West/Middleton
+	/hotels/rewards-points/msncw-courtyard-madison-west-middleton/
+	2266 Deming Way Middleton
+	0 0
+Fairfield Inn & Suites Madison West/Middleton
+	/hotels/rewards-points/msnmw-fairfield-inn-and-suites-madison-west-middleton/
+	8212 Greenway Boulevard Middleton
+	0 0
+Residence Inn Madison West/Middleton
+	/hotels/rewards-points/msnwm-residence-inn-madison-west-middleton/
+	8400 Market Street Middleton
+	0 0
+Courtyard Milwaukee Airport
+	/hotels/rewards-points/mkecy-courtyard-milwaukee-airport/
+	4620 South 5th Street Milwaukee
+	0 0
+Fairfield Inn & Suites Oshkosh
+	/hotels/rewards-points/oshfi-fairfield-inn-and-suites-oshkosh/
+	1800 South Koeller Road Oshkosh
+	0 0
+Fairfield Inn & Suites Madison Verona
+	/hotels/rewards-points/msnmv-fairfield-inn-and-suites-madison-verona/
+	613 West Verona Avenue Verona
+	0 0
+Milwaukee Marriott West
+	/hotels/rewards-points/mkemw-milwaukee-marriott-west/
+	W231N1600 Corporate Ct Waukesha
+	0 0
+SpringHill Suites Wisconsin Dells
+	/hotels/rewards-points/msnsh-springhill-suites-wisconsin-dells/
+	461 Wisconsin Dells Parkway Wisconsin Dells
+	0 0
+Fairfield Inn & Suites Cheyenne Southwest/Downtown Area
+	/hotels/rewards-points/cyssw-fairfield-inn-and-suites-cheyenne-southwest-downtown-area/
+	1820 West Lincolnway Cheyenne
+	0 0
+TownePlace Suites Cheyenne Southwest/Downtown Area
+	/hotels/rewards-points/cysts-towneplace-suites-cheyenne-southwest-downtown-area/
+	1710 West Lincolnway Cheyenne
+	0 0
+Armenia Marriott Hotel Yerevan
+	/hotels/rewards-points/evnmc-armenia-marriott-hotel-yerevan/
+	1 Amiryan Street Yerevan
+	0 0
+Courtyard Brussels
+	/hotels/rewards-points/brucy-courtyard-brussels/
+	Avenue des Olympiades 6 Brussels
+	0 0
+Courtyard Bonaire
+	/hotels/rewards-points/boncy-courtyard-bonaire/
+	Kaya International 2 Kralendijk
+	0 0
+Courtyard Sarajevo
+	/hotels/rewards-points/sjjcy-courtyard-sarajevo/
+	Skenderija 1 Sarajevo
+	0 0
+Residence Inn Sarajevo
+	/hotels/rewards-points/sjjri-residence-inn-sarajevo/
+	Skenderija 43 Sarajevo
+	0 0
+Sao Paulo Airport Marriott Hotel
+	/hotels/rewards-points/saoap-sao-paulo-airport-marriott-hotel/
+	Av. Ministro Evandro Lins e Silva, 10/100, Guarulhos
+	0 0
+Delta Hotels Calgary Airport In-Terminal
+	/hotels/rewards-points/yycca-delta-hotels-calgary-airport-in-terminal/
+	2001 Airport Road NE Calgary
+	0 0
+Residence Inn Calgary South
+	/hotels/rewards-points/yyccr-residence-inn-calgary-south/
+	3710 Market Street SE. Calgary
+	0 0
+Delta Hotels Calgary South
+	/hotels/rewards-points/yycdc-delta-hotels-calgary-south/
+	135 Southland Drive SE Calgary
+	0 0
+Delta Hotels Edmonton South Conference Centre
+	/hotels/rewards-points/yeges-delta-hotels-edmonton-south-conference-centre/
+	4404 Gateway Boulevard NW Edmonton
+	0 0
+Courtyard Edmonton West
+	/hotels/rewards-points/yegew-courtyard-edmonton-west/
+	10011 184th Street NW Edmonton
+	0 0
+Fairfield Inn & Suites Kamloops
+	/hotels/rewards-points/ykafi-fairfield-inn-and-suites-kamloops/
+	1475 Hugh Allan Drive Kamloops
+	0 0
+Fairfield Inn & Suites Kelowna
+	/hotels/rewards-points/ylwfi-fairfield-inn-and-suites-kelowna/
+	1655 - Powick Rd. Kelowna
+	0 0
+Fairfield Inn & Suites Vernon
+	/hotels/rewards-points/yvefi-fairfield-inn-and-suites-vernon/
+	5300 Anderson Way Vernon
+	0 0
+Residence Inn Moncton
+	/hotels/rewards-points/yqmri-residence-inn-moncton/
+	600 Main Street Moncton
+	0 0
+Residence Inn Halifax Downtown
+	/hotels/rewards-points/yhzri-residence-inn-halifax-downtown/
+	1599 Grafton St. Halifax
+	0 0
+Fairfield Inn & Suites Barrie
+	/hotels/rewards-points/rqsfi-fairfield-inn-and-suites-barrie/
+	261 Essa Road Barrie
+	0 0
+Courtyard Kingston Highway 401/Division Street
+	/hotels/rewards-points/ygkcy-courtyard-kingston-highway-401-division-street/
+	103 Dalton Avenue Kingston
+	0 0
+Delta Hotels London Armouries
+	/hotels/rewards-points/yxudl-delta-hotels-london-armouries/
+	325 Dundas Street London
+	0 0
+Courtyard Ottawa Downtown
+	/hotels/rewards-points/yowcy-courtyard-ottawa-downtown/
+	350 Dalhousie Street Ottawa
+	0 0
+Delta Hotels Sault Ste. Marie Waterfront
+	/hotels/rewards-points/yamds-delta-hotels-sault-ste-marie-waterfront/
+	208 St Mary's River Drive Sault Ste. Marie
+	0 0
+Fairfield Inn & Suites Sudbury
+	/hotels/rewards-points/ysbfi-fairfield-inn-and-suites-sudbury/
+	490 Barrydowne Rd. Sudbury
+	0 0
+TownePlace Suites Sudbury
+	/hotels/rewards-points/ysbts-towneplace-suites-sudbury/
+	1710 The Kingsway Sudbury
+	0 0
+Delta Hotels Toronto East
+	/hotels/rewards-points/yyzsb-delta-hotels-toronto-east/
+	2035 Kennedy Road Toronto
+	0 0
+Residence Inn Toronto Vaughan
+	/hotels/rewards-points/yyztv-residence-inn-toronto-vaughan/
+	11 Interchange Way Vaughan
+	0 0
+Residence Inn Whitby
+	/hotels/rewards-points/yyzwy-residence-inn-whitby/
+	160 Consumers Dr Whitby
+	0 0
+Courtyard Montreal West Island/Baie D’Urfe
+	/hotels/rewards-points/yulbd-courtyard-montreal-west-island-baie-d%E2%80%99urfe/
+	20000 Trans Canada Highway Baie D'Urfe
+	0 0
+Courtyard Montreal Airport
+	/hotels/rewards-points/yulap-courtyard-montreal-airport/
+	7000 Place Robert-Joncas Montreal
+	0 0
+Residence Inn Montreal Westmount
+	/hotels/rewards-points/yulmr-residence-inn-montreal-westmount/
+	2170 Lincoln Avenue Montreal
+	0 0
+Delta Hotels Regina
+	/hotels/rewards-points/yqrdr-delta-hotels-regina/
+	1919 Saskatchewan Drive Regina
+	0 0
+Courtyard Hong Kong Sha Tin
+	/hotels/rewards-points/hkgst-courtyard-hong-kong-sha-tin/
+	1 On Ping Street, Sha Tin New Territories Hong Kong
+	0 0
+Shanghai Marriott Hotel City Centre
+	/hotels/rewards-points/shamc-shanghai-marriott-hotel-city-centre/
+	555 Xi Zang Road (Middle), Huangpu District Shanghai
+	0 0
+Beijing Marriott Hotel Northeast
+	/hotels/rewards-points/bjses-beijing-marriott-hotel-northeast/
+	26A Xiao Yun Road, Chaoyang District Beijing
+	0 0
+JW Marriott Hotel Beijing
+	/hotels/rewards-points/bjsjw-jw-marriott-hotel-beijing/
+	83 Jian Guo Road, Chaoyang District Beijing
+	0 0
+JW Marriott Hotel Shenzhen
+	/hotels/rewards-points/szxjw-jw-marriott-hotel-shenzhen/
+	6005 Shennan Boulevard, Futian District, Shenzhen
+	0 0
+Renaissance Shanghai Yu Garden Hotel
+	/hotels/rewards-points/shasy-renaissance-shanghai-yu-garden-hotel/
+	159 South He Nan Road, Huangpu District Shanghai
+	0 0
+JW Marriott Hotel Zhejiang Anji
+	/hotels/rewards-points/hghaj-jw-marriott-hotel-zhejiang-anji/
+	No 1 Raocheng South Line Anji
+	0 0
+The Artisan D.C. Hotel, Autograph Collection
+	/hotels/rewards-points/bogak-the-artisan-dc-hotel-autograph-collection/
+	Av. Calle 72 No. 5 - 51 Bogota
+	0 0
+Bogota Marriott Hotel
+	/hotels/rewards-points/bogmc-bogota-marriott-hotel/
+	Av El Dorado 69 B-53 Bogota
+	0 0
+Courtyard Prague City
+	/hotels/rewards-points/prgcy-courtyard-prague-city/
+	Lucemburska Street 46 Prague
+	0 0
+JW Marriott Hotel Cairo
+	/hotels/rewards-points/caijw-jw-marriott-hotel-cairo/
+	Ring Road- Mirage City- P.O.Box 427, Heliopolis Cairo
+	0 0
+AC Hotel Paris Le Bourget Airport
+	/hotels/rewards-points/paral-ac-hotel-paris-le-bourget-airport/
+	2 Rue de la Haye Dugny Le Bourget
+	0 0
+Courtyard Montpellier
+	/hotels/rewards-points/mplcy-courtyard-montpellier/
+	105 Place  Georges Freche (Rue du Chelia) Montpellier
+	0 0
+Courtyard Tbilisi
+	/hotels/rewards-points/tbscy-courtyard-tbilisi/
+	4 Freedom Square Tbilisi
+	0 0
+Courtyard Hannover Maschsee
+	/hotels/rewards-points/hajcy-courtyard-hannover-maschsee/
+	Arthur-Menge-Ufer 3 Hannover
+	0 0
+Courtyard Munich City East
+	/hotels/rewards-points/mucor-courtyard-munich-city-east/
+	Orleansstrasse 81-83 Munich
+	0 0
+MOXY Munich Airport
+	/hotels/rewards-points/mucox-moxy-munich-airport/
+	Eichenstrasse 1 Oberding Schwaig
+	0 0
+Courtyard Cologne
+	/hotels/rewards-points/cgncy-courtyard-cologne/
+	Dagobertstrasse 23 Cologne
+	0 0
+Courtyard Duesseldorf Seestern
+	/hotels/rewards-points/duscy-courtyard-duesseldorf-seestern/
+	Am Seestern 16 Duesseldorf
+	0 0
+Renaissance Duesseldorf Hotel
+	/hotels/rewards-points/dusrn-renaissance-duesseldorf-hotel/
+	Noerdlicher Zubringer 6 Duesseldorf
+	0 0
+AC Hotel Mainz
+	/hotels/rewards-points/framz-ac-hotel-mainz/
+	Bahnhofplatz 8 Mainz
+	0 0
+JW Marriott Hotel Chandigarh
+	/hotels/rewards-points/ixcjw-jw-marriott-hotel-chandigarh/
+	Plot no: 6, Sector 35-B, Dakshin Marg Chandigarh
+	0 0
+JW Marriott Hotel Kolkata
+	/hotels/rewards-points/ccujw-jw-marriott-hotel-kolkata/
+	4A, J.B.S. Haldane Avenue Kolkata
+	0 0
+Fairfield by Marriott Bali Legian
+	/hotels/rewards-points/dpsfi-fairfield-by-marriott-bali-legian/
+	Jalan Sri Rama 8 C, Legian Kuta, Bali
+	0 0
+Courtyard Bali Seminyak Resort
+	/hotels/rewards-points/dpssm-courtyard-bali-seminyak-resort/
+	Jalan Camplung Tanduk No 103 SP, Dhyana Pura Seminyak Bali
+	0 0
+Amman Marriott Hotel
+	/hotels/rewards-points/ammjr-amman-marriott-hotel/
+	Issam Al Ajlouni Street, Shmeissani Amman
+	0 0
+Petra Marriott Hotel
+	/hotels/rewards-points/mpqmc-petra-marriott-hotel/
+	Queen Rania Al Abdallah Street Wadi Mousa
+	0 0
+JW Marriott Hotel Kuala Lumpur
+	/hotels/rewards-points/kuldt-jw-marriott-hotel-kuala-lumpur/
+	183 Jalan Bukit Bintang Kuala Lumpur
+	0 0
+JW Marriott Hotel Mexico City Santa Fe
+	/hotels/rewards-points/mexsf-jw-marriott-hotel-mexico-city-santa-fe/
+	Avenida Santa Fe 160, Col Santa Fe Mexico City
+	0 0
+AC Hotel Panama City
+	/hotels/rewards-points/ptyar-ac-hotel-panama-city/
+	Calle Ricardo Arias 8, Campo Alegre Area Bancaria, Panama City
+	0 0
+Panama Marriott Hotel
+	/hotels/rewards-points/ptypa-panama-marriott-hotel/
+	Calle 52 y Ricardo Arias, Area Bancaria Panama City
+	0 0
+Courtyard Lima Miraflores
+	/hotels/rewards-points/limlm-courtyard-lima-miraflores/
+	Calle Schell No 400, Miraflores Lima
+	0 0
+Cebu City Marriott Hotel
+	/hotels/rewards-points/cebph-cebu-city-marriott-hotel/
+	Cardinal Rosales Avenue Cebu City
+	0 0
+Renaissance Moscow Monarch Centre Hotel
+	/hotels/rewards-points/mowbr-renaissance-moscow-monarch-centre-hotel/
+	31A bld.1 Leningradsky prospect Moscow
+	0 0
+Madinah Marriott Hotel
+	/hotels/rewards-points/medmc-madinah-marriott-hotel/
+	King Faisal Street, Opposite Madinah Governor Office, P.O. Box 25711 Madinah
+	0 0
+Makkah Marriott Hotel
+	/hotels/rewards-points/qcamc-makkah-marriott-hotel/
+	Umm Al Qura, PO Box 2036 Makkah
+	0 0
+Courtyard Belgrade City Center
+	/hotels/rewards-points/begcy-courtyard-belgrade-city-center/
+	Vase Carapica 2-4 Belgrade
+	0 0
+Protea Hotel Fire & Ice Cape Town
+	/hotels/rewards-points/cptcf-protea-hotel-fire-and-ice-cape-town/
+	New Church Street, Tamboerskloof Cape Town
+	0 0
+African Pride 15 On Orange Hotel
+	/hotels/rewards-points/cptoh-african-pride-15-on-orange-hotel/
+	Corner of Orange Street & Grey's Pass, Gardens Cape Town
+	0 0
+African Pride Crystal Towers Hotel & Spa
+	/hotels/rewards-points/cptyr-african-pride-crystal-towers-hotel-and-spa/
+	Corner of Century City Boulevard and Rialto Road, Century City Cape Town
+	0 0
+African Pride Melrose Arch Hotel
+	/hotels/rewards-points/jnbml-african-pride-melrose-arch-hotel/
+	1 Melrose Square, Melrose Arch Johannesburg
+	0 0
+Courtyard Seoul Pangyo
+	/hotels/rewards-points/selpn-courtyard-seoul-pangyo/
+	12, Pangyoyeok-ro 192beon-gil, 12, Pangyoyeok-ro 192beon-gil Gyeonggi-do
+	0 0
+Courtyard Seoul Times Square
+	/hotels/rewards-points/selcy-courtyard-seoul-times-square/
+	15, Yeongjung-ro, Yeongdeungpo-gu Seoul
+	0 0
+Madrid Marriott Auditorium Hotel & Conference Center
+	/hotels/rewards-points/madad-madrid-marriott-auditorium-hotel-and-conference-center/
+	Avenida de Aragon No 400 Madrid
+	0 0
+AC Hotel Aitana
+	/hotels/rewards-points/madai-ac-hotel-aitana/
+	Paseo de la Castellana 152 Madrid
+	0 0
+AC Hotel Ciudad de Sevilla
+	/hotels/rewards-points/svqci-ac-hotel-ciudad-de-sevilla/
+	AV Manuel Siurot 25 Seville
+	0 0
+Courtyard by Marriott Bangkok
+	/hotels/rewards-points/bkkcy-courtyard-by-marriott-bangkok/
+	155/1 Soi Mahadlekluang 1, Ratchadamri Road Bangkok
+	0 0
+Hua Hin Marriott Resort & Spa
+	/hotels/rewards-points/hhqmr-hua-hin-marriott-resort-and-spa/
+	107/1 Phetkasem Road Hua Hin
+	0 0
+Rayong Marriott Resort & Spa
+	/hotels/rewards-points/bkkrr-rayong-marriott-resort-and-spa/
+	99/5 Moo 2, Pae-Klaeng-Kram Road, Chakpong, Klaeng Rayong
+	0 0
+Istanbul Marriott Hotel Asia
+	/hotels/rewards-points/istmc-istanbul-marriott-hotel-asia/
+	Kayisdagi Caddesi No 3, Atasehir Istanbul
+	0 0
+Courtyard World Trade Center, Abu Dhabi
+	/hotels/rewards-points/auhcy-courtyard-world-trade-center-abu-dhabi/
+	Hamdan Bin Mohammed Street (5th Street) Abu Dhabi
+	0 0
+Courtyard Dubai, Green Community
+	/hotels/rewards-points/dxbcy-courtyard-dubai-green-community/
+	Green Community, P.O. Box 63845 Dubai
+	0 0
+Courtyard London Gatwick Airport
+	/hotels/rewards-points/lgwcy-courtyard-london-gatwick-airport/
+	London Gatwick Airport, Buckingham Gate Gatwick
+	0 0
+Huntingdon Marriott Hotel
+	/hotels/rewards-points/cbghd-huntingdon-marriott-hotel/
+	Kingfisher Way, Hinchingbrooke Business Park Huntingdon
+	0 0
+Newcastle Marriott Hotel Gosforth Park
+	/hotels/rewards-points/nclgf-newcastle-marriott-hotel-gosforth-park/
+	High Gosforth Park Newcastle upon Tyne
+	0 0
+Northampton Marriott Hotel
+	/hotels/rewards-points/ormnh-northampton-marriott-hotel/
+	Eagle Drive Northampton
+	0 0
+Preston Marriott Hotel
+	/hotels/rewards-points/blkbp-preston-marriott-hotel/
+	Garstang Road, Broughton Preston
+	0 0
+Swindon Marriott Hotel
+	/hotels/rewards-points/swidt-swindon-marriott-hotel/
+	Pipers Way Swindon
+	0 0
+MOXY Aberdeen Airport
+	/hotels/rewards-points/abzox-moxy-aberdeen-airport/
+	Argyll Way, Aberdeen Airport Dyce
+	0 0
+Renaissance Caracas La Castellana Hotel
+	/hotels/rewards-points/ccsbr-renaissance-caracas-la-castellana-hotel/
+	Av Eugenio Mendoza con Calle Urdaneta, La Castellana Caracas
+	0 0
+JW Marriott Hotel Caracas
+	/hotels/rewards-points/ccsjw-jw-marriott-hotel-caracas/
+	Avenida Venezuela con Calle Mohedano, El Rosal Caracas
+	0 0
+Renaissance Riverside Hotel Saigon
+	/hotels/rewards-points/sgnbr-renaissance-riverside-hotel-saigon/
+	8-15 Ton Duc Thang Street, District 1 Ho Chi Minh City
+	0 0

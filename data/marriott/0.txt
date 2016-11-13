@@ -1,0 +1,1024 @@
+Residence Inn Birmingham Inverness
+	/hotels/rewards-points/bhmox-residence-inn-birmingham-inverness/
+	3 Greenhill Pkwy, at US Hwy280 Birmingham
+	33.4229967 -86.7003546
+Fairfield Inn Dothan
+	/hotels/rewards-points/dhnal-fairfield-inn-dothan/
+	3038 Ross Clark Circle Dothan
+	31.22371639999999 -85.43066549999999
+Fairfield Inn & Suites Enterprise
+	/hotels/rewards-points/dhnet-fairfield-inn-and-suites-enterprise/
+	100 Brabham Drive Enterprise
+	31.293882 -85.846733
+Courtyard Huntsville University Drive
+	/hotels/rewards-points/hsvch-courtyard-huntsville-university-drive/
+	4804 University Drive NW Huntsville
+	34.7377894 -86.64957489999999
+Fairfield Inn Huntsville
+	/hotels/rewards-points/hsvfi-fairfield-inn-huntsville/
+	1385 Enterprise Way Huntsville
+	34.7426043 -86.6787286
+TownePlace Suites Huntsville West/Redstone Gateway
+	/hotels/rewards-points/hsvhw-towneplace-suites-huntsville-west-redstone-gateway/
+	6500 Redstone Gateway SW Huntsville
+	34.6988849 -86.6734941
+Residence Inn Huntsville
+	/hotels/rewards-points/hsvri-residence-inn-huntsville/
+	6305 Residence Inn Road Huntsville
+	34.7448555 -86.6848632
+TownePlace Suites Huntsville
+	/hotels/rewards-points/hsvts-towneplace-suites-huntsville/
+	1125 McMurtrie Drive Huntsville
+	34.7433726 -86.6849491
+TownePlace Suites Mobile
+	/hotels/rewards-points/mobts-towneplace-suites-mobile/
+	1075 Montlimar Drive Mobile
+	30.6687953 -88.1326832
+Courtyard Anniston Oxford
+	/hotels/rewards-points/bhmaa-courtyard-anniston-oxford/
+	289 Colonial Drive Oxford
+	33.6113309 -85.7917779
+Fairfield Inn & Suites Anniston Oxford
+	/hotels/rewards-points/bhmfo-fairfield-inn-and-suites-anniston-oxford/
+	143 Colonial Drive Oxford
+	33.6128136 -85.78818319999999
+Fairfield Inn & Suites Sierra Vista
+	/hotels/rewards-points/fhufi-fairfield-inn-and-suites-sierra-vista/
+	3855 El Mercado Loop Sierra Vista
+	31.5323962 -110.2589413
+TownePlace Suites Sierra Vista
+	/hotels/rewards-points/fhuts-towneplace-suites-sierra-vista/
+	3399 Rodeo Drive Sierra Vista
+	31.5293714 -110.2641346
+TownePlace Suites Yuma
+	/hotels/rewards-points/yumts-towneplace-suites-yuma/
+	1726 S Sunridge Drive Yuma
+	32.6963591 -114.6038441
+TownePlace Suites Bentonville Rogers
+	/hotels/rewards-points/rogts-towneplace-suites-bentonville-rogers/
+	3100 S.E. 14th Street Bentonville
+	36.3556544 -94.1756791
+TownePlace Suites Little Rock West
+	/hotels/rewards-points/litts-towneplace-suites-little-rock-west/
+	12 Crossings Court Little Rock
+	34.727204 -92.399464
+Courtyard Little Rock North
+	/hotels/rewards-points/litcn-courtyard-little-rock-north/
+	4339 Warden Road North Little Rock
+	34.79622519999999 -92.22152969999999
+Fairfield Inn & Suites Bentonville Rogers
+	/hotels/rewards-points/rogfi-fairfield-inn-and-suites-bentonville-rogers/
+	4611 W Rozell Street Rogers
+	36.34157709999999 -94.18034220000001
+Fairfield Inn & Suites Russellville
+	/hotels/rewards-points/litrv-fairfield-inn-and-suites-russellville/
+	120 East Harrell Drive Russellville
+	35.3024285 -93.1343967
+TownePlace Suites Lancaster
+	/hotels/rewards-points/wjfts-towneplace-suites-lancaster/
+	2024 West Avenue J 8 Lancaster
+	34.6814795 -118.1668011
+Fairfield Inn & Suites Tehachapi
+	/hotels/rewards-points/bflfi-fairfield-inn-and-suites-tehachapi/
+	422 W. Tehachapi Blvd. Tehachapi
+	35.1321404 -118.4559578
+Fairfield Inn & Suites Albany
+	/hotels/rewards-points/abyab-fairfield-inn-and-suites-albany/
+	3011 Kensington Court Albany
+	31.6205159 -84.22900299999999
+TownePlace Suites Atlanta Alpharetta
+	/hotels/rewards-points/atlta-towneplace-suites-atlanta-alpharetta/
+	7925 Westside Parkway Alpharetta
+	34.0611978 -84.2866615
+Courtyard Columbus
+	/hotels/rewards-points/csgch-courtyard-columbus/
+	3501 Courtyard Way Columbus
+	32.509538 -84.93739699999999
+Fairfield Inn & Suites Columbus
+	/hotels/rewards-points/csgfi-fairfield-inn-and-suites-columbus/
+	4510 Armour Road Columbus
+	32.5101698 -84.95166010000001
+TownePlace Suites Columbus
+	/hotels/rewards-points/csgts-towneplace-suites-columbus/
+	4534 Armour Road Columbus
+	32.5110795 -84.9515595
+Fairfield Inn & Suites Hinesville Fort Stewart
+	/hotels/rewards-points/savhv-fairfield-inn-and-suites-hinesville-fort-stewart/
+	1494 East Oglethorpe Hwy Hinesville
+	31.8579642 -81.57075999999999
+TownePlace Suites Atlanta Norcross/Peachtree Corners
+	/hotels/rewards-points/atltn-towneplace-suites-atlanta-norcross-peachtree-corners/
+	6640 Bay Circle Norcross
+	33.9371611 -84.24952739999999
+Courtyard Atlanta Northlake
+	/hotels/rewards-points/atlnl-courtyard-atlanta-northlake/
+	4083 Lavista Road Tucker
+	33.8447521 -84.2513756
+Courtyard Chicago Arlington Heights/North
+	/hotels/rewards-points/chian-courtyard-chicago-arlington-heights-north/
+	3700 North Wilke Road Arlington Heights
+	42.1431797 -88.0053169
+Courtyard Chicago Elgin/West Dundee
+	/hotels/rewards-points/chidn-courtyard-chicago-elgin-west-dundee/
+	2175 Marriott Drive West Dundee
+	42.074711 -88.2884289
+TownePlace Suites Chicago Elgin/West Dundee
+	/hotels/rewards-points/chits-towneplace-suites-chicago-elgin-west-dundee/
+	2185 Marriott Drive West Dundee
+	42.0748774 -88.2872065
+Fairfield Inn Evansville West
+	/hotels/rewards-points/evvfw-fairfield-inn-evansville-west/
+	5400 Weston Road Evansville
+	37.9764372 -87.64122669999999
+Fairfield Inn Evansville East
+	/hotels/rewards-points/evvin-fairfield-inn-evansville-east/
+	7879 Eagle Crest Boulevard Evansville
+	37.9749709 -87.4577115
+Fairfield Inn & Suites Fort Wayne
+	/hotels/rewards-points/fwaff-fairfield-inn-and-suites-fort-wayne/
+	6021 Lima Road Fort Wayne
+	41.1340507 -85.16201439999999
+Fairfield Inn & Suites Fort Wayne Southwest
+	/hotels/rewards-points/fwasw-fairfield-inn-and-suites-fort-wayne-southwest/
+	7737 West Jefferson Boulevard Fort Wayne
+	41.0398116 -85.24271010000001
+Fairfield Inn Princeton
+	/hotels/rewards-points/evvpc-fairfield-inn-princeton/
+	2828 Dixon Street Princeton
+	38.3570262 -87.6075499
+Courtyard Wichita East
+	/hotels/rewards-points/ictcy-courtyard-wichita-east/
+	2975 North Webb Road Wichita
+	37.7369614 -97.2279777
+Fairfield Inn & Suites Wichita East
+	/hotels/rewards-points/ictfi-fairfield-inn-and-suites-wichita-east/
+	333 S. Webb Road Wichita
+	37.6828398 -97.22664540000001
+TownePlace Suites Wichita East
+	/hotels/rewards-points/ictte-towneplace-suites-wichita-east/
+	9444 East 29th Street North Wichita
+	37.7383095 -97.2283721
+Fairfield Inn Owensboro
+	/hotels/rewards-points/owbfi-fairfield-inn-owensboro/
+	800 Salem Drive Owensboro
+	37.7257631 -87.1217593
+TownePlace Suites Baton Rouge South
+	/hotels/rewards-points/btrts-towneplace-suites-baton-rouge-south/
+	8735 Summa Avenue Baton Rouge
+	30.3969786 -91.0946761
+TownePlace Suites Baton Rouge Gonzales
+	/hotels/rewards-points/btrgz-towneplace-suites-baton-rouge-gonzales/
+	2823 South Outfitter Drive Gonzales
+	30.2076064 -90.9491673
+SpringHill Suites Baton Rouge Gonzales
+	/hotels/rewards-points/btrro-springhill-suites-baton-rouge-gonzales/
+	2801 South Cabela's Parkway Gonzales
+	30.2081198 -90.9511904
+Fairfield Inn & Suites Houma
+	/hotels/rewards-points/msyhm-fairfield-inn-and-suites-houma/
+	1530 Martin Luther King Boulevard Houma
+	29.6080146 -90.7459958
+Fairfield Inn & Suites Natchitoches
+	/hotels/rewards-points/ierfi-fairfield-inn-and-suites-natchitoches/
+	150 Hayes Avenue Natchitoches
+	31.7283404 -93.1510709
+Courtyard Shreveport Airport
+	/hotels/rewards-points/shvcy-courtyard-shreveport-airport/
+	6001 Financial Plaza Shreveport
+	32.4507641 -93.85853809999999
+TownePlace Suites Clinton at Joint Base Andrews
+	/hotels/rewards-points/wasaf-towneplace-suites-clinton-at-joint-base-andrews/
+	7800 Ferry Avenue Clinton
+	38.7832906 -76.8850252
+TownePlace Suites Gaithersburg
+	/hotels/rewards-points/wastg-towneplace-suites-gaithersburg/
+	212 Perry Parkway Gaithersburg
+	39.1431879 -77.2115546
+TownePlace Suites Lexington Park Patuxent River Naval Air Station
+	/hotels/rewards-points/wastl-towneplace-suites-lexington-park-patuxent-river-naval-air-station/
+	22520 Three Notch Road Lexington Park
+	38.28726959999999 -76.4759337
+SpringHill Suites Prince Frederick
+	/hotels/rewards-points/bwipf-springhill-suites-prince-frederick/
+	75 Sherry Lane Prince Frederick
+	38.5326551 -76.5845772
+TownePlace Suites Detroit Commerce
+	/hotels/rewards-points/dtwtc-towneplace-suites-detroit-commerce/
+	199 Loop Road Commerce Township
+	42.5291181 -83.44359039999999
+Fairfield Inn & Suites Flint Fenton
+	/hotels/rewards-points/fntff-fairfield-inn-and-suites-flint-fenton/
+	3125 West Silver Lake Road Fenton
+	42.8024737 -83.73201979999999
+TownePlace Suites Detroit Livonia
+	/hotels/rewards-points/dtwtl-towneplace-suites-detroit-livonia/
+	17450 Fox Drive Livonia
+	42.41282400000001 -83.4270147
+SpringHill Suites Midland
+	/hotels/rewards-points/mbssm-springhill-suites-midland/
+	800 Joe Mann Boulevard Midland
+	43.65991169999999 -84.2351085
+TownePlace Suites Saginaw
+	/hotels/rewards-points/mbstp-towneplace-suites-saginaw/
+	5368 Fashion Square Boulevard Saginaw
+	43.484652 -83.96826639999999
+Fairfield Inn & Suites Jackson Clinton
+	/hotels/rewards-points/jancl-fairfield-inn-and-suites-jackson-clinton/
+	105 Hampstead Boulevard Clinton
+	32.3211435 -90.3147414
+Courtyard Jackson Ridgeland
+	/hotels/rewards-points/jancy-courtyard-jackson-ridgeland/
+	6280 Ridgewood Court Drive Jackson
+	32.3954258 -90.1426513
+Fairfield Inn & Suites Jackson
+	/hotels/rewards-points/janfi-fairfield-inn-and-suites-jackson/
+	5723 Interstate 55 North Jackson
+	32.3831745 -90.14787199999999
+Fairfield Inn & Suites Meridian
+	/hotels/rewards-points/meifi-fairfield-inn-and-suites-meridian/
+	150 Hwy 11 & 80 Meridian
+	47.2330185 -68.5874395
+TownePlace Suites Jackson Ridgeland/The Township at Colony Park
+	/hotels/rewards-points/jants-towneplace-suites-jackson-ridgeland-the-township-at-colony-park/
+	310 Southlake Avenue Ridgeland
+	32.4423005 -90.1507067
+Fairfield Inn & Suites Jefferson City
+	/hotels/rewards-points/coujc-fairfield-inn-and-suites-jefferson-city/
+	3621 West Truman Boulevard Jefferson City
+	38.5902293 -92.2525593
+TownePlace Suites Joplin
+	/hotels/rewards-points/jlnts-towneplace-suites-joplin/
+	4026 S. Arizona Avenue Joplin
+	37.0440383 -94.48132849999999
+TownePlace Suites St. Louis St. Charles
+	/hotels/rewards-points/stltc-towneplace-suites-st-louis-st-charles/
+	1800 Zumbehl Road St. Charles
+	38.7782401 -90.5277313
+Fairfield Inn & Suites Alamogordo
+	/hotels/rewards-points/almfi-fairfield-inn-and-suites-alamogordo/
+	300 Panorama Boulevard Alamogordo
+	32.87559 -105.9586643
+Fairfield Inn & Suites Farmington
+	/hotels/rewards-points/fmnfi-fairfield-inn-and-suites-farmington/
+	2850 East Main Street Farmington
+	36.7434318 -108.1688113
+TownePlace Suites Farmington
+	/hotels/rewards-points/fmnts-towneplace-suites-farmington/
+	4200 Sierra Vista Drive Farmington
+	36.7669652 -108.1445656
+Fairfield Inn & Suites Hobbs
+	/hotels/rewards-points/hobfi-fairfield-inn-and-suites-hobbs/
+	1350 West Joe Harvey Boulevard Hobbs
+	32.7408855 -103.152997
+TownePlace Suites Hobbs
+	/hotels/rewards-points/hobts-towneplace-suites-hobbs/
+	3811 North Central Avenue Hobbs
+	32.74179 -103.1511174
+TownePlace Suites Las Cruces
+	/hotels/rewards-points/lruts-towneplace-suites-las-cruces/
+	2143 Telshor Court Las Cruces
+	32.3452763 -106.7644161
+TownePlace Suites Raleigh Cary/Weston Parkway
+	/hotels/rewards-points/rdutw-towneplace-suites-raleigh-cary-weston-parkway/
+	120 Sage Commons Way Cary
+	35.827776 -78.8057
+Fairfield Inn Fayetteville
+	/hotels/rewards-points/fayfi-fairfield-inn-fayetteville/
+	562 Cross Creek Mall Fayetteville
+	35.0751589 -78.9614811
+TownePlace Suites Jacksonville
+	/hotels/rewards-points/oajts-towneplace-suites-jacksonville/
+	400 Northwest Circle Jacksonville
+	34.7979585 -77.4191034
+Fairfield Inn Minot
+	/hotels/rewards-points/motfi-fairfield-inn-minot/
+	900 24th Avenue SW Minot
+	48.2076621 -101.3054204
+TownePlace Suites Findlay
+	/hotels/rewards-points/toltf-towneplace-suites-findlay/
+	2501 Tiffin Avenue Findlay
+	41.054212 -83.5941923
+Fairfield Inn & Suites Lima
+	/hotels/rewards-points/daylm-fairfield-inn-and-suites-lima/
+	2179 Elida Road Lima
+	40.7609658 -84.14621749999999
+Fairfield Inn Marion
+	/hotels/rewards-points/cmhmo-fairfield-inn-marion/
+	227 Jamesway Marion
+	40.5796941 -83.0798015
+Fairfield Inn & Suites Dayton Troy
+	/hotels/rewards-points/daytr-fairfield-inn-and-suites-dayton-troy/
+	83 Troy Town Drive Troy
+	40.0514786 -84.2358387
+Fairfield Inn & Suites Bartlesville
+	/hotels/rewards-points/tulbv-fairfield-inn-and-suites-bartlesville/
+	2107 SE Washington Boulevard Bartlesville
+	36.72061679999999 -95.93679580000001
+TownePlace Suites Tulsa Broken Arrow
+	/hotels/rewards-points/tults-towneplace-suites-tulsa-broken-arrow/
+	2251 N. Stone Wood Circle Broken Arrow
+	36.0731327 -95.7950798
+Fairfield Inn & Suites Lawton
+	/hotels/rewards-points/lawfi-fairfield-inn-and-suites-lawton/
+	201 SE 7th Str Lawton
+	34.607148 -98.37990169999999
+SpringHill Suites Lawton
+	/hotels/rewards-points/lawsh-springhill-suites-lawton/
+	3 SE Interstate Drive Lawton
+	34.6077462 -98.3803775
+Fairfield Inn & Suites Muskogee
+	/hotels/rewards-points/tulmk-fairfield-inn-and-suites-muskogee/
+	1650 North 32nd Street Muskogee
+	35.7657291 -95.40089689999999
+Courtyard Oklahoma City Airport
+	/hotels/rewards-points/okcca-courtyard-oklahoma-city-airport/
+	4301 Highline Boulevard Oklahoma City
+	35.4578168 -97.59782279999999
+Courtyard Oklahoma City North
+	/hotels/rewards-points/okcnq-courtyard-oklahoma-city-north/
+	13511 Highland Park Blvd. Oklahoma City
+	35.6073729 -97.55926250000002
+TownePlace Suites Tulsa North/Owasso
+	/hotels/rewards-points/tulno-towneplace-suites-tulsa-north-owasso/
+	9355 North Owasso Expressway Owasso
+	36.2888863 -95.83558269999999
+Fairfield Inn & Suites Ponca City
+	/hotels/rewards-points/pncfi-fairfield-inn-and-suites-ponca-city/
+	3405 North 14th Street Ponca City
+	36.744442 -97.06655800000001
+SpringHill Suites Tulsa
+	/hotels/rewards-points/tulsh-springhill-suites-tulsa/
+	11015 East 73rd Street Tulsa
+	36.0594048 -95.8543711
+Fairfield Inn & Suites Tulsa Southeast/Crossroads Village
+	/hotels/rewards-points/tulcr-fairfield-inn-and-suites-tulsa-southeast-crossroads-village/
+	9150 S 102nd E Avenue Tulsa
+	36.0299427 -95.8637601
+Fairfield Inn Tulsa Woodland Hills
+	/hotels/rewards-points/tulfi-fairfield-inn-tulsa-woodland-hills/
+	9020 East 71st Street Tulsa
+	36.059517 -95.876316
+SpringHill Suites Tulsa at Tulsa Hills
+	/hotels/rewards-points/tulwe-springhill-suites-tulsa-at-tulsa-hills/
+	1521 West 80th Street South Tulsa
+	36.0484072 -96.00764319999999
+Fairfield Inn & Suites Weatherford
+	/hotels/rewards-points/ojafi-fairfield-inn-and-suites-weatherford/
+	201 North Nevada Weatherford
+	35.5273312 -98.696243
+Fairfield Inn Philadelphia West Chester/Exton
+	/hotels/rewards-points/phlex-fairfield-inn-philadelphia-west-chester-exton/
+	5 North Pottstown Pike Exton
+	40.0576582 -75.6585978
+TownePlace Suites Philadelphia Horsham
+	/hotels/rewards-points/phlth-towneplace-suites-philadelphia-horsham/
+	198 Precision Drive Horsham
+	40.1923545 -75.1540696
+Fairfield Inn & Suites Greenwood
+	/hotels/rewards-points/grdfi-fairfield-inn-and-suites-greenwood/
+	527 Bypass 72 NW Greenwood
+	34.20288 -82.1934122
+TownePlace Suites Aberdeen
+	/hotels/rewards-points/abrts-towneplace-suites-aberdeen/
+	402 Norwood Street South Aberdeen
+	45.4606322 -98.4457206
+Fairfield Inn & Suites Brookings
+	/hotels/rewards-points/bkxfi-fairfield-inn-and-suites-brookings/
+	3000 LeFevre Drive Brookings
+	44.3094362 -96.75615789999999
+Courtyard Beaumont
+	/hotels/rewards-points/bptcy-courtyard-beaumont/
+	2275 Interstate 10 South Beaumont
+	30.0540956 -94.1393013
+Fairfield Inn & Suites Beaumont
+	/hotels/rewards-points/bptfi-fairfield-inn-and-suites-beaumont/
+	2265 Interstate 10 South Beaumont
+	30.0543657 -94.13897200000001
+Courtyard Dallas DFW Airport West/Bedford
+	/hotels/rewards-points/dalbd-courtyard-dallas-dfw-airport-west-bedford/
+	2201 Airport Freeway Bedford
+	32.8382163 -97.1296444
+Fairfield Inn & Suites Cotulla
+	/hotels/rewards-points/cotfi-fairfield-inn-and-suites-cotulla/
+	417 North IH-35 Cotulla
+	28.436934 -99.23503219999999
+Fairfield Inn & Suites Cuero
+	/hotels/rewards-points/vctcu-fairfield-inn-and-suites-cuero/
+	2121 North Esplanade Street Cuero
+	29.10927869999999 -97.28261660000001
+Fairfield Inn & Suites Dallas North by the Galleria
+	/hotels/rewards-points/dalfb-fairfield-inn-and-suites-dallas-north-by-the-galleria/
+	13900 Parkside Center Boulevard Dallas
+	32.9388504 -96.8403921
+Courtyard Dallas Northwest
+	/hotels/rewards-points/dalnw-courtyard-dallas-northwest/
+	2930 Forest Lane Dallas
+	32.9087266 -96.8790556
+TownePlace Suites Dallas DeSoto
+	/hotels/rewards-points/dalds-towneplace-suites-dallas-desoto/
+	2700 Travis Street DeSoto
+	32.6456451 -96.88461199999999
+TownePlace Suites Eagle Pass
+	/hotels/rewards-points/egpts-towneplace-suites-eagle-pass/
+	2033 North Veterans Boulevard Eagle Pass
+	28.7164647 -100.4772953
+Courtyard Fort Worth Fossil Creek
+	/hotels/rewards-points/dfwfc-courtyard-fort-worth-fossil-creek/
+	3751 NE Loop 820 Fort Worth
+	32.8399216 -97.2948839
+Fairfield Inn & Suites Fort Worth/Fossil Creek
+	/hotels/rewards-points/dfwnf-fairfield-inn-and-suites-fort-worth-fossil-creek/
+	3701 NE Loop 820 Fort Worth
+	32.8402722 -97.29526299999999
+Courtyard Houston Brookhollow
+	/hotels/rewards-points/houcy-courtyard-houston-brookhollow/
+	2504 North Loop West Houston
+	29.8094736 -95.4439685
+Fairfield Inn & Suites Houston I-10 West/Energy Corridor
+	/hotels/rewards-points/houfw-fairfield-inn-and-suites-houston-i-10-west-energy-corridor/
+	15111 Katy Freeway Houston
+	29.7836843 -95.6505318
+TownePlace Suites Houston NASA/Clear Lake
+	/hotels/rewards-points/houtp-towneplace-suites-houston-nasa-clear-lake/
+	1050 Bay Area Boulevard Houston
+	29.555703 -95.117958
+Fairfield Inn & Suites Dallas Las Colinas
+	/hotels/rewards-points/dalfl-fairfield-inn-and-suites-dallas-las-colinas/
+	630 West John Carpenter Freeway Irving
+	32.884103 -96.95350610000001
+TownePlace Suites Dallas Las Colinas
+	/hotels/rewards-points/dalts-towneplace-suites-dallas-las-colinas/
+	900 West Walnut Hill Lane Irving
+	32.8844048 -96.9611181
+Courtyard Killeen
+	/hotels/rewards-points/ilecy-courtyard-killeen/
+	1721 E. Central Texas Expressway (US 190) Killeen
+	31.0931296 -97.721567
+Fairfield Inn & Suites Killeen
+	/hotels/rewards-points/ilefi-fairfield-inn-and-suites-killeen/
+	200 East Central Texas Expressway Killeen
+	31.0989431 -97.7404973
+TownePlace Suites Killeen
+	/hotels/rewards-points/ilets-towneplace-suites-killeen/
+	2401 Florence Road Killeen
+	31.0977996 -97.7428442
+TownePlace Suites Dallas Lewisville
+	/hotels/rewards-points/daltl-towneplace-suites-dallas-lewisville/
+	731 East Vista Ridge Mall Drive Lewisville
+	32.9993124 -96.9689654
+Courtyard Lufkin
+	/hotels/rewards-points/lfkcy-courtyard-lufkin/
+	2130 South 1st Street Lufkin
+	31.3034151 -94.7287889
+Fairfield Inn & Suites Marshall
+	/hotels/rewards-points/lgvfs-fairfield-inn-and-suites-marshall/
+	105 West Interstate 20 Marshall
+	32.4926116 -94.3605755
+TownePlace Suites Dallas McKinney
+	/hotels/rewards-points/daldm-towneplace-suites-dallas-mckinney/
+	1832 Marketplace Drive McKinney
+	33.168302 -96.636718
+TownePlace Suites Dallas Plano
+	/hotels/rewards-points/daltp-towneplace-suites-dallas-plano/
+	5005 Whitestone Lane Plano
+	33.05971210000001 -96.79790380000001
+TownePlace Suites Beaumont Port Arthur
+	/hotels/rewards-points/bptts-towneplace-suites-beaumont-port-arthur/
+	2700 Port Plaza Drive Port Arthur
+	29.9381248 -93.9860783
+Courtyard Dallas Richardson at Spring Valley
+	/hotels/rewards-points/dalne-courtyard-dallas-richardson-at-spring-valley/
+	1000 South Sherman Street Richardson
+	32.9384503 -96.74193140000001
+Courtyard Texarkana
+	/hotels/rewards-points/txkcy-courtyard-texarkana/
+	5001 North Cowhorn Creek Loop Texarkana
+	33.4620357 -94.08036949999999
+Fairfield Inn & Suites Texarkana
+	/hotels/rewards-points/txkfi-fairfield-inn-and-suites-texarkana/
+	4209 Mall Drive Texarkana
+	33.4524834 -94.09305839999999
+Residence Inn Texarkana
+	/hotels/rewards-points/txkri-residence-inn-texarkana/
+	3900 St Michael Drive Texarkana
+	33.4567364 -94.0901734
+TownePlace Suites Texarkana
+	/hotels/rewards-points/txkts-towneplace-suites-texarkana/
+	5020 Cowhorn Creek Loop Texarkana
+	33.4619935 -94.078648
+Courtyard Victoria
+	/hotels/rewards-points/vctcy-courtyard-victoria/
+	8002 North Navarro Street Victoria
+	28.8680995 -96.99204200000001
+Fairfield Inn & Suites Victoria
+	/hotels/rewards-points/vctfi-fairfield-inn-and-suites-victoria/
+	7502 N Navarro Street Victoria
+	28.8650811 -96.996466
+Fairfield Inn & Suites Weatherford
+	/hotels/rewards-points/dfwws-fairfield-inn-and-suites-weatherford/
+	175 Alford Drive Weatherford
+	32.7266059 -97.789844
+TownePlace Suites Salt Lake City Layton
+	/hotels/rewards-points/slctl-towneplace-suites-salt-lake-city-layton/
+	1743 Woodland Park Drive Layton
+	41.0860128 -111.9846644
+TownePlace Suites Vernal
+	/hotels/rewards-points/velts-towneplace-suites-vernal/
+	1219 West Highway 40 Vernal
+	40.44841359999999 -109.5508285
+TownePlace Suites Chantilly Dulles South
+	/hotels/rewards-points/iadts-towneplace-suites-chantilly-dulles-south/
+	14036 Thunderbolt Place Chantilly
+	38.8977115 -77.43479680000002
+TownePlace Suites Richmond
+	/hotels/rewards-points/ricts-towneplace-suites-richmond/
+	4231 Park Place Court Glen Allen
+	37.6531399 -77.5782404
+Fairfield Inn & Suites South Boston
+	/hotels/rewards-points/lyhsb-fairfield-inn-and-suites-south-boston/
+	1120 Bill Tuck Highway South Boston
+	36.6879283 -78.89083629999999
+TownePlace Suites Quantico Stafford
+	/hotels/rewards-points/mnzts-towneplace-suites-quantico-stafford/
+	2772 Jefferson Davis Highway Stafford
+	38.4556445 -77.4055271
+Courtyard Winchester Medical Center
+	/hotels/rewards-points/wgocy-courtyard-winchester-medical-center/
+	300 Marriott Drive Winchester
+	39.19189069999999 -78.20039609999999
+TownePlace Suites Winchester
+	/hotels/rewards-points/wgots-towneplace-suites-winchester/
+	170 Getty Lane Winchester
+	39.1888622 -78.12943829999999
+TownePlace Suites Newport News Yorktown
+	/hotels/rewards-points/phfts-towneplace-suites-newport-news-yorktown/
+	200 Cybernetics Way Yorktown
+	37.1180432 -76.4678291
+Fairfield Inn & Suites Weirton
+	/hotels/rewards-points/pitfw-fairfield-inn-and-suites-weirton/
+	139 Amerihost Drive (formerly 11 Amerihost Drive), Three Springs Drive exit Weirton
+	40.41895660000001 -80.58951669999999
+Courtyard Hangzhou Qianjiang
+	/hotels/rewards-points/hghqj-courtyard-hangzhou-qianjiang/
+	No. 298 Fuchun Road, Jianggan District Hangzhou
+	30.247982 120.2140558
+Courtyard Shanghai International Tourism and Resorts Zone
+	/hotels/rewards-points/shatr-courtyard-shanghai-international-tourism-and-resorts-zone/
+	No 17 Lane 3999, Xiupu Road, Pudong District Shanghai
+	31.221517 121.544379
+Courtyard Boluo
+	/hotels/rewards-points/huzcy-courtyard-boluo/
+	9 East Jiangnan Avenue Boluo Huizhou
+	22.9138168 114.0040184
+Courtyard Zhengzhou East
+	/hotels/rewards-points/cgocy-courtyard-zhengzhou-east/
+	Building B No 77 Shangding Road, Zhengdong New District, Zhengzhou
+	34.746611 113.625328
+Courtyard Kunshan
+	/hotels/rewards-points/shaks-courtyard-kunshan/
+	HUGE Plaza, 888 East Qianjin Road Kunshan
+	31.385598 120.980737
+Courtyard Suzhou
+	/hotels/rewards-points/szvcy-courtyard-suzhou/
+	No 188 Xinghai Street, Suzhou Industrial Park Suzhou
+	31.298979 120.58529
+Courtyard Shanghai Fengxian
+	/hotels/rewards-points/shafn-courtyard-shanghai-fengxian/
+	No1 Nanqiao Road, Nanqiao Town Fengxian
+	0 0
+Courtyard Shanghai Jiading
+	/hotels/rewards-points/shajd-courtyard-shanghai-jiading/
+	No 3101 Huyi Highway, Jiading District Shanghai
+	31.368855 121.258325
+Courtyard Shanghai Central
+	/hotels/rewards-points/shapx-courtyard-shanghai-central/
+	338 Heng Feng Road Shanghai
+	31.2431113 121.4557242
+Courtyard Xinchang
+	/hotels/rewards-points/hghxn-courtyard-xinchang/
+	No 111 Qixing Road, Qixing Street, Xinchang County Shaoxing
+	29.5102837 120.8739695
+Courtyard Pilsen
+	/hotels/rewards-points/prgpz-courtyard-pilsen/
+	Sady 5. kvetna 57 Plzen
+	49.7485289 13.3816927
+Courtyard Guayaquil
+	/hotels/rewards-points/gyecy-courtyard-guayaquil/
+	Avenida Francisco de Orellana 236 Guayaquil
+	-2.1668234 -79.8959667
+Protea Hotel Takoradi Select
+	/hotels/rewards-points/tkdpr-protea-hotel-takoradi-select/
+	No 3 Axim Road, Dixcove Hill, Takoradi
+	4.8808349 -1.7568415
+Courtyard San Pedro Sula
+	/hotels/rewards-points/sapcy-courtyard-san-pedro-sula/
+	Barrio Rio de Piedra, Boulevard Los Proceres between Av 25 and Av 26, Sur Oeste, Departamento de Cortes, San Pedro Sula
+	15.5149204 -87.9922684
+Fairfield by Marriott Belagavi
+	/hotels/rewards-points/ixgfi-fairfield-by-marriott-belagavi/
+	Gogte Plaza Belgaum
+	15.8335588 74.51036839999999
+Fairfield by Marriott Bengaluru Rajajinagar
+	/hotels/rewards-points/blrfb-fairfield-by-marriott-bengaluru-rajajinagar/
+	59th C Cross, 4th M Block, Rajaji Nagar Bengaluru
+	12.9854222 77.55305039999999
+Fairfield by Marriott Bengaluru Outer Ring Road
+	/hotels/rewards-points/blrfi-fairfield-by-marriott-bengaluru-outer-ring-road/
+	Outer Ring Road, Marathahalli Sarjapur Road Bengaluru
+	12.9274783 77.6798981
+Courtyard Bengaluru Outer Ring Road
+	/hotels/rewards-points/blrgt-courtyard-bengaluru-outer-ring-road/
+	Outer Ring Road, Marathahalli Sarjapur Road, Bellandur Bengaluru
+	12.9274783 77.6798981
+Courtyard Bhopal
+	/hotels/rewards-points/bhocy-courtyard-bhopal/
+	DB City - Arera Hills Bhopal
+	23.2324518 77.4301392
+Courtyard Bilaspur
+	/hotels/rewards-points/pabcy-courtyard-bilaspur/
+	Citymall 36, Mangla Chowk Bilaspur, Chhattisgarh
+	22.0796251 82.1391412
+Courtyard Chennai
+	/hotels/rewards-points/maacy-courtyard-chennai/
+	564 Anna Salai, Teynampet Chennai
+	13.045958 80.2477409
+Courtyard Hyderabad
+	/hotels/rewards-points/hydcy-courtyard-hyderabad/
+	1-3-1024 Lower Tank Bund Road Hyderabad
+	17.419767 78.43083589999999
+Fairfield by Marriott Indore
+	/hotels/rewards-points/idrfi-fairfield-by-marriott-indore/
+	Plot No 18/C, CA Scheme 94, Ring Road Indore
+	22.7520411 75.9020737
+Fairfield by Marriott Jodhpur Hotel
+	/hotels/rewards-points/jdhfi-fairfield-by-marriott-jodhpur-hotel/
+	Opposite New High Court, Near Shatabdi Circle, Vijay Raje Nagar Jodhpur
+	26.217414 73.0442301
+Courtyard Kochi Airport
+	/hotels/rewards-points/cokap-courtyard-kochi-airport/
+	VIP Road,Opposite Kochi International Airport, Nedumbassery,Vappalassery Kochi, Kerala
+	9.9312328 76.26730409999999
+Fairfield by Marriott Lucknow
+	/hotels/rewards-points/lkofi-fairfield-by-marriott-lucknow/
+	Opposite Indira Gandhi Pratishthan, Gate No 2, Vibhuti Khand, Gomti Nagar Lucknow
+	26.8661776 81.00644419999999
+Courtyard Pune Chakan
+	/hotels/rewards-points/pnqck-courtyard-pune-chakan/
+	Plot P-7, MIDC, Chakan Industrial Area Phase-1, Talegaon Chakan road, Khalumbre Pune
+	18.7413739 73.781038
+Courtyard Pune Hinjewadi
+	/hotels/rewards-points/pnqph-courtyard-pune-hinjewadi/
+	S. No 19 & 20, P4 Rajiv Gandhi Infotech Park Phase 1, Hinjewadi Pune
+	40.435496 -80.0323283
+Courtyard Raipur
+	/hotels/rewards-points/rprcy-courtyard-raipur/
+	NH-6, Labhandi, Opposite Indira Gandhi Agriculture University, Raipur
+	21.2513844 81.62964130000002
+Fairfield by Marriott Surabaya
+	/hotels/rewards-points/subfi-fairfield-by-marriott-surabaya/
+	Jalan Mayjend Sungkono No 178 Surabaya
+	-7.289281699999999 112.7107189
+MOXY Milan Malpensa Airport
+	/hotels/rewards-points/milox-moxy-milan-malpensa-airport/
+	Milan Malpensa Airport, Terminal 2 Somma Lombardo
+	0 0
+Residence Inn Kuwait City
+	/hotels/rewards-points/kwiri-residence-inn-kuwait-city/
+	Abdullah Saleh Almulla Street, Sharq Kuwait City
+	29.3823227 47.9886442
+Protea Hotel Blantyre Ryalls
+	/hotels/rewards-points/blzry-protea-hotel-blantyre-ryalls/
+	2 Hannover Avenue Blantyre
+	-15.7846507 35.0044289
+Courtyard Chihuahua
+	/hotels/rewards-points/cuucy-courtyard-chihuahua/
+	Via Lombardía 5702, Plaza Citadela D1, Col Saucito Chihuahua
+	28.6679354 -106.125015
+Fairfield Inn & Suites Saltillo
+	/hotels/rewards-points/slwfi-fairfield-inn-and-suites-saltillo/
+	Carretera Saltillo-Monterrey Km 9, Zona Industrial Ramos Arizpe
+	25.6572134 -100.7102869
+Courtyard Leon at The Poliforum
+	/hotels/rewards-points/bjxcy-courtyard-leon-at-the-poliforum/
+	Boulevard Francisco Villa No 102 Leon
+	21.1136055 -101.6539459
+Courtyard Toluca Airport
+	/hotels/rewards-points/tlccy-courtyard-toluca-airport/
+	Blvd. Miguel Aleman 177 Toluca
+	19.306354 -99.561623
+Courtyard Toluca Tollocan
+	/hotels/rewards-points/tlctm-courtyard-toluca-tollocan/
+	Paseo Tollocan #834 Toluca
+	0 0
+Courtyard Monterrey Airport
+	/hotels/rewards-points/mtycy-courtyard-monterrey-airport/
+	Carr Miguel Aleman km 23.7 Apodaca
+	0 0
+Fairfield Inn Monterrey Airport
+	/hotels/rewards-points/mtyfi-fairfield-inn-monterrey-airport/
+	Avenida Rogelio Gonzalez Caballero 150, Parque Industrial Stiva Apodaca
+	25.7877236 -100.144726
+Courtyard Monterrey San Jeronimo/Valle
+	/hotels/rewards-points/mtysj-courtyard-monterrey-san-jeronimo-valle/
+	Av. San Jeronimo 1012, Col. San Jeronimo, Monterrey
+	25.6749451 -100.3638304
+Courtyard Puebla Las Animas
+	/hotels/rewards-points/pbccy-courtyard-puebla-las-animas/
+	Av 31 Poniente 3333, Esq Blvd. Atlixco Puebla
+	19.0467967 -98.23413049999999
+Fairfield Inn & Suites Queretaro Juriquilla
+	/hotels/rewards-points/qropt-fairfield-inn-and-suites-queretaro-juriquilla/
+	Av Paseo de la Republica y Fray Junipero Serra Juriquilla
+	0 0
+Courtyard Queretaro
+	/hotels/rewards-points/qrocy-courtyard-queretaro/
+	Av 5 de Febrero No 1351 Queretaro
+	20.6173683 -100.4219234
+AC Hotel Queretaro Antea
+	/hotels/rewards-points/qroqa-ac-hotel-queretaro-antea/
+	Avenida Antea No 1050, Ejido Jurica, Col Jurica Queretaro
+	20.6163092 -100.4158639
+Courtyard San Luis Potosi
+	/hotels/rewards-points/slpcy-courtyard-san-luis-potosi/
+	Av. Benito Juárez No. 1220 San Luis Potosi
+	22.2464772 -101.0045562
+Courtyard Hermosillo
+	/hotels/rewards-points/hmocy-courtyard-hermosillo/
+	Periferico Oriente 1274, Colonia Perisur Hermosillo
+	29.0374907 -110.9386378
+Fairfield Inn & Suites Nogales
+	/hotels/rewards-points/nogfi-fairfield-inn-and-suites-nogales/
+	Boulevard El Greco 45, Calle Arcadias Nogales
+	0 0
+Fairfield Inn & Suites Villahermosa Tabasco
+	/hotels/rewards-points/vsafi-fairfield-inn-and-suites-villahermosa-tabasco/
+	Av Carlos Pellicer Camara 5202 esq Av Universidad, Plaza Sendero, Col Jose Maria Pino Suarez, Villahermosa
+	18.0246689 -92.9163471
+Fairfield Inn & Suites Coatzacoalcos
+	/hotels/rewards-points/mttfi-fairfield-inn-and-suites-coatzacoalcos/
+	Abraham Zabludovsky No 101, Col Predio la Herradura Coatzacoalcos
+	0 0
+Protea Hotel Swakopmund Burning Shore
+	/hotels/rewards-points/swpbu-protea-hotel-swakopmund-burning-shore/
+	152 4th Street Long Beach, Walvis Bay Erongo
+	33.7716938 -118.1909434
+Protea Hotel Walvis Bay Long Beach
+	/hotels/rewards-points/wvbpr-protea-hotel-walvis-bay-long-beach/
+	Long Beach Circle Erongo
+	33.7700504 -118.1937395
+Protea Hotel Lüderitz Zum Sperrgebiet
+	/hotels/rewards-points/ludpr-protea-hotel-l%C3%BCderitz-zum-sperrgebiet/
+	Woermann Street Luderitz
+	-26.6450518 15.1580161
+Protea Hotel Ondangwa
+	/hotels/rewards-points/ondon-protea-hotel-ondangwa/
+	Main Street Ondangwa
+	0 0
+Protea Hotel Walvis Bay Pelican Bay
+	/hotels/rewards-points/wvbpe-protea-hotel-walvis-bay-pelican-bay/
+	The Esplanade Walvis Bay
+	-22.9698525 14.4891214
+Protea Hotel Walvis Bay
+	/hotels/rewards-points/wvbwa-protea-hotel-walvis-bay/
+	Corner of Sam Nujoma Avenue & 10th Road Walvis Bay
+	-22.5707949 17.0849044
+Protea Hotel Windhoek Fürstenhof
+	/hotels/rewards-points/wdhfr-protea-hotel-windhoek-f%C3%BCrstenhof/
+	4 Dr. Frans Indongo Street Windhoek
+	-22.5653918 17.0806987
+Protea Hotel Windhoek Thuringerhof
+	/hotels/rewards-points/wdhth-protea-hotel-windhoek-thuringerhof/
+	Corner of Bahnhof & Independence Avenues Windhoek
+	47.1926297 11.4075073
+Protea Hotel Benin City Select Emotan
+	/hotels/rewards-points/bnise-protea-hotel-benin-city-select-emotan/
+	4 Central Road, Off Sapele Road, Edo State Benin City
+	6.2770731 5.6337011
+Protea Hotel Lagos Kuramo Waters
+	/hotels/rewards-points/lospk-protea-hotel-lagos-kuramo-waters/
+	Kuramo Waters Close off Akin Ogunlewe Street Lagos
+	6.425952800000001 3.4386656
+Protea Hotel Ikeja Select
+	/hotels/rewards-points/lospr-protea-hotel-ikeja-select/
+	Plot 2 Assibifi Road, Ikeja Lagos
+	6.601838 3.3514863
+Courtyard Kazan Kremlin
+	/hotels/rewards-points/kzncy-courtyard-kazan-kremlin/
+	6 Karl Marx Street, Vakhitovskiy District Kazan
+	55.8304307 49.06608060000001
+Courtyard Jazan
+	/hotels/rewards-points/gizcy-courtyard-jazan/
+	Al Riyadh Road next to Rashid Mall Jazan
+	0 0
+Residence Inn Jazan
+	/hotels/rewards-points/gizri-residence-inn-jazan/
+	Al Riyadh Road next to Rashid Mall Jazan
+	0 0
+Courtyard Riyadh Diplomatic Quarter
+	/hotels/rewards-points/ruhab-courtyard-riyadh-diplomatic-quarter/
+	Al-Hada District, Abdullah bin Huzafah, Al-Sahmi Street Riyadh
+	24.7135517 46.6752957
+Courtyard Riyadh Olaya
+	/hotels/rewards-points/ruhcy-courtyard-riyadh-olaya/
+	2759 Olaya District, Moussa Bin Nussair Street Riyadh
+	24.7025265 46.67946389999999
+Protea Hotel Bloemfontein
+	/hotels/rewards-points/bfnbf-protea-hotel-bloemfontein/
+	202 Nelson Mandela Drive, Brandwag Bloemfontein
+	-29.105643 26.1917839
+Protea Hotel Bloemfontein Willow Lake
+	/hotels/rewards-points/bfnwi-protea-hotel-bloemfontein-willow-lake/
+	101 Henry Street, Willows Bloemfontein
+	-29.1131849 26.210788
+Protea Hotel Stellenbosch Dorpshuis & Spa
+	/hotels/rewards-points/cptdo-protea-hotel-stellenbosch-dorpshuis-and-spa/
+	22 Dorp Street, Stellenbosch Cape Town
+	-33.8373599 18.72524
+Protea Hotel Franschhoek
+	/hotels/rewards-points/cptfr-protea-hotel-franschhoek/
+	33/34 Huguenot Road, Franschhoek Cape Town
+	-33.9070662 19.1173791
+Protea Hotel Clarens
+	/hotels/rewards-points/fcbcl-protea-hotel-clarens/
+	Corner of Main & Van Der Merwe Streets Clarens
+	33.5377205 -92.46367509999999
+Protea Hotel Empangeni
+	/hotels/rewards-points/rcbem-protea-hotel-empangeni/
+	64 Turnbull Street Empangeni
+	-28.7469406 31.89004379999999
+Protea Hotel George Outeniqua
+	/hotels/rewards-points/grjfo-protea-hotel-george-outeniqua/
+	123 York Road George
+	39.9644001 -76.72872079999999
+Protea Hotel George King George
+	/hotels/rewards-points/grjki-protea-hotel-george-king-george/
+	King George Drive, King George Park George
+	-33.9607205 22.4435023
+Protea Hotel Harrismith Montrose
+	/hotels/rewards-points/durmo-protea-hotel-harrismith-montrose/
+	N3 Highway, Swinburne, Private Bag X3017 Harrismith
+	-28.2749996 29.1041691
+Protea Hotel Kimberley
+	/hotels/rewards-points/kimki-protea-hotel-kimberley/
+	The Kimberley Big Hole, West Circular Road Kimberley
+	-28.7391027 24.7585312
+Protea Hotel Klerksdorp
+	/hotels/rewards-points/jnbkl-protea-hotel-klerksdorp/
+	Between Barend and Margaretha Prinsloo Streets Klerksdorp
+	-26.8699487 26.6685006
+Protea Hotel Knysna Quays
+	/hotels/rewards-points/grjqu-protea-hotel-knysna-quays/
+	Waterfront Drive Knysna
+	-34.0403131 23.0469068
+Protea Hotel Richards Bay Waterfront
+	/hotels/rewards-points/rcbwa-protea-hotel-richards-bay-waterfront/
+	Corner of Bridgetown and Pioneer Road, TuziGazi Waterfront, Richards Bay Kwazulu Natal
+	-28.7807276 32.0382856
+Protea Hotel Mahikeng
+	/hotels/rewards-points/mbdpr-protea-hotel-mahikeng/
+	80 Nelson Mandela Drive Mahikeng
+	-25.852709 25.640837
+Protea Hotel Mossel Bay
+	/hotels/rewards-points/grjmo-protea-hotel-mossel-bay/
+	Corner of Church & Market Streets Mossel Bay
+	-25.7503877 28.1304343
+Protea Hotel Oudtshoorn Riempie Estate
+	/hotels/rewards-points/grjri-protea-hotel-oudtshoorn-riempie-estate/
+	Baron Van Reede Street Oudtshoorn
+	-33.5741227 22.2066518
+Protea Hotel Polokwane Landmark
+	/hotels/rewards-points/ptgla-protea-hotel-polokwane-landmark/
+	N1 Northbound Polokwane
+	-23.8961708 29.4486263
+Protea Hotel Polokwane Ranch Resort
+	/hotels/rewards-points/ptgra-protea-hotel-polokwane-ranch-resort/
+	25 km south of Polokwane on the N1, R101, Farm Hollands Drift Polokwane
+	-23.8961708 29.4486263
+Protea Hotel Umfolozi River
+	/hotels/rewards-points/rcbum-protea-hotel-umfolozi-river/
+	Off the N2, 40km north of Richards Bay, Mtubatuba Richards Bay
+	0 0
+Protea Hotel Saldanha Bay
+	/hotels/rewards-points/cptsb-protea-hotel-saldanha-bay/
+	51 Main Rd Saldanha
+	-33.0062721 17.945117
+Protea Hotel Stellenbosch
+	/hotels/rewards-points/cptst-protea-hotel-stellenbosch/
+	Techno Avenue, Techno Park Stellenbosch
+	-33.96622730000001 18.8364759
+Protea Hotel Upington Oasis
+	/hotels/rewards-points/utnoa-protea-hotel-upington-oasis/
+	26 Schroder Street Upington
+	-28.458455 21.246355
+Protea Hotel Upington
+	/hotels/rewards-points/utnup-protea-hotel-upington/
+	24 Schroder Street Upington
+	-28.459262 21.2460777
+Protea Hotel Worcester Cumberland
+	/hotels/rewards-points/cptcu-protea-hotel-worcester-cumberland/
+	2 Stockenstrom Street Worcester
+	-33.640304 19.444862
+Protea Hotel Fire & Ice! Pretoria Menlyn
+	/hotels/rewards-points/pryme-protea-hotel-fire-and-ice%21-pretoria-menlyn/
+	Summit Place Precinct (corner of N1 North and Garsfontein off ramp), 213 Thys Street Menlyn, Pretoria
+	-25.7857578 28.2718097
+Protea Hotel Emalahleni Highveld
+	/hotels/rewards-points/jnbhi-protea-hotel-emalahleni-highveld/
+	Financial Square, Corner of Mandela Drive and Woltemade Street Emalahleni
+	0 0
+Protea Hotel Emalahleni Witbank
+	/hotels/rewards-points/jnbwi-protea-hotel-emalahleni-witbank/
+	167 Jellicoe Street Emalahleni
+	0 0
+Protea Hotel Hazyview
+	/hotels/rewards-points/hzvpr-protea-hotel-hazyview/
+	R40 Road, 38km after White River Hazyview
+	-25.0519121 31.1366715
+Protea Hotel Nelspruit
+	/hotels/rewards-points/mqpnl-protea-hotel-nelspruit/
+	30 Jerepico Street, Orchards Nelspruit
+	-25.4752984 30.9694163
+Protea Hotel Kruger Gate
+	/hotels/rewards-points/mqpkg-protea-hotel-kruger-gate/
+	On the Sabi River at the Paul Kruger Gate, Portia Shabangu Road, Kruger National Park Skukuza
+	0 0
+Protea Hotel Waterval Boven Malaga
+	/hotels/rewards-points/mqpma-protea-hotel-waterval-boven-malaga/
+	N4 Sycamore Waterval Boven
+	-25.6429145 30.3406679
+Protea Hotel Rustenburg Hunters Rest
+	/hotels/rewards-points/ntypr-protea-hotel-rustenburg-hunters-rest/
+	R24 Rustenburg/Krugersdorp Road Rustenburg
+	-25.9211633 27.4563668
+AC Hotel Elda
+	/hotels/rewards-points/alcea-ac-hotel-elda/
+	Avenida de Chapí 38, Plaza de la Ficia Elda
+	0 0
+AC Hotel Badajoz
+	/hotels/rewards-points/bjzba-ac-hotel-badajoz/
+	Avenida de Elvas s/n Badajoz
+	38.88457289999999 -7.0220667
+AC Hotel Lleida
+	/hotels/rewards-points/ildll-ac-hotel-lleida/
+	Union 8 Lleida
+	41.6092389 0.6147368
+AC Hotel Murcia
+	/hotels/rewards-points/mjvmu-ac-hotel-murcia/
+	Avenida Juan Carlos I, 39, corner with C/Fernando Alonso Navarro, Murcia
+	38.0034039 -1.1443765
+Courtyard Paramaribo
+	/hotels/rewards-points/pbmcy-courtyard-paramaribo/
+	Anton Dragtenweg 52-54 Paramaribo
+	5.8558923 -55.10428839999999
+Protea Hotel Entebbe
+	/hotels/rewards-points/ebben-protea-hotel-entebbe/
+	36-40 Sebugwawo Drive, Entebbe Road Entebbe
+	0.08883569999999999 32.4890039
+Protea Hotel Kampala
+	/hotels/rewards-points/ebbka-protea-hotel-kampala/
+	Elgon Terrace, Kololo Kampala
+	0.3275632 32.5907967
+Protea Hotel Dar es Salaam Courtyard
+	/hotels/rewards-points/darco-protea-hotel-dar-es-salaam-courtyard/
+	Seaview Ocean Road Dar es Salaam
+	-6.792354 39.2083284
+Protea Hotel Dar es Salaam Amani Beach
+	/hotels/rewards-points/darpr-protea-hotel-dar-es-salaam-amani-beach/
+	Kigamboni, Temeke Dar es Salaam
+	-6.828002000000001 39.3154352
+Protea Hotel Dar es Salaam Oyster Bay
+	/hotels/rewards-points/darda-protea-hotel-dar-es-salaam-oyster-bay/
+	Corner of Haile Selassie & Ali Hassan Mwinyi Roads Oyster Bay
+	6.299998899999999 -10.795432
+Protea Hotel Chingola
+	/hotels/rewards-points/kiwpr-protea-hotel-chingola/
+	Kabundi Road Chingola
+	-12.539064 27.8830937
+Protea Hotel Chipata
+	/hotels/rewards-points/cipbr-protea-hotel-chipata/
+	Plot 3126, Great East Road Chipata
+	0 0
+Protea Hotel Lusaka Safari Lodge
+	/hotels/rewards-points/lunlu-protea-hotel-lusaka-safari-lodge/
+	Plot 1887 Kamaila Road Chisamba
+	-13.9015661 28.8509415
+Protea Hotel Livingstone
+	/hotels/rewards-points/lvili-protea-hotel-livingstone/
+	Mosi-O-Tunya Road Livingstone
+	-17.877584 25.8559642
+Protea Hotel Lusaka Cairo Road
+	/hotels/rewards-points/lunca-protea-hotel-lusaka-cairo-road/
+	Plot 11 A Cairo Road, Katondo Street Lusaka
+	-15.4204852 28.2803335
+Protea Hotel Lusaka
+	/hotels/rewards-points/lunls-protea-hotel-lusaka/
+	Arcades Shopping Complex Lusaka
+	-15.3875259 28.3228165
+Protea Hotel Lusaka Tower
+	/hotels/rewards-points/luntw-protea-hotel-lusaka-tower/
+	Arcades Shopping and Entertainment Complex, Corner Thabo Mbeki and Great East Road Lusaka
+	-15.3875259 28.3228165
+Protea Hotel Ndola
+	/hotels/rewards-points/nlapr-protea-hotel-ndola/
+	Ndola / Kitwe Dual Carriage Way Ndola
+	-12.9906407 28.6498144
