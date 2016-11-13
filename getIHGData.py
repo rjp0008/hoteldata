@@ -28,7 +28,7 @@ def getHotelInfo(link):
     hotel.name = soup.select('title')[0].getText()
     hotel.update_from_google()
     hotels.append(hotel)
-    with open('ihg.txt', 'a') as f:
+    with open('.\\data\\ihg\\ihg.txt', 'a') as f:
         try:
             f.write(str(hotel.name).encode(sys.stdout.encoding, errors='replace').decode('utf-8').strip() + "\n")
         except:
