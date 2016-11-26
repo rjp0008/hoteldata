@@ -23,6 +23,7 @@ def hotel_factory(browser,urls):
     for url in urls:
         newHotel = HyattHotel()
         newHotel.url = url
+        newHotel.group = "hyatt"
         try:
             browser.get(newHotel.url)
         except selenium.common.exceptions.WebDriverException:

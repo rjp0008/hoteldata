@@ -11,6 +11,7 @@ class Hotel:
         self.short_names = []
         self.lat = 0
         self.lng = 0
+        self.group = ""
 
     def __str__(self):
         return self.url + " " + self.address

@@ -13,6 +13,7 @@ hotels = []
 def getHotelInfo(link):
     hotel = IHGHotel()
     hotel.url = link
+    hotel.group = "ihg"
     res = requests.get(link)
     res.raise_for_status()
     soup = bs4.BeautifulSoup(res.text)

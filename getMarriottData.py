@@ -37,6 +37,7 @@ for x in range(0,15):
                 newHotel.name = newUrlPage.select('span[itemprop=name]')[0].text
                 newHotel.address = newUrlPage.select('span[itemprop=streetAddress]')[0].text + " " + newUrlPage.select('span[itemprop=addressLocality]')[0].text
                 newHotel.url=url
+                newHotel.group = "marriott"
                 newHotel.update_from_google()
                 hotels.append(newHotel)
         except Exception as e:
