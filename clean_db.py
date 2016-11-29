@@ -11,7 +11,7 @@ c = c.execute("SELECT * FROM Hotels WHERE google_text LIKE '%OVER_QUERY_LIMIT%'"
 list = c.fetchall()
 addresses = []
 for item in list:
-    addresses.append(item[7])
+    addresses.append(item[0] + " " + item[4])
 for item in addresses:
     try:
         res = requests.get(
@@ -19,9 +19,11 @@ for item in addresses:
         res.raise_for_status()
         jsonObj = json.loads(res.text)
         google_text = res.text
+        if 'ZERO_RESULTS' in google_text:
+            continue
         lat = jsonObj.get('results')[0].get('geometry').get('location')['lat']
         lng = jsonObj.get('results')[0].get('geometry').get('location')['lng']
-        c.execute("UPDATE Hotels SET lat='"+str(lat)+"', lng='"+str(lng)+"',google_text='"+google_text+"' WHERE address LIKE '%"+item+"%'")
+        c.execute("UPDATE Hotels SET lat='"+str(lat)+"', lng='"+str(lng)+"',google_text='"+google_text.replace("'","''")+"' WHERE address LIKE '%"+item.replace("'","''") +"%'")
         conn.commit()
         print(item)
         if google_error in google_text:
