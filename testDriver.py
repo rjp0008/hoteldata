@@ -2,6 +2,7 @@ import io
 import os
 from hotel import Hotel
 import math
+import sqlite3
 
 def verify_data(path: str):
     for file in os.listdir(path):
@@ -62,17 +63,40 @@ def get_hotel_data(path: str):
         output.append(list)
     return output
 
-def find_optimal(list1: list,list2:list,list3:list) -> dict:
+def get_hotel_data_from_db(group: str):
+    conn = sqlite3.connect('hotel.db')
+    c = conn.cursor()
+    c = c.execute("SELECT * FROM Hotels WHERE hotel_group='"+group+"' AND lat<>'0'")
+    list = c.fetchall()
+    output = {}
+    hotels = []
+    for item in list:
+        hotel = Hotel()
+        hotel.lat = float(item[2])
+        hotel.lng = float(item [3])
+        hotel.name = item [0]
+        hotel.url = item[1]
+        hotel.address = item[7]
+        try:
+            if output[item[5]] is None:
+                output[item[5]] = []
+        except KeyError:
+            output[item[5]] = []
+        output[item[5]].append(hotel)
+    return output
+
+
+def find_optimal(list1: dict,list2:dict,list3:dict) -> dict:
     mappings = {}
-    for hotelList in list1:
+    for hotelList in list1.values():
         for hotel in hotelList:
             if hotel.lat == 0.0 or hotel.lng == 0.0:
                 continue
-            for hotelList2 in list2:
+            for hotelList2 in list2.values():
                 for hotel2 in hotelList2:
                     if hotel2.lat == 0.0 or hotel2.lng == 0.0:
                         continue
-                    for hotelList3 in list3:
+                    for hotelList3 in list3.values():
                         for hotel3 in hotelList3:
                             if hotel3.lat == 0.0 or hotel3.lng == 0.0:
                                 continue
@@ -93,20 +117,16 @@ def average_lng_coord(h1: Hotel, h2: Hotel, h3: Hotel):
     return avg_coord(h1.lng,h2.lng,h3.lng)
 
 def avg_coord(first,second,third):
-    return (first+second+third)/3
+    return (float(first)+float(second)+float(third))/3
 
 hyattHotels = []
 ihgHotels = []
 marriottHotels = []
 
 
-verify_data('.\\data\\hyatt\\')
-verify_data('.\\data\\ihg\\')
-verify_data('.\\data\\marriott\\')
-
-hyattHotels = get_hotel_data('.\\data\\hyatt\\')
-ihgHotels = get_hotel_data('.\\data\\ihg\\')
-marriottHotels = get_hotel_data('.\\data\\marriott\\')
+hyattHotels = get_hotel_data_from_db('hyatt')
+ihgHotels = get_hotel_data_from_db('ihg')
+marriottHotels = get_hotel_data_from_db('marriott')
 
 for item in find_optimal(hyattHotels,marriottHotels,ihgHotels):
     print(item)
