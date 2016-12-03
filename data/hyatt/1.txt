@@ -1,11 +1,11 @@
-hyatt place birmingham/hoover
+hyatt place birmingham/hoover 
 	https://birminghamhoover.place.hyatt.com/en/hotel/home.html
-	2980 John Hawkins Parkway Hoover, Alabama, USA, 35244
-	0 0
+	2980 John Hawkins Parkway Hoover, Alabama, USA, 35244  
+	33.370859 -86.8140306
 hyatt place birmingham/inverness 
 	https://birminghaminverness.place.hyatt.com/en/hotel/home.html
 	4686 Highway 280 East Birmingham, Alabama, USA, 35242  
-	33.4225026 -86.70295879999999
+	33.4225098 -86.70295449999999
 hyatt place phoenix-north 
 	https://phoenixnorth.place.hyatt.com/en/hotel/home.html
 	10838 North 25th Avenue Phoenix, Arizona, USA, 85029  
@@ -288,11 +288,11 @@ hyatt place charlotte/arrowood
 	35.1357712 -80.9043707
 hyatt place durham/southpoint 
 	https://durhamsouthpoint.place.hyatt.com/en/hotel/home.html
-	7840 NC 751 HWY Durham,  USA, 27713  
+	7840 NC 751 HWY Durham, North Carolina, USA, 27713  
 	35.90079 -78.9614728
 hyatt place greensboro 
 	https://greensboro.place.hyatt.com/en/hotel/home.html
-	1619 Stanley Road Greensboro,  USA, 27407  
+	1619 Stanley Road Greensboro, North Carolina, USA, 27407  
 	36.05460600000001 -79.8910896
 hyatt place north raleigh-midtown 
 	https://raleighnorth.place.hyatt.com/en/hotel/home.html
@@ -366,6 +366,10 @@ hyatt place pittsburgh/cranberry
 	https://pittsburghcranberry.place.hyatt.com/en/hotel/home.html
 	136 Emeryville Drive Cranberry Township, Pennsylvania, USA, 16066  
 	40.676846 -80.1009016
+hyatt place state college 
+	https://statecollege.place.hyatt.com/en/hotel/home.html
+	219 West Beaver Avenue State College, Pennsylvania, USA, 16801  
+	40.792075 -77.8621692
 hyatt place columbia/harbison 
 	https://columbiaharbison.place.hyatt.com/en/hotel/home.html
 	1130 Kinley Road Irmo, South Carolina, USA, 29063  
@@ -406,6 +410,10 @@ hyatt place austin airport
 	https://austinairport.place.hyatt.com/en/hotel/home.html
 	9532 Spirit of Austin Lane Austin, Texas, USA, 78719  
 	30.2109187 -97.66630140000001
+hyatt place austin/round rock 
+	https://austinroundrock.place.hyatt.com/en/hotel/home.html
+	420 Sundance Parkway Round Rock, Texas, USA, 78681  
+	30.482125 -97.687287
 hyatt place houston/bush airport 
 	https://houstonairport.place.hyatt.com/en/hotel/home.html
 	300 Ronan Park Place Houston, Texas, USA, 77060  
@@ -536,11 +544,11 @@ hyatt place edmonton-west
 	53.5386187 -113.633168
 hyatt place tegucigalpa 
 	https://tegucigalpa.place.hyatt.com/en/hotel/home.html
-	Avenida La Paz, Paseo los Proceres Tegucigalpa, Francisco Morazï¿½n, Honduras, 11101  
+	Avenida La Paz, Paseo los Proceres Tegucigalpa, Francisco Morazán, Honduras, 11101  
 	14.1038139 -87.1909963
 hyatt place tijuana 
 	https://tijuana.place.hyatt.com/en/hotel/home.html
-	Blvd. Agua Caliente 10488 Col. Aviaciï¿½n Tijuana, Baja California, Mexico, 22014  
+	Blvd. Agua Caliente 10488 Col. Aviación Tijuana, Baja California, Mexico, 22014  
 	32.5155011 -117.0116082
 hyatt place ciudad del carmen 
 	https://ciudaddelcarmen.place.hyatt.com/en/hotel/home.html
@@ -548,11 +556,11 @@ hyatt place ciudad del carmen
 	18.6552255 -91.7894266
 hyatt place celaya 
 	https://celaya.place.hyatt.com/en/hotel/home.html
-	Avenida La Cano #124 Fracciï¿½n Sur del Predio Rustico La Cano o Santa Rosalï¿½a, Celaya, Guanajuato, Mexico, C.P. 38088  
-	0 0
+	Avenida La Cano #124 Fracción Sur del Predio Rustico La Cano o Santa Rosalía, Celaya, Guanajuato, Mexico, C.P. 38088  
+	20.5298295 -100.7795561
 Hyatt Regency Villahermosa 
 	https://villahermosa.regency.hyatt.com/en/hotel/home.html
-	Ave. Juï¿½rez 106, Col. Lindavista Villahermosa, Tabasco, Mexico, 86050  
+	Ave. Juárez 106, Col. Lindavista Villahermosa, Tabasco, Mexico, 86050  
 	17.9795893 -92.93145450000002
 hyatt place la paz 
 	https://lapaz.place.hyatt.com/en/hotel/home.html
@@ -572,7 +580,7 @@ hyatt place managua
 	18.4860575 -69.93121169999999
 hyatt place panama city/downtown 
 	https://panamacity.place.hyatt.com/en/hotel/home.html
-	Avenida Aquilino de la Guardia, between Vï¿½a Espaï¿½a and Calle 52 Bella Vista Panama City,  Panama   
+	Avenida Aquilino de la Guardia, between Vía España and Calle 52 Bella Vista Panama City,  Panama   
 	8.9858355 -79.52420889999999
 Hyatt Regency Chongqing 
 	https://chongqing.regency.hyatt.com/en/hotel/home.html
@@ -629,11 +637,11 @@ hyatt place hampi
 Hyatt Amritsar 
 	https://amritsar.hyatthotels.hyatt.com/en/hotel/home.html
 	Adjoining Alpha One City Center MBM Farms, G. T. Road, Amritsar,  India, 143001  
-	31.6427636 74.8565613
+	31.6364755 74.89730469999999
 Hyatt Regency Ludhiana 
 	https://ludhiana.regency.hyatt.com/en/hotel/home.html
 	Site No. 4, Ferozepur Road Ludhiana, Punjab, India   
-	30.8918003 75.80310539999999
+	30.8898071 75.7977865
 PARK HYATT CHENNAI 
 	https://chennai.park.hyatt.com/en/hotel/home.html
 	39 Velachery Road, Near Raj Bhavan Chennai,  India, 600032  
