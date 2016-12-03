@@ -206,6 +206,10 @@ Hyatt Regency Suites Atlanta Northwest
 	https://atlantasuites.regency.hyatt.com/en/hotel/home.html
 	2999 Windy Hill Road SE Marietta, Georgia, USA, 30067  
 	33.9062583 -84.4664241
+hyatt place boise/downtown 
+	https://boisedowntown.place.hyatt.com/en/hotel/home.html
+	1024 West Bannock Street Boise, Idaho, USA, 83702  
+	43.618993 -116.204927
 Hyatt House Chicago/Evanston 
 	https://chicagoevanston.house.hyatt.com/en/hotel/home.html
 	1515 Chicago Avenue Evanston, Illinois, USA, 60201  
@@ -454,13 +458,13 @@ Hyatt Regency Pittsburgh International Airport
 	https://pittsburghairport.regency.hyatt.com/en/hotel/home.html
 	1111 Airport Boulevard PO Box 12420 Pittsburgh, Pennsylvania, USA, 15231  
 	40.4967937 -80.25986019999999
-hyatt place manatï¿½ 
+hyatt place manatí 
 	https://manati.place.hyatt.com/en/hotel/home.html
-	122 Carretera PR-2 Manatï¿½, Puerto Rico, USA, 00674  
+	122 Carretera PR-2 Manatí, Puerto Rico, USA, 00674  
 	0 0
-hyatt place san juan/bayamï¿½n 
+hyatt place san juan/bayamón 
 	https://bayamon.place.hyatt.com/en/hotel/home.html
-	Ave Ramï¿½n Luis Rivera Bayamï¿½n, Puerto Rico, USA, 00961  
+	Ave Ramón Luis Rivera Bayamón, Puerto Rico, USA, 00961  
 	18.3746422 -66.1778147
 hyatt place charleston airport/convention center 
 	https://charlestonairport.place.hyatt.com/en/hotel/home.html
@@ -645,7 +649,7 @@ hyatt place santiago/vitacura
 Hyatt Regency Cartagena 
 	https://cartagena.regency.hyatt.com/en/hotel/home.html
 	Carrera 1 #12-118 Cartagena,  Colombia, 130000  
-	0 0
+	3.4738929 -76.5067387
 hyatt place san jose/pinares 
 	https://sanjosepinares.place.hyatt.com/en/hotel/home.html
 	Plaza Momentum Pinares San Jose,  Costa Rica   
@@ -701,19 +705,19 @@ Hyatt Regency Xi'an
 PARK HYATT HYDERABAD 
 	https://hyderabad.park.hyatt.com/en/hotel/home.html
 	Road No. 2, Banjara Hills Hyderabad, Telangana, India, 500034  
-	0 0
+	17.424789 78.43224889999999
 hyatt place goa candolim 
 	https://goacandolim.place.hyatt.com/en/hotel/home.html
 	Anna Waddo, Main Candolim Road Bardez, Goa ,  India, 403515  
-	0 0
+	15.5294119 73.7648806
 Hyatt Regency Delhi 
 	https://delhi.regency.hyatt.com/en/hotel/home.html
 	Bhikaiji Cama Place, Ring Road New Delhi,  India, 110066  
-	0 0
+	28.5698505 77.1861285
 Hyatt Regency Mumbai 
 	https://mumbai.regency.hyatt.com/en/hotel/home.html
 	Sahar Airport Road Mumbai,  India, 400 099  
-	0 0
+	19.1029182 72.8661413
 Hyatt Regency Pune 
 	https://pune.regency.hyatt.com/en/hotel/home.html
 	Weikfield IT Park, Nagar Road Pune,  India, 411014  
@@ -725,64 +729,63 @@ Hyatt Regency Fukuoka
 Hyatt Regency Osaka 
 	https://osaka.regency.hyatt.com/en/hotel/home.html
 	1-13-11 Nanko-Kita, Suminoe-Ku Osaka,  Japan, 559-0034  
-	0 0
+	34.6370891 135.4163106
 Hyatt Regency Saipan 
 	https://saipan.regency.hyatt.com/en/hotel/home.html
 	Royal Palm Avenue, Micro Beach Road, Garapan, Saipan, MP 96950 Saipan, Mariana Islands, Micronesia   
 	0 0
 Hyatt City of Dreams Manila 
 	https://cityofdreamsmanila.hyatt.com/en/hotel/home.html
-	Asean Avenue corner Roxas Boulevard, Entertainment City Paraï¿½aque, Manila,  Philippines, 1701  
+	Asean Avenue corner Roxas Boulevard, Entertainment City Parañaque, Manila,  Philippines, 1701  
 	0 0
 hyatt place phuket, patong 
 	https://phuketpatong.place.hyatt.com/en/hotel/home.html
 	17/1-3 Soi Prabaramee 4, Patong Phuket,  Thailand, 83150 30-minute drive from Phuket International Airport 
-	0 0
+	8.1110951 98.3064646
 Hyatt Regency Tashkent 
 	https://tashkent.regency.hyatt.com/en/hotel/home.html
 	Navoi Street, 1 A Tashkent,  Uzbekistan   
-	0 0
+	41.3213842 69.24444969999999
 hyatt place yerevan 
 	https://yerevan.place.hyatt.com/en/hotel/home.html
 	26/1, V. Sargsyan Street Yerevan,  Armenia, 0010  
-	0 0
+	40.1764653 44.5111066
 Hyatt Regency Sharm El Sheikh Resort 
 	https://sharmelsheikh.regency.hyatt.com/en/hotel/home.html
 	Gardens Bay, PO Box 58, South Sinai, Egypt Sharm El Sheikh,  Egypt   
-	0 0
-hyatt place london heathrow hayes
+	27.9237998 34.3641885
+hyatt place london heathrow airport 
 	https://londonheathrowairport.place.hyatt.com/en/hotel/home.html
-	Hayes Gate House, 27 Uxbridge Road Hayes,  England (United Kingdom), UB4 0JN
-	0 0
+	The Grove, Bath Road West Drayton,  England (United Kingdom), UB7 0DG  
+	51.48157399999999 -0.4696118
 Hyatt Regency Thessaloniki 
 	https://thessaloniki.regency.hyatt.com/en/hotel/home.html
-	13 kilometres Thessaloniki-Perea Thessaloniki,  Greece, 57001
 	0 0
 hyatt place taghazout bay 
 	https://taghazoutbay.place.hyatt.com/en/hotel/home.html
 	Station Touristique de Taghazout Km 17, Route d'Essaouira, Agadir,  Morocco, 80750  
-	0 0
+	40.435762 -103.5899733
 Hyatt Regency Ekaterinburg 
 	https://ekaterinburg.regency.hyatt.com/en/hotel/home.html
 	8, Borisa Yeltsina Street Ekaterinburg,  Russia, 620014  
-	0 0
+	56.83533929999999 60.592812
 Hyatt Regency Belgrade 
 	https://belgrade.regency.hyatt.com/en/hotel/home.html
 	PO Box 067, Milentija Popovica 5 Belgrade,  Serbia, 11070  
-	0 0
+	44.80980170000001 20.4302935
 Hyatt Regency Johannesburg 
 	https://johannesburg.regency.hyatt.com/en/hotel/home.html
 	191 Oxford Road, Rosebank Johannesburg,  South Africa, 2132  
-	0 0
+	-26.1435813 28.0433209
 Hyatt Regency Dushanbe 
 	https://dushanbe.regency.hyatt.com/en/hotel/home.html
 	26/1, Ismoili Somoni Prospekt Dushanbe,  Tajikistan, 734026  
-	0 0
+	38.5872142 68.7541366
 hyatt place dubai baniyas square 
 	https://dubaibaniyassquare.place.hyatt.com/en/hotel/home.html
 	P.O. Box 36588 Dubai,  United Arab Emirates   
-	0 0
+	25.2048493 55.2707828
 hyatt place dubai/al rigga 
 	https://dubaialrigga.place.hyatt.com/en/hotel/home.html
 	P.O. Box 33178 Dubai,  United Arab Emirates   
-	0 0
+	25.2048493 55.2707828
