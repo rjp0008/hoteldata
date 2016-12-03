@@ -7,11 +7,11 @@ google_error = 'OVER_QUERY_LIMIT'
 
 conn = sqlite3.connect('hotel.db')
 c = conn.cursor()
-c = c.execute("SELECT * FROM Hotels WHERE google_text LIKE '%OVER_QUERY_LIMIT%'")
+c = c.execute("SELECT * FROM Hotels WHERE lat='0'")
 list = c.fetchall()
 addresses = []
 for item in list:
-    addresses.append(item[0] + " " + item[4])
+    addresses.append(item[7])
 for item in addresses:
     try:
         res = requests.get(
@@ -23,7 +23,7 @@ for item in addresses:
             continue
         lat = jsonObj.get('results')[0].get('geometry').get('location')['lat']
         lng = jsonObj.get('results')[0].get('geometry').get('location')['lng']
-        c.execute("UPDATE Hotels SET lat='"+str(lat)+"', lng='"+str(lng)+"',google_text='"+google_text.replace("'","''")+"' WHERE address LIKE '%"+item.replace("'","''") +"%'")
+        c.execute("UPDATE Hotels SET lat='"+str(lat)+"', lng='"+str(lng)+"',google_text='"+google_text.replace("'","''")+"' WHERE name LIKE '%"+item.replace("'","''") +"%'")
         conn.commit()
         print(item)
         if google_error in google_text:
