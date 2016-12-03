@@ -65,7 +65,7 @@ Hyatt Union Square New York
 Hyatt Regency Aruba Resort Spa and Casino 
 	https://aruba.regency.hyatt.com/en/hotel/home.html
 	J.E. Irausquin Blvd #85 Palm Beach, Aruba, Aruba   
-	0 0
+	12.5543122 -70.0547504
 HYATT ZIVA CANCUN 
 	https://cancun.ziva.hyatt.com/en/hotel/home.html
 	Blvd. Kukulcan, Manzana 51, Lote. 7 Cancun, Quintana Roo, Mexico, 77500  
