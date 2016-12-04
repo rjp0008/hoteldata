@@ -346,10 +346,6 @@ Fairfield Inn & Suites Ponca City
 	/hotels/rewards-points/pncfi-fairfield-inn-and-suites-ponca-city/
 	3405 North 14th Street Ponca City
 	36.744442 -97.06655800000001
-SpringHill Suites Tulsa
-	/hotels/rewards-points/tulsh-springhill-suites-tulsa/
-	11015 East 73rd Street Tulsa
-	36.0594048 -95.8543711
 Fairfield Inn & Suites Tulsa Southeast/Crossroads Village
 	/hotels/rewards-points/tulcr-fairfield-inn-and-suites-tulsa-southeast-crossroads-village/
 	9150 S 102nd E Avenue Tulsa
@@ -358,6 +354,10 @@ Fairfield Inn Tulsa Woodland Hills
 	/hotels/rewards-points/tulfi-fairfield-inn-tulsa-woodland-hills/
 	9020 East 71st Street Tulsa
 	36.059517 -95.876316
+SpringHill Suites Tulsa
+	/hotels/rewards-points/tulsh-springhill-suites-tulsa/
+	11015 East 73rd Street Tulsa
+	36.0594048 -95.8543711
 SpringHill Suites Tulsa at Tulsa Hills
 	/hotels/rewards-points/tulwe-springhill-suites-tulsa-at-tulsa-hills/
 	1521 West 80th Street South Tulsa
@@ -709,7 +709,7 @@ Courtyard Toluca Airport
 Courtyard Toluca Tollocan
 	/hotels/rewards-points/tlctm-courtyard-toluca-tollocan/
 	Paseo Tollocan #834 Toluca
-	0 0
+	19.2860855 -99.5437704
 Courtyard Monterrey Airport
 	/hotels/rewards-points/mtycy-courtyard-monterrey-airport/
 	Carr Miguel Aleman km 23.7 Apodaca
