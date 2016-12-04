@@ -134,6 +134,10 @@ Fairfield Inn & Suites Jonesboro
 	/hotels/rewards-points/jbrfi-fairfield-inn-and-suites-jonesboro/
 	3408 Access Road Jonesboro
 	35.8078275 -90.66127619999999
+SpringHill Suites Little Rock West
+	/hotels/rewards-points/litsh-springhill-suites-little-rock-west/
+	306 Markham Center Drive Little Rock
+	34.7565484 -92.3902449
 Courtyard Little Rock West
 	/hotels/rewards-points/litch-courtyard-little-rock-west/
 	10900 Financial Centre Parkway Little Rock
@@ -142,10 +146,6 @@ Residence Inn Little Rock
 	/hotels/rewards-points/litri-residence-inn-little-rock/
 	1401 South Shackleford Road Little Rock
 	34.740294 -92.39329599999999
-SpringHill Suites Little Rock West
-	/hotels/rewards-points/litsh-springhill-suites-little-rock-west/
-	306 Markham Center Drive Little Rock
-	34.7565484 -92.3902449
 Fairfield Inn Little Rock North
 	/hotels/rewards-points/litfi-fairfield-inn-little-rock-north/
 	4120 Health Care Drive North Little Rock
@@ -826,14 +826,14 @@ Courtyard Houma
 	/hotels/rewards-points/msyho-courtyard-houma/
 	142 Library Drive Houma
 	29.5813014 -90.7268148
-Fairfield Inn & Suites Lafayette I-10
-	/hotels/rewards-points/lftfi-fairfield-inn-and-suites-lafayette-i-10/
-	2225 NW Evangeline Thruway Lafayette
-	30.2543201 -92.0155047
 Courtyard Lafayette Airport
 	/hotels/rewards-points/lftcy-courtyard-lafayette-airport/
 	214 East Kaliste Saloom Road Lafayette
 	30.1921605 -92.01016489999999
+Fairfield Inn & Suites Lafayette I-10
+	/hotels/rewards-points/lftfi-fairfield-inn-and-suites-lafayette-i-10/
+	2225 NW Evangeline Thruway Lafayette
+	30.2543201 -92.0155047
 Fairfield Inn & Suites Lafayette South
 	/hotels/rewards-points/lftfs-fairfield-inn-and-suites-lafayette-south/
 	1606 W Pinhook Road Lafayette
@@ -954,18 +954,26 @@ TownePlace Suites Battle Creek
 	/hotels/rewards-points/btlts-towneplace-suites-battle-creek/
 	12917 Harper Village Drive Battle Creek
 	42.2664858 -85.1718796
-Courtyard Bay City
-	/hotels/rewards-points/mbscb-courtyard-bay-city/
-	2 East Main Street Bay City
-	40.7214871 -73.2475728
 Fairfield Inn Bay City
 	/hotels/rewards-points/mbsbc-fairfield-inn-bay-city/
 	4105 East Wilder Road Bay City
 	43.6251582 -83.8936811
+Courtyard Bay City
+	/hotels/rewards-points/mbscb-courtyard-bay-city/
+	2 East Main Street Bay City
+	40.7214871 -73.2475728
 Courtyard Detroit Brighton
 	/hotels/rewards-points/dtwbr-courtyard-detroit-brighton/
 	7799 Conference Center Drive Brighton
 	42.551677 -83.7966929
+Fairfield Inn & Suites Detroit Canton
+	/hotels/rewards-points/dtwxc-fairfield-inn-and-suites-detroit-canton/
+	5760 Haggerty Road Canton
+	42.3258528 -83.4490701
+TownePlace Suites Detroit Canton
+	/hotels/rewards-points/dtwyc-towneplace-suites-detroit-canton/
+	5780 Haggerty Road Canton
+	42.3258795 -83.4490713
 Courtyard Detroit Dearborn
 	/hotels/rewards-points/dttdb-courtyard-detroit-dearborn/
 	5200 Mercury Drive Dearborn
@@ -978,8 +986,8 @@ TownePlace Suites East Lansing
 	/hotels/rewards-points/lants-towneplace-suites-east-lansing/
 	2855 Hannah Boulevard East Lansing
 	42.718323 -84.45633699999999
-Courtyard Detroit Farmington
-	/hotels/rewards-points/dtwcf-courtyard-detroit-farmington/
+Courtyard Detroit Farmington Hills
+	/hotels/rewards-points/dtwcf-courtyard-detroit-farmington-hills/
 	33043 Hamilton Court Farmington Hills
 	42.496965 -83.3754537
 Fairfield Inn & Suites Detroit Farmington Hills
@@ -1285,7 +1293,7 @@ Fairfield Inn & Suites Asheboro
 Fairfield Inn & Suites Raleigh Cary
 	/hotels/rewards-points/rduay-fairfield-inn-and-suites-raleigh-cary/
 	1120 Ledsome Lane Cary
-	35.7623156 -78.7478788
+	35.7620538 -78.7481086
 Courtyard Raleigh Cary
 	/hotels/rewards-points/rduca-courtyard-raleigh-cary/
 	102 Edinburgh Drive South Cary
@@ -1338,14 +1346,14 @@ Residence Inn Greenville
 	/hotels/rewards-points/pgvri-residence-inn-greenville/
 	1820 West 5th Street Greenville
 	35.61352220000001 -77.4002177
-Courtyard Hickory
-	/hotels/rewards-points/hkycy-courtyard-hickory/
-	1946 13th Avenue Drive SE Hickory
-	35.70949 -81.3060024
 Fairfield Inn & Suites Hickory
 	/hotels/rewards-points/hkyfy-fairfield-inn-and-suites-hickory/
 	1950 13th Avenue Drive SE Hickory
 	35.7101863 -81.3059972
+Courtyard Hickory
+	/hotels/rewards-points/hkycy-courtyard-hickory/
+	1946 13th Avenue Drive SE Hickory
+	35.70949 -81.3060024
 Fairfield Inn & Suites Jacksonville
 	/hotels/rewards-points/oajfi-fairfield-inn-and-suites-jacksonville/
 	121 Circuit Lane Jacksonville
@@ -1509,7 +1517,7 @@ TownePlace Suites Cleveland Westlake
 SpringHill Suites Enid
 	/hotels/rewards-points/wdgsh-springhill-suites-enid/
 	5815 KL Drive Enid
-	36.3955891 -97.8783911
+	36.3890892 -97.9491559
 Fairfield Inn & Suites Oklahoma City Airport
 	/hotels/rewards-points/okcap-fairfield-inn-and-suites-oklahoma-city-airport/
 	4521 SW 15th Street, Meridian and SW 15th St Oklahoma City
@@ -1725,7 +1733,7 @@ Courtyard Brownsville
 Residence Inn Brownsville
 	/hotels/rewards-points/brori-residence-inn-brownsville/
 	3975  N. Expressway  83 Brownsville
-	26.1599309 -97.860619
+	26.1635922 -97.68615319999999
 Courtyard Dallas Carrollton and Carrollton Conference Center
 	/hotels/rewards-points/dalrl-courtyard-dallas-carrollton-and-carrollton-conference-center/
 	1201 Raiford Road Carrollton
@@ -1829,7 +1837,7 @@ TownePlace Suites Houston Brookhollow
 Courtyard Houston Northwest
 	/hotels/rewards-points/hounw-courtyard-houston-northwest/
 	11050 Louetta Road Houston
-	29.9971655 -95.5831773
+	29.9971972 -95.5830253
 TownePlace Suites Houston Intercontinental Airport
 	/hotels/rewards-points/houta-towneplace-suites-houston-intercontinental-airport/
 	4015 Interwood North Parkway Houston
@@ -1890,14 +1898,14 @@ Residence Inn Laredo Del Mar
 	/hotels/rewards-points/lrdri-residence-inn-laredo-del-mar/
 	310 Lost Oaks Boulevard Laredo
 	27.5630437 -99.50081039999999
-Fairfield Inn & Suites Dallas Lewisville
-	/hotels/rewards-points/dalle-fairfield-inn-and-suites-dallas-lewisville/
-	2697 Lake Vista Drive Lewisville
-	32.9974139 -96.9658127
 Residence Inn Dallas Lewisville
 	/hotels/rewards-points/dallw-residence-inn-dallas-lewisville/
 	755 C Vista Ridge Mall Drive Lewisville
 	33.0007589 -96.96720839999999
+Fairfield Inn & Suites Dallas Lewisville
+	/hotels/rewards-points/dalle-fairfield-inn-and-suites-dallas-lewisville/
+	2697 Lake Vista Drive Lewisville
+	32.9974139 -96.9658127
 Courtyard Dallas Lewisville
 	/hotels/rewards-points/dalll-courtyard-dallas-lewisville/
 	2701 Lake Vista Drive Lewisville
@@ -1986,6 +1994,10 @@ SpringHill Suites Dallas Richardson/Plano
 	/hotels/rewards-points/dalsr-springhill-suites-dallas-richardson-plano/
 	3251 E President George Bush Turnpike Richardson
 	32.9898612 -96.66600989999999
+SpringHill Suites Dallas Rockwall
+	/hotels/rewards-points/dalrw-springhill-suites-dallas-rockwall/
+	2601 Lakefront Trail Rockwall
+	32.8920433 -96.47891680000001
 SpringHill Suites Houston Rosenberg
 	/hotels/rewards-points/hourb-springhill-suites-houston-rosenberg/
 	6815 Reading Road Rosenberg
@@ -2190,14 +2202,14 @@ SpringHill Suites Dulles Airport
 	/hotels/rewards-points/iaddl-springhill-suites-dulles-airport/
 	22595 Shaw Road Sterling
 	38.9913984 -77.4298866
-TownePlace Suites Dulles Airport
-	/hotels/rewards-points/iadtf-towneplace-suites-dulles-airport/
-	22744 Holiday Park Drive Sterling
-	38.986669 -77.429756
 Fairfield Inn & Suites Dulles Airport
 	/hotels/rewards-points/iadfi-fairfield-inn-and-suites-dulles-airport/
 	23000 Indian Creek Drive Sterling
 	38.9803433 -77.4336479
+TownePlace Suites Dulles Airport
+	/hotels/rewards-points/iadtf-towneplace-suites-dulles-airport/
+	22744 Holiday Park Drive Sterling
+	38.986669 -77.429756
 TownePlace Suites Suffolk Chesapeake
 	/hotels/rewards-points/orfst-towneplace-suites-suffolk-chesapeake/
 	8050 Harbour View Blvd Suffolk
@@ -2333,7 +2345,7 @@ Fairfield Inn & Suites Ottawa Kanata
 TownePlace Suites Ottawa Kanata
 	/hotels/rewards-points/yowts-towneplace-suites-ottawa-kanata/
 	1251 Maritime Way Kanata
-	45.3147932 -75.8997223
+	45.3138788 -75.9012451
 TownePlace Suites Kincardine
 	/hotels/rewards-points/ykdts-towneplace-suites-kincardine/
 	19 Millenium Way Kincardine
@@ -2578,6 +2590,10 @@ Courtyard Gelsenkirchen
 	/hotels/rewards-points/qbogk-courtyard-gelsenkirchen/
 	Parkallee 3 Gelsenkirchen
 	51.5578701 7.0670645
+Courtyard Guatemala City
+	/hotels/rewards-points/guacy-courtyard-guatemala-city/
+	1 Avenida 12-47, Zona 10 Guatemala City
+	14.6024511 -90.51497409999999
 Guyana Marriott Hotel Georgetown
 	/hotels/rewards-points/geomc-guyana-marriott-hotel-georgetown/
 	Block Alpha, Battery Road, Kingston Georgetown
@@ -2645,7 +2661,7 @@ Renaissance Aktau Hotel
 Astana Marriott Hotel
 	/hotels/rewards-points/tsemc-astana-marriott-hotel/
 	2 Dostyq Street Astana
-	51.1269764 71.4230561
+	51.1279341 71.417435
 Renaissance Atyrau Hotel
 	/hotels/rewards-points/guwbr-renaissance-atyrau-hotel/
 	15 B, Satpayev Street, Mosque District Atyrau
@@ -2757,7 +2773,7 @@ Kigali Marriott Hotel
 Protea Hotel Johannesburg Parktonian All-Suite
 	/hotels/rewards-points/jnbpa-protea-hotel-johannesburg-parktonian-all-suite/
 	120 De Korte Street Braamfontein
-	0 0
+	-26.1933034 28.0392412
 Protea Hotel Cape Town Tyger Valley
 	/hotels/rewards-points/cptla-protea-hotel-cape-town-tyger-valley/
 	Uys Krige Drive, Jip de Jager off ramp, Ext 20, Welgemoed Cape Town
@@ -2765,43 +2781,43 @@ Protea Hotel Cape Town Tyger Valley
 Protea Hotel Cape Town Mowbray
 	/hotels/rewards-points/cptmw-protea-hotel-cape-town-mowbray/
 	Liesbeek Avenue off Liesbeek Parkway Cape Town
-	-33.9452527 18.4766051
+	-33.9452765 18.4766126
 Protea Hotel Durban Edward
 	/hotels/rewards-points/dured-protea-hotel-durban-edward/
 	149 OR Tambo Parade Durban
-	0 0
+	-29.854447 31.038409
 Protea Hotel Karridene Beach
 	/hotels/rewards-points/durka-protea-hotel-karridene-beach/
 	Old South Coast Road, Illovo Beach Durban
-	0 0
+	-29.85868039999999 31.0218404
 Protea Hotel Durban Umhlanga
 	/hotels/rewards-points/durum-protea-hotel-durban-umhlanga/
 	Protea Mall, Corner Lighthouse and Chartwell Drive, Umhlanga Rocks Durban
-	0 0
+	-29.85868039999999 31.0218404
 Protea Hotel Durban Umhlanga Ridge
 	/hotels/rewards-points/durur-protea-hotel-durban-umhlanga-ridge/
 	14 Palm Boulevard, Umhlanga Ridge, Umhlanga Rocks Durban
-	0 0
+	-29.724057 31.068781
 Protea Hotel Hluhluwe & Safaris
 	/hotels/rewards-points/hlwhs-protea-hotel-hluhluwe-and-safaris/
 	104 Main Road Hluhluwe
-	0 0
+	-28.024659 32.282239
 Protea Hotel Johannesburg Wanderers
 	/hotels/rewards-points/jnbwa-protea-hotel-johannesburg-wanderers/
 	Corner Corlette Drive and Rudd Road Illovo
-	0 0
+	-26.1342639 28.0519677
 Protea Hotel O.R. Tambo Airport
 	/hotels/rewards-points/jnbor-protea-hotel-or-tambo-airport/
 	Corner of York & Gladiator Streets, Rhodesfield, Kempton Park Johannesburg
-	0 0
+	53.9713177 -1.0886066
 Protea Hotel Roodepoort
 	/hotels/rewards-points/jnbro-protea-hotel-roodepoort/
 	Corner of 14th Avenue & Hendrik Potgieter Street, Weltevreden Park Johannesburg
-	0 0
+	29.7206442 -84.9918551
 Protea Hotel O R Tambo Airport Transit
 	/hotels/rewards-points/jnbtr-protea-hotel-o-r-tambo-airport-transit/
 	Terminal A, OR Tambo International Airport, Kempton Park Johannesburg
-	0 0
+	-26.2041028 28.0473051
 Protea Hotel Midrand Samrand
 	/hotels/rewards-points/jnbla-protea-hotel-midrand-samrand/
 	95 Sterling Street Midrand
@@ -2817,7 +2833,7 @@ Protea Hotel Hilton
 Protea Hotel Port Elizabeth Marine
 	/hotels/rewards-points/plzma-protea-hotel-port-elizabeth-marine/
 	Marine Drive, Summerstrand Port Elizabeth
-	0 0
+	-33.990479 25.6746254
 Protea Hotel Pretoria Manor
 	/hotels/rewards-points/jnbpr-protea-hotel-pretoria-manor/
 	1050 Burnett Street, Corner of Burnett and Festival Streets, Hatfield Pretoria
@@ -2825,7 +2841,7 @@ Protea Hotel Pretoria Manor
 Protea Hotel Pretoria Capital
 	/hotels/rewards-points/pryca-protea-hotel-pretoria-capital/
 	390 Van der Walt / Lilian Ngoyi Street Pretoria
-	0 0
+	-25.7504639 28.193314
 Protea Hotel Pretoria Hatfield
 	/hotels/rewards-points/pryha-protea-hotel-pretoria-hatfield/
 	1141 Burnett Street, Hatfield Pretoria
@@ -2833,11 +2849,11 @@ Protea Hotel Pretoria Hatfield
 Protea Hotel Pretoria Centurion
 	/hotels/rewards-points/prywa-protea-hotel-pretoria-centurion/
 	Cnr Gordon hood and Hendrik Verwoerd, Centurion Pretoria
-	0 0
+	-25.8535707 28.1858981
 Protea Hotel Johannesburg Balalaika Sandton
 	/hotels/rewards-points/jnbba-protea-hotel-johannesburg-balalaika-sandton/
 	Maude Street, Sandown Sandton
-	0 0
+	-26.1043552 28.0564013
 Protea Hotel Cape Town Durbanville
 	/hotels/rewards-points/cptdv-protea-hotel-cape-town-durbanville/
 	99 Jip de Jager Drive, Vineyards Office Estate Tyger Valley
@@ -2845,7 +2861,7 @@ Protea Hotel Cape Town Durbanville
 AC Hotel Oviedo Forum
 	/hotels/rewards-points/ovdfo-ac-hotel-oviedo-forum/
 	Plaza de los Ferroviarios 1 Oviedo
-	0 0
+	43.3619145 -5.8493887
 AC Hotel A Coruna
 	/hotels/rewards-points/lcgco-ac-hotel-a-coruna/
 	Enrique Marinas , 34 A Coruna
@@ -2853,7 +2869,7 @@ AC Hotel A Coruna
 AC Hotel General Alava
 	/hotels/rewards-points/vitge-ac-hotel-general-alava/
 	Avda. Gasteiz, 79 Vitoria
-	0 0
+	42.8508165 -2.6812059
 AC Hotel Alicante
 	/hotels/rewards-points/alcal-ac-hotel-alicante/
 	Avda. de Elche, 3 Alicante
@@ -2865,7 +2881,7 @@ AC Hotel Almeria
 AC Hotel Algeciras
 	/hotels/rewards-points/aeial-ac-hotel-algeciras/
 	Ctra. del Rinconcillo esq. C/ Hnos.Portilla Algeciras
-	0 0
+	36.1407591 -5.456233
 AC Hotel La Linea
 	/hotels/rewards-points/xryli-ac-hotel-la-linea/
 	Los Caireles, 2 La Línea de la Concepción
@@ -2873,80 +2889,80 @@ AC Hotel La Linea
 AC Hotel Guadalajara, Spain
 	/hotels/rewards-points/madgu-ac-hotel-guadalajara-spain/
 	Avda. del Ejército, 6 Guadalajara
-	0 0
+	40.6349707 -3.1733179
 AC Hotel Huelva
 	/hotels/rewards-points/hevhu-ac-hotel-huelva/
 	Avda. Andalucia, s/n Huelva
-	0 0
+	37.2688232 -6.9332857
 AC Hotel La Rioja
 	/hotels/rewards-points/rjllo-ac-hotel-la-rioja/
 	Madre de Dios , 21 Logroño
-	0 0
+	42.4691984 -2.4323906
 AC Hotel Leon San Antonio
 	/hotels/rewards-points/lenac-ac-hotel-leon-san-antonio/
 	Velazquez,10 Leon
-	0 0
+	42.5902202 -5.568918900000001
 AC Hotel Ponferrada
 	/hotels/rewards-points/lenpo-ac-hotel-ponferrada/
 	Avda. Astorga , 2 Ponferrada
-	0 0
+	42.5493268 -6.5830898
 AC Hotel Alcala de Henares
 	/hotels/rewards-points/madal-ac-hotel-alcala-de-henares/
 	Octavio Paz, 25 Alcala de Henares
-	0 0
+	40.5028843 -3.3653421
 AC Hotel Aravaca
 	/hotels/rewards-points/madac-ac-hotel-aravaca/
 	Camino de la Zarzuela , 3 Madrid
-	0 0
+	40.4643108 -3.7853812
 AC Hotel Coslada Aeropuerto
 	/hotels/rewards-points/madco-ac-hotel-coslada-aeropuerto/
 	Calle Rejas Madrid
-	0 0
+	40.44434560000001 -3.5410425
 AC Hotel La Finca
 	/hotels/rewards-points/madfi-ac-hotel-la-finca/
 	P° del Club Deportivo, 1. Ed. 17. Parque Empresarial La Finca Pozuelo de Alarcón
-	0 0
+	40.41919619999999 -3.8010045
 AC Hotel San Sebastian de los Reyes
 	/hotels/rewards-points/madse-ac-hotel-san-sebastian-de-los-reyes/
 	Avenida del Cerro del Águila 15-17 San Sebastián de los Reyes
-	0 0
+	40.5468568 -3.613103
 AC Hotel Palencia
 	/hotels/rewards-points/vllpa-ac-hotel-palencia/
 	Avda. de Cuba , 25 Palencia
-	0 0
+	42.0139037 -4.5207587
 AC Hotel Sevilla Forum
 	/hotels/rewards-points/svqju-ac-hotel-sevilla-forum/
 	Luis Fuentes Bejarano, 45 Seville
-	0 0
+	37.4080973 -5.9454474
 AC Hotel Sevilla Torneo
 	/hotels/rewards-points/svqto-ac-hotel-sevilla-torneo/
 	Sanchez Pizjuan, 32 Seville
-	0 0
+	37.41292 -5.984059999999999
 AC Hotel Valencia
 	/hotels/rewards-points/vlcva-ac-hotel-valencia/
 	Avda. de Francia, 67 Valencia
-	0 0
+	39.4588662 -0.3439385
 AC Hotel Palacio de Santa Ana
 	/hotels/rewards-points/vllan-ac-hotel-palacio-de-santa-ana/
 	Camino de la Flecha s/n Valladolid
-	0 0
+	41.62583960000001 -4.7623633
 AC Hotel Zamora
 	/hotels/rewards-points/slmza-ac-hotel-zamora/
 	Avda Principe de Asturias, 43 Zamora
-	0 0
+	41.5119305 -5.7370991
 AC Hotel Zaragoza Los Enlaces
 	/hotels/rewards-points/zazen-ac-hotel-zaragoza-los-enlaces/
 	Pilar Miro, 1 Zaragoza
-	0 0
+	41.6491481 -0.9204680000000001
 JW Marriott Hotel Ankara
 	/hotels/rewards-points/esbjw-jw-marriott-hotel-ankara/
 	Kizilirmak Mah. Muhsin Yazicioglu Cad. No: 1 Sogutozu Ankara
-	0 0
+	39.909747 32.806536
 Courtyard Istanbul International Airport
 	/hotels/rewards-points/istcy-courtyard-istanbul-international-airport/
 	Basin Ekspress Yolu, Fatih Caddesi, Dereboyu Sokak No 2, Halkali Istanbul
-	0 0
+	41.0518812 28.8329403
 Protea Hotel Zanzibar Mbweni Ruins
 	/hotels/rewards-points/znzmr-protea-hotel-zanzibar-mbweni-ruins/
 	Plot number 143/93, Mbweni Street, Kiembe Samakie Zanzibar
-	0 0
+	-6.165916999999999 39.202641
