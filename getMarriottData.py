@@ -17,7 +17,7 @@ hotels = []
 
 browser = selenium.webdriver.Firefox(prof)
 
-for x in range(0,15):
+for x in range(1,3):
     hotels.clear()
     browser.get(marriottRewardList)
     select = Select(browser.find_element_by_id('category-tier'))
@@ -39,6 +39,8 @@ for x in range(0,15):
                 newHotel.url=url
                 newHotel.group = "marriott"
                 newHotel.update_from_google()
+                newHotel.category = x
+                newHotel.save_to_db()
                 hotels.append(newHotel)
         except Exception as e:
             print(e)

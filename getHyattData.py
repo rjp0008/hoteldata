@@ -62,6 +62,8 @@ for x in range(1,category_levels+1):
     hotels = hotel_factory(browser,hotel_urls)
     with open('.\\data\\hyatt\\'+str(x)+'.txt', 'w') as f:
         for hotel in hotels:
+            hotel.category = x
+            hotel.save_to_db()
             f.write(hotel.name + "\n")
             f.write("\t" + hotel.url + "\n")
             try:

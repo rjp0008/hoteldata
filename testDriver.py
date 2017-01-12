@@ -3,6 +3,7 @@ import os
 from hotel import Hotel
 import math
 import sqlite3
+from random import shuffle
 
 def verify_data(path: str):
     for file in os.listdir(path):
@@ -63,13 +64,12 @@ def get_hotel_data(path: str):
         output.append(list)
     return output
 
-def get_hotel_data_from_db(group: str):
+def get_hotel_data_from_db(group: str) -> dict:
     conn = sqlite3.connect('hotel.db')
     c = conn.cursor()
     c = c.execute("SELECT * FROM Hotels WHERE hotel_group='"+group+"' AND lat<>'0'")
     list = c.fetchall()
     output = {}
-    hotels = []
     for item in list:
         hotel = Hotel()
         hotel.lat = float(item[2])
@@ -83,32 +83,39 @@ def get_hotel_data_from_db(group: str):
         except KeyError:
             output[item[5]] = []
         output[item[5]].append(hotel)
+    for list in output.values():
+        shuffle(list)
     return output
 
 
 def find_optimal(list1: dict,list2:dict,list3:dict) -> dict:
     mappings = {}
+
     for hotelList in list1.values():
-        for hotel in hotelList:
-            if hotel.lat == 0.0 or hotel.lng == 0.0:
-                continue
-            for hotelList2 in list2.values():
-                for hotel2 in hotelList2:
-                    if hotel2.lat == 0.0 or hotel2.lng == 0.0:
-                        continue
-                    for hotelList3 in list3.values():
-                        for hotel3 in hotelList3:
-                            if hotel3.lat == 0.0 or hotel3.lng == 0.0:
-                                continue
-                            avg_lat = average_lat_coord(hotel,hotel2,hotel3)
-                            avg_lng = average_lng_coord(hotel,hotel2,hotel3)
-                            distance = max(abs(hotel.lat - avg_lat) + abs(hotel.lng - avg_lng),abs(hotel2.lat - avg_lat) + abs(hotel2.lng - avg_lng),abs(hotel3.lat - avg_lat) + abs(hotel3.lng - avg_lng))
-                            if distance < .1:
-                                print(hotel.name + " - " + hotel2.name + " - " +  hotel3.name)
-                                print(distance)
-                                mappings[hotel.name + " - " + hotel2.name + " - " +  hotel3.name] = distance
+        try:
+            for hotel in hotelList:
+                if hotel.lat == 0.0 or hotel.lng == 0.0:
+                    continue
+                for hotelList2 in list2.values():
+                    for hotel2 in hotelList2:
+                        if hotel2.lat == 0.0 or hotel2.lng == 0.0:
+                            continue
+                        for hotelList3 in list3.values():
+                            for hotel3 in hotelList3:
+                                if hotel3.lat == 0.0 or hotel3.lng == 0.0:
+                                    continue
+                                avg_lat = average_lat_coord(hotel,hotel2,hotel3)
+                                avg_lng = average_lng_coord(hotel,hotel2,hotel3)
+                                distance = max(abs(hotel.lat - avg_lat) + abs(hotel.lng - avg_lng),abs(hotel2.lat - avg_lat) + abs(hotel2.lng - avg_lng),abs(hotel3.lat - avg_lat) + abs(hotel3.lng - avg_lng))
+                                if distance < .1:
+                                    print(hotel.name + " - " + hotel2.name + " - " +  hotel3.name)
+                                    mappings[hotel.name + " - " + hotel2.name + " - " +  hotel3.name] = distance
+                                    raise Exception()
+        except:
+            pass
     mappings = sorted(mappings.values())
     return mappings
+
 
 def average_lat_coord(h1: Hotel, h2:Hotel, h3: Hotel):
     return avg_coord(h1.lat,h2.lat,h3.lat)
@@ -118,6 +125,12 @@ def average_lng_coord(h1: Hotel, h2: Hotel, h3: Hotel):
 
 def avg_coord(first,second,third):
     return (float(first)+float(second)+float(third))/3
+
+def total_hotels(input:dict):
+    output = 0
+    for group in input.values():
+        output = output + len(group)
+    return output
 
 hyattHotels = []
 ihgHotels = []
@@ -130,4 +143,3 @@ marriottHotels = get_hotel_data_from_db('marriott')
 
 for item in find_optimal(hyattHotels,marriottHotels,ihgHotels):
     print(item)
-

@@ -28,6 +28,7 @@ def getHotelInfo(link):
         pass
     hotel.name = soup.select('title')[0].getText()
     hotel.update_from_google()
+    hotel.save_to_db()
     hotels.append(hotel)
     with open('.\\data\\ihg\\ihg.txt', 'a') as f:
         try:
